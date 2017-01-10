@@ -1,3 +1,4 @@
+// @flow
 /* global ActiveXObject: true */
 import { pushUserIdKey } from './Config';
 
@@ -19,8 +20,8 @@ function _getFormData() {
 }
 
 export function fetchUserId() {
-  const uri = 'https://www.hello.com/userid';
-  const xhr = _getXMLHttpRequest();
+  const uri: string = 'https://www.hello.com/userid';
+  const xhr: object = _getXMLHttpRequest();
   let usrId = '';
 
   xhr.open('GET', uri, true);
@@ -32,13 +33,13 @@ export function fetchUserId() {
   };
   xhr.send();
 
-  return usrId;
+  return usrId: string;
 }
 
 export function pushUserId(usrId) {
-  const uri = 'https://www.hello.com/userid';
-  const xhr = _getXMLHttpRequest();
-  const fd = _getFormData();
+  const uri: string = 'https://www.hello.com/userid';
+  const xhr: object = _getXMLHttpRequest();
+  const fd: object = _getFormData();
 
   fd.append(pushUserIdKey, usrId);
   xhr.open('POST', uri, true);
