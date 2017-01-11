@@ -76,7 +76,7 @@
  - アジャイル開発, ウォーターフォール開発, エンタープライズ系ストレージの知識（例：内部の物理・論理構造、ソリューションなど）, AWS, Apatch, atom, Babel, Elastic Search, eslint, flow, git, github, gulp, mocha, nodejs(beginner), npm, phoenix(beginner), reactjs(beginner), react-redux(beginner), webpack, yarn
 
 ### 現年収
-- 570万
+- 640万
 
 ### 希望職
 - Webエンジニア（フロントエンド/バックエンドどちらでも）
