@@ -1,7 +1,7 @@
 # Git Commands[元ネタ](https://www.atlassian.com/git/tutorials/)
 
 ### Setting up系
-- カレントディレクトリ内のバージョン管理開始
+カレントディレクトリ内のバージョン管理開始
 ```
 git init
 ```
