@@ -50,6 +50,10 @@ git commit -m "{message}"
 git commit -a
 ```
 
+変更内容の確認：
+```
+git show {tag}
+```
 
 ### Stash(staged/unstaged両方)系
 変更を退避：
