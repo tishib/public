@@ -23,6 +23,11 @@ git clone {repo} {directory}
 
 
 ### Stage in系
+すべてのファイルをステージング：
+```
+git add .
+```
+
 ファイル単位でステージング：
 ```
 git add {file}
