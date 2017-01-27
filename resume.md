@@ -71,7 +71,7 @@
 - OS
  - Amazon Linux, OS X, Redhat, windows 7/8
 - プログラミング言語
- - ActionScript, CSS3, Elixir(beginner), HTML5, JavaScript, Java, MySQL, MXML, PHP, TypeScript(beginner)
+ - ActionScript, CSS3, Elixir(beginner), HTML5, JavaScript, Java, Markdown, MySQL, MXML, PHP, TypeScript(beginner)
 - その他
  - アジャイル開発, ウォーターフォール開発, エンタープライズ系ストレージの知識（例：内部の物理・論理構造、ソリューションなど）, AWS, Apatch, atom, Babel, Elastic Search, eslint, flow, git, github, gulp, mocha, nodejs(beginner), npm, phoenix(beginner), reactjs(beginner), react-redux(beginner), webpack, yarn
 
