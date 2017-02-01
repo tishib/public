@@ -69,14 +69,55 @@
 
 ### テクニカルスキル
 - OS
- - Amazon Linux, OS X, Redhat, windows 7/8
+ - Amazon Linux
+ - OS X
+ - Redhat
+ - windows 7/8
 - プログラミング言語
- - ActionScript, CSS3, Elixir(beginner), HTML5, JavaScript, Java, Markdown, MySQL, MXML, PHP, TypeScript(beginner)
+ - ActionScript
+ - CSS3
+ - Elixir(beginner)
+ - HTML5
+ - JavaScript
+ - Java
+ - Markdown
+ - MySQL
+ - MXML
+ - PHP
+ - TypeScript(beginner)
 - その他
- - アジャイル開発, ウォーターフォール開発, エンタープライズ系ストレージの知識（例：内部の物理・論理構造、ソリューションなど）, AWS, Apatch, atom, Babel, Elastic Search, eslint, flow, git, github, gulp, mocha, nodejs(beginner), npm, phoenix(beginner), reactjs(beginner), react-redux(beginner), webpack-1.x, yarn
+ - アジャイル開発経験
+ - ウォーターフォール開発経験
+ - エンタープライズ系ストレージの知識(内部の物理・論理構造、ソリューションなど)
+ - AWS-AutoScaling, CM, EC2, Route53
+ - Apatch
+ - atom
+ - Babel
+ - ElasticSearch
+ - eslint
+ - flow
+ - git
+ - github
+ - gulp
+ - mocha(beginner)
+ - nginx(beginner)
+ - nodejs(beginner)
+ - npm
+ - Phoenix(beginner)
+ - reactjs(beginner)
+ - react-redux(beginner)
+ - webpack 1.x
+ - yarn
 
 ### 現年収
 - 600万(交通費+住宅手当+家族手当+給与+賞与)
 
 ### 希望職
 - Webエンジニア（フロントエンド/バックエンドどちらでも）
+
+### 渡航経験
+- 中国-北京, 四川
+- アメリカ-シカゴ
+- イタリア
+- スイス-ジュネーブ
+- フランス
