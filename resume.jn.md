@@ -1,6 +1,14 @@
+<div style="text-align:right;">
+#### 2017年2月　現在
+</div>
+
+
+<div style="text-align:center;">
+### 石橋　貴生
+</div>
+
 ### サマリー
 ⭐️
-
 
 
 ### 略歴
