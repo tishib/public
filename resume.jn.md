@@ -3,7 +3,7 @@
 ### 石橋　貴生
 
 ### サマリー
-⭐️
+\<working progress\>
 
 
 ### 略歴
@@ -21,42 +21,15 @@
 
 | 期間 | 内容 | 役割 | プロジェクト規模、Step数、開発環境、使用技術 |
 |:----|:-----|:----|:-----------------------------|
-|2016年12月〜現在|＜開発＞Hitachi Automation Directorのバージョンアップ。フロントエンドを担当。UI改善をメインで行った。|デベロッパー|10名、Windows、Atom、JIRA、jQuery、HTML5(0.5kstep)、CSS3(0.1kstep)、JavaScript(2kstep)、Git、SourceTree、Jenkins、アジャイル開発|
+|2016年12月〜現在|＜開発＞Hitachi Automation Directorのバージョンアップ。フロントエンドを担当。UI改善をメインで行った。|デベロッパー|10名、Windows、Atom、JIRA、jQuery、HTML5(0.5kstep)、CSS3(0.1kstep)、JavaScript(2kstep)、Git、SourceTree、Jenkins、ウォーターフォール|
 |2016年3月〜12月|＜運用・保守＞東京都庁業務システムのサーバサイドAPPのバージョンアップ。バックエンドを担当。サーバAPPの選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|PL兼SE|8名、Windows、Windows Server 2015、PowerShell(0.2kstep)、JP1、VMWare|
-|2016年1月〜3月|＜開発＞SaaS型HCSのバージョンアップ。バックエンドを担当。NAT環境に対応するための実装を行った。|デベロッパー兼テスター|10名、Windows、Windows server 2013、Redhat、Java(1kstep)、Atom、Git、JIRA、VMWare、アジャイル開発|
-|2015年10月〜2016年1月|＜開発＞国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応機能の実装。バックエンドを担当。AWSのオートスケール機能に対応するための先行検証を行った。|テクニカルアドバイザー兼PL|5名、Windows Server 201x、Redhat 6.x/7.x、JP1、AWS-EC2、AWS-AutoScaling、ウォーターフォール開発|
-|2015年7月〜10月|＜開発＞Hitachi Command Suite（以降HCS）v8.2のUnifiedモデルストレージの対応。バックエンドの実装を担当。|||
-|||||
-|||||
-|||||
-|||||
-
-・デベロッパー、テスター
-・30名、Windows、Git、SourceTree、Eclipce、Java、MySQL、アジャイル開発
-
-・2015年3月〜7月
-・＜開発＞HCS v8.1のノイジーネイバー特定機能のアップグレード
-主にPM補助を担当。進捗管理やIR調整。
-・PM補佐
-・30名、Windows、eclipce、Java、SubVersion、ClearCase、ウォーターフォール開発
-
-・2014年6月〜12月
-・＜開発＞HCS v8.0.1のノイジーネイバー特定機能の実装
-主に上流工程を担当。要件定義と機能に必要なAPIの仕様定義と実装を行った。
-・セールス兼デベロッパー
-・30名、Windows、eclipce、Java、SubVersion、ClearCase、ウォーターフォール開発
-
-・2014年1月〜6月
-・＜開発＞HCS v8.0のストレージのマルチプロセッサブレード分析機能の実装
-主にフロントエンドを担当。チャートといった分析に必要なUIを実装した。
-・デベロッパー
-・40名、Windows、eclipce、ActionScript、MXML、SubVersion、ClearCase、ウォーターフォール開発
-
-・2013年9月〜2014年1月
-・＜開発＞HCS v7.9のREST API機能の実装
-主にバックエンドを担当。APIが利用するためのデータベースの設計とORMの実装を行った。
-・デベロッパー
-・50名、Windows、eclipce、Java、MySQL、SubVersion、ClearCase、ウォーターフォール開発
+|2016年1月〜3月|＜開発＞SaaS型HCSのバージョンアップ。バックエンドを担当。NAT環境に対応するための実装を行った。|デベロッパー兼テスター|10名、Windows、Windows server 2013、Redhat、Java(1kstep)、Atom、Git、JIRA、VMWare、アジャイル|
+|2015年10月〜2016年1月|＜開発＞国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応機能の追加。バックエンドを担当。AWSのオートスケール機能に対応するための先行検証を行った。|テクニカルアドバイザー兼PL|5名、Windows Server 201x、Redhat 6.x/7.x、JP1、AWS-EC2、AWS-AutoScaling、ウォーターフォール|
+|2015年7月〜10月|＜開発＞Hitachi Command Suite（以降HCS）v8.2のUnifiedモデルストレージ対応の修正。バックエンドの実装を担当。ファイルシステムのOS用ブロックストレージを保護するための処理を検討・実装した。|デベロッパー兼テスター|20名、Windows、Git、SourceTree、Eclipce、Java(1kstep)、アジャイル|
+|2015年3月〜7月|＜PM＞HCS v8.1のノイジーネイバー特定機能のアップグレード。PM補佐を担当。進捗管理、予算管理、外部チームとのIR調整を行った。|PM|-|
+|2014年6月〜12月|＜開発＞HCS v8.0.1のノイジーネイバー特定機能の追加。上流工程を担当。要件定義と機能に必要なAPIの仕様定義・実装を行った。|セールス兼デベロッパー|30名、Windows、eclipce、SubVersion、ClearCase、Java(0.5kstep)、ウォーターフォール|
+|2014年1月〜6月|＜開発＞HCS v8.0のストレージのマルチプロセッサブレード分析機能の追加。フロントエンドを担当。グラフチャートといった分析用のUIを実装した。|デベロッパー兼テスター|40名、Windows、eclipce、SubVersion、ClearCase、ActionScript(0.7kstep)、MXML(0.5kstep)、ウォーターフォール|
+|2013年9月〜2014年1月|＜開発＞HCS v7.9のREST API機能の追加。バックエンドを担当。API用のデータベースの設計とORMの実装を行った。|デベロッパー|50名、Windows、eclipce、SubVersion、ClearCase、Java(0.5kstep)、MySQL(0.3kstep)、ウォーターフォール|
 
 
 ### テクニカルスキル(業務またはプライベート開発で１年以上使っているもの)
@@ -79,16 +52,16 @@
 |1年未満|Action Script, Elixir, flow, Markdown, mocha, MXML, nodejs, nginx, Phoenix, reactjs, react-redux, Type Script, Tomcat, Ubuntu, yarn|
 
 ### 資格
-- HSK 2級
+- 中国語検定 HSK 2級
 
 ### 最終学歴
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月　卒業
 
 ### その他
-社内向け検索エンジンを作成
-- 規模: 5kstep
-- 使った技術: HTML5, Java, Tomcat, TiddlyWiki
+| 期間 | 内容 | 開発環境 |
+|:-----|:----|:---------|
+|2016年11月～現在|某ベンチャーのスクレーピング機能の実装|HTML5(0.3kstep), JavaScript(0.5kstep), PHP(0.5kstep)|
+|2016年2月～4月|某ベンチャーのECサイト(プロトタイプ)のPaypal決済機能の実装|HTML5(0.5kstep), JavaScript(0.5kstep), PHP(1kstep), Paypal API, AWS|
+|2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|HTML5(1kstep), JavaScript(7kstep), CSS3(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
+|2015年6月～9月|社内向け検索エンジンを作成|HTML5(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
 
-プライベートストリーミングサイトをリリース
-- 規模: 10kstep
-- 使った技術: HTML5, JavaScript, CSS3, MySQL, PHP, AWS
