@@ -56,7 +56,7 @@
 |1年未満|Action Script, Elixir, flow, Markdown, mocha, MXML, nodejs, nginx, Phoenix, reactjs, react-redux, Type Script, Tomcat, Ubuntu, yarn|
 
 ### 資格
-- 中国語検定 HSK 2級
+中国語検定 HSK 2級
 
 ### 最終学歴
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月　卒業
