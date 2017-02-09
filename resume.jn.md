@@ -19,7 +19,7 @@
 
 株式会社　日立製作所　（2013年４月〜現在）
 
-| 期間 | 内容 | 役割 | プロジェクト規模、Step数、開発環境、使用技術 |
+| 期間 | 内容 | 役割 | プロジェクト規模、開発環境、使用技術(Step数) |
 |:----|:-----|:----|:-----------------------------|
 |2016年12月〜現在|＜開発＞Hitachi Automation Directorのバージョンアップ。フロントエンドを担当。UI改善をメインで行った。|デベロッパー|10名、Windows、Atom、JIRA、jQuery、HTML5(0.5kstep)、CSS3(0.1kstep)、JavaScript(2kstep)、Git、SourceTree、Jenkins、ウォーターフォール|
 |2016年3月〜12月|＜運用・保守＞東京都庁業務システムのサーバサイドAPPのバージョンアップ。バックエンドを担当。サーバAPPの選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|PL兼SE|8名、Windows、Windows Server 2015、PowerShell(0.2kstep)、JP1、VMWare|
