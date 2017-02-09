@@ -60,8 +60,8 @@
 ### その他
 | 期間 | 内容 | 開発環境 |
 |:-----|:----|:---------|
-|2016年11月～現在|某ベンチャーのスクレーピング機能の実装|HTML5(0.3kstep), JavaScript(0.5kstep), PHP(0.5kstep)|
-|2016年2月～4月|某ベンチャーのECサイト(プロトタイプ)のPaypal決済機能の実装|HTML5(0.5kstep), JavaScript(0.5kstep), PHP(1kstep), Paypal API, AWS|
-|2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|HTML5(1kstep), JavaScript(7kstep), CSS3(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
+|2016年11月～現在|某ベンチャーのスクレーピング機能の実装|Git, Github, Atom, HTML5(0.3kstep), JavaScript(0.5kstep), PHP(0.5kstep), CURL|
+|2016年2月～4月|某ベンチャーのECサイト(プロトタイプ)のPaypal決済機能の実装|Git, Github, Atom, HTML5(0.5kstep), JavaScript(0.5kstep), PHP(1kstep), Paypal API, AWS|
+|2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|Git, Github, Atom, HTML5(1kstep), JavaScript(7kstep), CSS3(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
 |2015年6月～9月|社内向け検索エンジンを作成|HTML5(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
 
