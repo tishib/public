@@ -62,6 +62,8 @@
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月　卒業
 
 ### その他
+
+主な個人開発内容
 | 期間 | 内容 | 開発環境 |
 |:-----|:----|:---------|
 |2017年～現在|チャットサービスの開発(NDMにより概要のみ)|Git, Github, Atom, Eslint, babel, flow, webpack1.x, gulp, Phoenix, JavaScript(0.5kstep), Elixir(1kstep), MySQL(0.2kstep), nginx, AWS, Ubuntu|
@@ -71,3 +73,4 @@
 |2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|Git, Github, Atom, HTML5(1kstep), JavaScript(7kstep), CSS3(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
 |2015年6月～9月|社内向け検索エンジンを作成|HTML5(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
 
+現在の年収　580万
