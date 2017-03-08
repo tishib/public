@@ -53,7 +53,7 @@
 |バンドルツール|webpack 1.x|
 |チャットツール|gitter, slack|
 |ローカルCIツール|eslint|
-|1年未満|Action Script, Elixir, flow, Markdown, mocha, MXML, nodejs, nginx, Phoenix, reactjs, react-redux, Type Script, Tomcat, Ubuntu, yarn|
+|1年未満|Action Script, Elixir, flow, Markdown, mocha, MXML, nodejs, nginx, Phoenix, Python3, reactjs, react-redux, Type Script, Tomcat, Ubuntu, yarn|
 
 ### 資格
 中国語検定 HSK 2級
