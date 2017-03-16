@@ -39,7 +39,7 @@
 ### テクニカルスキル(業務または個人開発で１年以上使っているものを区分)
 
 | 区分 | 内容 |
-|:----|:-----|
+|:-----------|:-----|
 |クライアントサイド|OS X, Windows, CSS3, HTML5, JavaScript(ES2015,2016,2017)|
 |サーバサイド|Amazon Linux, Java7, MySQL, PHP5, Apatch|
 |PaaS|AWS(Auto Scaling, CM, EC2, ELB, Route53)|
