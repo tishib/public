@@ -74,6 +74,4 @@
 |2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|Git, Github, Atom, HTML5(1kstep), JavaScript(7kstep), CSS3(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
 |2015年6月～9月|社内向け検索エンジンを作成|HTML5(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
 
-- 現在の年収：580万
-
 - 興味のあるプロダクトの種類：SNS
