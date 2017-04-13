@@ -26,7 +26,7 @@
 | 期間 | 内容 | 役割 | プロジェクト規模、開発環境、使用技術(Step数) |
 |:----|:-----|:----|:-----------------------------|
 |2016年12月〜現在|＜開発＞Hitachi Automation Directorのバージョンアップ。フロントエンドを担当。UI改善をメインで行った。|デベロッパー|10名、Windows、Atom、JIRA、jQuery、HTML5(0.5kstep)、CSS3(0.1kstep)、JavaScript(2kstep)、Git、SourceTree、Jenkins、ウォーターフォール|
-|2016年3月〜12月|＜運用・保守＞東京都庁業務システムのサーバサイドAPPのバージョンアップ。バックエンドを担当。サーバAPPの選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|PL兼SE|8名、Windows、Windows Server 2015、PowerShell(0.2kstep)、JP1、VMWare|
+|2016年3月〜12月|＜運用・保守＞自治体の業務システムのサーバサイドAPPのバージョンアップ。バックエンドを担当。サーバAPPの選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|PL兼SE|8名、Windows、Windows Server 2015、PowerShell(0.2kstep)、JP1、VMWare|
 |2016年1月〜3月|＜開発＞SaaS型HCSのバージョンアップ。バックエンドを担当。NAT環境に対応するための実装を行った。|デベロッパー兼テスター|10名、Windows、Windows server 2013、Redhat、Java(1kstep)、Atom、Git、JIRA、VMWare、アジャイル|
 |2015年10月〜2016年1月|＜開発＞国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応機能の追加。バックエンドを担当。AWSのオートスケール機能に対応するための先行検証を行った。|テクニカルアドバイザー兼PL|5名、Windows Server 201x、Redhat 6.x/7.x、JP1、AWS-EC2、AWS-AutoScaling、ウォーターフォール|
 |2015年7月〜10月|＜開発＞Hitachi Command Suite（以降HCS）v8.2のUnifiedモデルストレージ対応の修正。バックエンドの実装を担当。ファイルシステムのOS用ブロックストレージを保護するための処理を検討・実装した。|デベロッパー兼テスター|20名、Windows、Git、SourceTree、Eclipce、Java(1kstep)、アジャイル|
