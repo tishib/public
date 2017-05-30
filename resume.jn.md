@@ -41,19 +41,19 @@
 | 区分 | 内容 |
 |:-----------|:-----|
 |クライアントサイド|OS X, Windows, CSS3, HTML5, JavaScript(ES2015,2016,2017)|
-|サーバサイド|Amazon Linux, Java7, MySQL, PHP5, Apatch|
+|サーバサイド|Amazon Linux, Java7, MySQL, PHP5, Apatch, NodeJS|
 |PaaS|AWS(Auto Scaling, CM, EC2, ELB, Route53)|
 |エディタ|Atom, Eclipce, SublineText|
 |OSS|ElasticSearch|
 |プロジェクト管理|JIRA|
 |バージョン管理|ClearCase, Git, Github|
 |パッケージ管理|npm|
-|圧縮|gulp|
+|タスクランナー|gulp|
 |トランスコンパイル|babel|
 |バンドル|webpack 1.x|
 |チャット|gitter, slack|
 |ローカルCI|eslint|
-|1年未満|Action Script, Elixir, flow, Markdown, mocha, MXML, nodejs, nginx, Phoenix, Python3, reactjs, react-redux, Type Script, Tomcat, Ubuntu, yarn|
+|1年未満|Action Script, Elixir, flow, Markdown, mocha, MXML, nginx, Phoenix, Python3, reactjs, react-redux, Type Script, Tomcat, Ubuntu, yarn|
 
 ### 資格
 中国語検定 HSK 2級
