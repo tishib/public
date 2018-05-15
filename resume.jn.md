@@ -20,6 +20,20 @@
 
 
 ### 主な職務内容
+株式会社　Reaktor Japan(2017年5月〜現在)
+
+
+| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
+|:----|:-----|:----|:-----------------------------|:-----|:-------|:-----|
+|2018 3月〜present|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, Github, HTML, Java, Jest, Mocha, MySQL, NodeJS, OS X, ReactJS, Redux, Boan Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
+|2018 4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2、パートナー 3、Reaktor 3)|Rapid Application Development、1 week/sprint、リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello|
+|2017 11月〜2018 4月|モバイル、Web、データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|19名(クライアント 10、パートナー 3、Reaktor 6)|Rapid Application Development、3 weeks/sprint、リモート|AWS, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BsizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker-compose, Git, Github, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, OS X, Object C, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Boan Shell, Slack, Trello, TypeScript, VSCode, Xcode, gnuplot, iOS, npm, numpy, panda, yarn, 統計学|
+|2017 10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development、1 week/sprint、オンサイト|AWS, Apache Superset, Docker, Docker-compose, Git, Github, MySQL, OS X, Redis, Boan Shell, Slack, Trello, Ubuntu, VSCode, npm, yarn|
+|2017 9月〜10月|Unity|某VRプロジェクトの接続問題の調査とMVPの開発|エンジニア|7名(クライアント 3、Reaktor 4)|Rapid Application Development、1 week/sprint、リモート|AWS, GameLift, Lumberyard, OS X, Stream VR, Trello, UDP Protocol, Ubuntsu, Unity, User Story Board, VSCode|
+|2017 7月〜9月|モバイル|Bluetooth Low Energy接続問題の調査とMVPの開発|サブアカウントマネージャー、リードエンジニア|5名(クライアント 2、Reaktor 3)|Rapid Application Development、1 weeks/sprint、リモート|AWS, Android, Android Studio, Angular, BoanShell, BsizeSDK, ChartJS, Chrome Dev Tool, Chrome Inspect, Cordova, DeployGate, GemTotSDK, Git, GitBucket, Github, Grunt, HTML, Java, MySQL, NodeJS, OS X, Object C, Redhat, Slack, Trello, TypeScript, VSCode, Xcode, iOS, noble, npm, yarn|
+|2017 5月〜7月|モバイル|某ポイントチャージアプリへの新機能の追加、位置情報とホットペッパーグルメAPIを使った周辺店舗情報の表示機能|エンジニア|24名(クライアント 10、クライアントのIT部門 2、パートナー 5、Reaktor 7)|Rapid Application Development、Scrum Development、2 weeks/sprint、オンサイト|AWS, Android, Angular, Chrome Dev Tool, Chrome Inspect, Cordova, CSS, Data Stusio, DeployGate, Git, Github, Google Analytics, Grunt, HTML, Istanble, JavaScript, Kanban, Mocha, NodeJS, OS X, OnsenUI, PhantomJS, Redhat, Slack, TypeScript, VSCode, Xcode, iOS, loadtest, npm, supertest, yarn, ワイヤーフレーム(or Customer ジャーニーマップ), ペーパープロトタイプ|
+
+
 
 株式会社　日立製作所　（2013年４月〜現在）
 
