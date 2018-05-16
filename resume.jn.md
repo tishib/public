@@ -51,28 +51,27 @@
 |2013年9月〜2014年1月|ソフトウェア|HCS v7.9のREST API機能の開発にて、APIサーバのDB設計、ORMの実装を行なった。|エンジニア|50名|ウォーターフォール|Windows, eclipce, SubVersion, ClearCase, Java, MySQL|
 
 
-### テクニカルスキル(1年以上/1年未満、業務または個人開発で使ってるもの)
+### テクニカルスキル(1年以上/1年未満の業務/個人開発で使ったもの)
 
-| 分類 | 内容 |
-|:-----------|:-----|
-|プラットフォーム|macOS(main), Windows, Redhat(main)|
-|クライアントサイド|ReactJS(main), Flux(main), Redux, CSS, HTML, JavaScript, TypeScript(main)|
-|サーバサイド|Java, MySQL, PHP, Apatch, NodeJS(main), ExpressJS(main)|
-|PaaS|AWS|
-|エディタ|Atom, Eclipce, SublineText, VSCode(main), vi(main)|
-|OSS|ElasticSearch, Superset|
-|プロジェクト管理|Kanban(main), Trello|
-|アジャイル|Scrum(main), RAD|
-|バージョン管理|ClearCase, Git(main), GitHub(main)|
-|パッケージ管理|npm, yarn(main)|
-|タスクランナー|gulp|
-|トランスコンパイル|babel(main)|
-|バンドル|Webpack(main)|
-|チャット|gitter, slack(main)|
-|ローカルCI|eslint|
-|仮想化|Docker(main), Docker Compose(main)|
-|その他|Shell|
-|1年未満|ObjectC, nginx, BootStrap, Go, Action Script, Grunt, XP, WebRTC, Android, iOS, Terraform, Service Worker, Unity, JIRA, Elixir, flow, Angular, Cordova, OnsenUI, Markdown, GitBucket, mocha, MXML, nginx, Phoenix, Python, Tomcat, Ubuntu, yarn|
+| 分類 | 1年以上 | 1年未満 |
+|:-----------|:-----|:-------|
+|プラットフォーム|macOS(main), Windows, Redhat(main)|Android, iOS, Ubuntu|
+|クライアントサイド|ReactJS(main), Flux(main), Redux, CSS, HTML, JavaScript, TypeScript(main), Markdown|Jest, PhantomJS, Grunt, MXML, Bootstrap, Action Script, WebRTC,Service Worker, flow, Angular, Cordova, ObjectC, OnsenUI|
+|サーバサイド|Java, MySQL, PHP, Apatch, NodeJS(main), ExpressJS(main)|Unity, supertest, mocha, istanble, nginx, Go, Elixir, Phoenix, Python, Tomcat|
+|PaaS|AWS|-|
+|エディタ|Atom, Eclipce, SublineText, VSCode(main), vi(main)|Android Studio|
+|OSS|ElasticSearch, Superset|-|
+|プロジェクト管理|Kanban(main), Trello(main)|JIRA|
+|開発環境|Scrum(main), RAD, Waterfall|XP|
+|バージョン管理|ClearCase, Git(main), GitHub(main)|GitBucket, SubVersion|
+|パッケージ管理|npm, yarn(main)|-|
+|タスクランナー|gulp|Grunt|
+|トランスコンパイル|babel(main)|-|
+|バンドル|Webpack(main)|-|
+|チャット|gitter, slack(main)|-|
+|ローカルCI|eslint|-|
+|仮想化|-|Docker(main), Docker Compose(main)|
+|その他|Shell|Terraform|
 
 ### 資格
 中国語検定 HSK 2級
@@ -92,4 +91,4 @@
 |2016年2月～現在|SNSの開発(NDMにより概要のみ)|Git, GitHub, Atom, Eslint, babel, flow, webpack1.x, gulp, HTML(1kstep), JavaScript(10kstep), PHP(5kstep), MySQL(1kstep), AWS, ElasticSearch, Amazon Linux|
 |2016年2月～4月|某ベンチャーのECサイト(プロトタイプ)のPaypal決済機能の実装|Git, GitHub, Atom, HTML(0.5kstep), JavaScript(0.5kstep), PHP(1kstep), Paypal API, AWS|
 |2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|Git, GitHub, Atom, HTML(1kstep), JavaScript(7kstep), CSS(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
-|2015年6月～9月|社内向け検索エンジンを作成|HTML(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
+u2015年6月～9月|社内向け検索エンジンを作成|HTML(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
