@@ -1,31 +1,32 @@
-#### 2017年2月　現在
+#### 2018年5月　現在
 
 
 ### 石橋　貴生
 
 
-### サマリ
-フロントエンドとバックエンドの両方で、大規模から小規模までの、ウォーターフォール開発またはアジャイル開発の経験があります。
-また、エンジニアとしての市場価値向上のため、業務時間外で、新しいテクノロジーまたはトレンドテクノロジーを使ったミニマムプロダクトを製作しています。
-そして、将来独立することも視野に、アドバイザーまたはデベロッパーとして、スタートアップと積極的に関わっています。
+### 概要
+業務経験は計5年になり、行政や国鉄のような大規模クライアントシステム向けのクライアント/サーバプロダクトのウォーターフォール/スクラム開発を3年、自治体のような大規模業務システムの開発/運用/保守を1年、モバイルやWeb、ビックデータ分析といった中/小規模プロダクトのスクラム+ラピッドアプリ開発を1年です。
+また、知人のスタートアップやサイドプロジェクトにて小規模なWeb開発を1年しています。
+学生時代は、スイスのCERNやUSAのFermi Labにて、それぞれ3ヶ月程度、物理学の研究活動をしていました。
 
 
 ### 略歴
-
 | 期間 | 内容 |
 |:----|:----|
-|2013年3月|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　配属|
-|2016年3月|（株）日立製作所　公共システム本部　有期異動|
-|2016年12月|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　帰属　（現在）|
-
+|2017年 5月〜現在|（株）Reaktor Japan|
+|2017年 2月〜2017年 4月|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　帰属|
+|2016年 3月〜2017年 1月|（株）日立製作所　公共システム本部　有期異動|
+|2013年 4月〜2016年 2月|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　配属|
+|2012年 7月〜2012年 10月| Fermi Lab |
+|2012年 1月〜2012年 3月| CERN |
+|2011年 4月〜2013年 3月| 筑波大学　数理物質科学研究科　物理学専攻 |
 
 ### 主な職務内容
-株式会社　Reaktor Japan(2017年5月〜現在)
-
+（株）　Reaktor Japan
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:----|:-----|:----|:-----------------------------|:-----|:-------|:-----|
-|2018 3月〜present|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, Github, HTML, Java, Jest, Mocha, MySQL, NodeJS, OS X, ReactJS, Redux, Boan Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
+|2018 3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, Github, HTML, Java, Jest, Mocha, MySQL, NodeJS, OS X, ReactJS, Redux, Boan Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
 |2018 4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2、パートナー 3、Reaktor 3)|Rapid Application Development、1 week/sprint、リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello|
 |2017 11月〜2018 4月|モバイル、Web、データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|19名(クライアント 10、パートナー 3、Reaktor 6)|Rapid Application Development、3 weeks/sprint、リモート|AWS, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BsizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker-compose, Git, Github, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, OS X, Object C, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Boan Shell, Slack, Trello, TypeScript, VSCode, Xcode, gnuplot, iOS, npm, numpy, panda, yarn, 統計学|
 |2017 10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development、1 week/sprint、オンサイト|AWS, Apache Superset, Docker, Docker-compose, Git, Github, MySQL, OS X, Redis, Boan Shell, Slack, Trello, Ubuntu, VSCode, npm, yarn|
@@ -81,11 +82,10 @@
 
 | 期間 | 内容 | 開発環境 |
 |:-----|:----|:---------|
+|2018 3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, Github, HTML, Java, Jest, Mocha, MySQL, NodeJS, OS X, ReactJS, Redux, Boan Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
 |2017年～現在|チャットサービスの開発(NDMにより概要のみ)|Git, Github, Atom, Eslint, babel, flow, webpack1.x, gulp, Phoenix, JavaScript(0.5kstep), Elixir(1kstep), MySQL(0.2kstep), nginx, AWS, Ubuntu|
 |2016年11月～現在|某ベンチャーのスクレーピング機能の実装|Git, Github, Atom, HTML5(0.3kstep), JavaScript(0.5kstep), PHP(0.5kstep), CURL|
 |2016年2月～現在|SNSの開発(NDMにより概要のみ)|Git, Github, Atom, Eslint, babel, flow, webpack1.x, gulp, HTML5(1kstep), JavaScript(10kstep), PHP(5kstep), MySQL(1kstep), AWS, ElasticSearch, Amazon Linux|
 |2016年2月～4月|某ベンチャーのECサイト(プロトタイプ)のPaypal決済機能の実装|Git, Github, Atom, HTML5(0.5kstep), JavaScript(0.5kstep), PHP(1kstep), Paypal API, AWS|
 |2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|Git, Github, Atom, HTML5(1kstep), JavaScript(7kstep), CSS3(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
 |2015年6月～9月|社内向け検索エンジンを作成|HTML5(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
-
-- 興味のあるプロダクトの種類：SNS
