@@ -26,7 +26,7 @@
 （株）Reaktor Japan
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:----|:-----|:----|:-----------------------------|:-----|:-------|:-----|
+|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
 |2018年4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2、パートナー 3、Reaktor 3)|Rapid Application Development、1 week/sprint、リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, VSCode|
 |2017年 11月〜2018 4月|モバイル、Web、データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|19名(クライアント 10、パートナー 3、Reaktor 6)|Rapid Application Development、3 weeks/sprint、リモート|AWS, AWS CLI, ElasticBeansTalk CLI, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BsizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker Compose, Git, GitHub, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, macOS, ObjectC, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Shell, Slack, Trello, TypeScript, VSCode, Xcode, gnuplot, iOS, npm, numpy, panda, yarn, 統計学|
 |2017年10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development、1 week/sprint、オンサイト|AWS, Apache Superset, Docker, Docker Compose, Git, GitHub, MySQL, macOS, Redis, Shell, Slack, Trello, Ubuntu, VSCode, npm, yarn|
@@ -39,7 +39,7 @@
 （株）日立製作所
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:----|:-----|:-----|:----|:-----------------------------|:----------------|:--------------|
+|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
 |2017年1月〜4月|Web|Hitachi Automation Directorの開発にて、プロトタイプ作成とクライアントサイドのUX/UI改善を行った。|エンジニア|10名|スクラム、2 weeks/sprint|Windows, Atom, JIRA, jQuery, HTML, CSS, JavaScript, Git, SourceTree, Jenkins|
 |2016年3月〜12月|システム|某自治体業務システムのサーバサイドの保守開発にて、製品/技術選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|プロジェクトリーダー、システムエンジニア|8名|ウォーターフォール|Windows, Windows Server 2015, PowerShell, JP1, VMWare|
 |2016年1月〜2月|ソフトウェア|SaaS型HCSの開発にて、サーバーサイドのNAT環境対応を行った。|エンジニア|10名|スクラム、2 weeks/sprint|Windows, Windows server 2013, Redhat, Java, Atom, Git, JIRA, VMWare|
