@@ -98,5 +98,6 @@ Welcom the issue
 |2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|ウォーターフォール|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
 
 ### その他
+- GitHub Account Name: takaki-ishibashi, takaki-ishibashi2
 - 趣味：ヒップホップダンス、バスケット、ツーリング、異文化交流、Ethreum meetup、プログラミング、株取引
 - 興味：Blockchain、DAAP、スマートコントラクト、Machine Learning、AIエンジニアリング、関数型プログラミング、OSS、量子コンピューティング、Q#、DNAメモリ、人口問題、マルチリンガル、宗教(神道)、漢方(beginner yet)、ホワイトハッキング(beginner yet)
