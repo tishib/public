@@ -82,7 +82,7 @@
 ### プライベートプロジェクトの履歴
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:-----|:----|:---------|:----------|:---------|:---------|:----------|
+|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
 |2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, macOS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
 |2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|スクラム、2 weeks/sprint、リモート|Git, GitHub, Atom, Eslint, babel, flow, webpack, gulp, Phoenix, JavaScript, Elixir, MySQL, nginx, AWS, Ubuntu|
 |2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|スクラム、2 weeks/sprint、リモート&オンサイト|Git, GitHub, Atom, HTML, JavaScript, PHP, CURL|
