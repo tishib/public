@@ -14,12 +14,12 @@
 | 期間 | 内容 |
 |:----|:----|
 |2017年（12ヶ月）現在|（株）Reaktor Japan |
-|2017年（2ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　帰属 |
-|2016年（10ヶ月）|（株）日立製作所　公共システム本部　有期異動 |
-|2013年（22ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　配属 |
+|2017年（3ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　帰属 |
+|2016年（9ヶ月）|（株）日立製作所　公共システム本部　有期異動 |
+|2013年（36ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　配属 |
 |2012年（3ヶ月）| Fermi Lab |
 |2012年（3ヶ月）| CERN |
-|2011年（24ヶ月）| 筑波大学　数理物質科学研究科　物理学専攻 |
+|2011年（18ヶ月）| 筑波大学　数理物質科学研究科　物理学専攻 |
 
 
 ### 職務履歴
@@ -40,12 +40,12 @@
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:----|:-----|:-----|:----|:-----------------------------|:----------------|:--------------|
-|2016年12月〜4月|Web|Hitachi Automation Directorの開発にて、プロトタイプ作成とクライアントサイドのUX/UI改善を行った。|エンジニア|10名|スクラム、2 weeks/sprint|Windows, Atom, JIRA, jQuery, HTML, CSS, JavaScript, Git, SourceTree, Jenkins|
+|2017年1月〜4月|Web|Hitachi Automation Directorの開発にて、プロトタイプ作成とクライアントサイドのUX/UI改善を行った。|エンジニア|10名|スクラム、2 weeks/sprint|Windows, Atom, JIRA, jQuery, HTML, CSS, JavaScript, Git, SourceTree, Jenkins|
 |2016年3月〜12月|システム|某自治体業務システムのサーバサイドの保守開発にて、製品/技術選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|プロジェクトリーダー、システムエンジニア|8名|ウォーターフォール|Windows, Windows Server 2015, PowerShell, JP1, VMWare|
-|2016年1月〜3月|ソフトウェア|SaaS型HCSの開発にて、サーバーサイドのNAT環境対応を行った。|エンジニア|10名|スクラム、2 weeks/sprint|Windows, Windows server 2013, Redhat, Java, Atom, Git, JIRA, VMWare|
+|2016年1月〜2月|ソフトウェア|SaaS型HCSの開発にて、サーバーサイドのNAT環境対応を行った。|エンジニア|10名|スクラム、2 weeks/sprint|Windows, Windows server 2013, Redhat, Java, Atom, Git, JIRA, VMWare|
 |2015年10月〜2016年1月|ソフトウェア|国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応機能の開発にて、先行検証とプロジェクトマネジメントを行った。|プロジェクトリーダー、テクニカルアドバイザー|5名|ウォーターフォール|Windows Server 201x, Redhat 6.x/7.x, JP1, AWS, Power Shell|
 |2015年7月〜10月|ソフトウェア|Hitachi Command Suite（以降HCS）v8.2のUnifiedモデルストレージ対応にて、商用ストレージのファイルシステムOS用ブロックを保護する機能の検討/実装を行った。|エンジニア|20名|スクラム、 3 weeks/sprint|Windows, Git, SourceTree, Eclipce, Java, VSP1000|
-|2015年3月〜7月|ソフトウェア|HCS v8.1のノイジーネイバー特定機能の開発フェーズ2にて、プロジェクトマネジメント、予算管理、外部チームとのIR調整を行った。|プロジェクトリーダーサポート|ウォーターフォール|-|
+|2015年3月〜7月|ソフトウェア|HCS v8.1のノイジーネイバー特定機能の開発フェーズ2にて、プロジェクトマネジメント、予算管理、外部チームとのIR調整を行った。|プロジェクトサポート|20名|ウォーターフォール|-|
 |2014年6月〜12月|ソフトウェア|HCS v8.0.1のノイジーネイバー特定機能の開発フェーズ1にて、上流工程のマネジメント、要件定義、APIの仕様定義/実装を行った。|セールス、プロジェクトリーダー、エンジニア|30名|ウォーターフォール|Windows, eclipce, SubVersion, ClearCase, Java|
 |2014年1月〜6月|ソフトウェア|HCS v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能の開発にて、クライアントサイドのグラフチャートやリソースリストといった分析用のUIの実装を行なった。|エンジニア|40名|ウォーターフォール|Windows, eclipce, SubVersion, ClearCase, ActionScript, MXML|
 |2013年9月〜2014年1月|ソフトウェア|HCS v7.9のREST API機能の開発にて、APIサーバのDB設計、ORMの実装を行なった。|エンジニア|50名|ウォーターフォール|Windows, eclipce, SubVersion, ClearCase, Java, MySQL|
@@ -83,8 +83,8 @@
 
 - 主な個人開発の内容
 
-| 期間 | 内容 | 開発環境 |
-|:-----|:----|:---------|
+| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
+|:-----|:----|:---------|:----------|:---------|:---------|:----------|
 |2018 3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, macOS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
 |2017年～現在|チャットサービスの開発(NDMにより概要のみ)|Git, GitHub, Atom, Eslint, babel, flow, webpack1.x, gulp, Phoenix, JavaScript(0.5kstep), Elixir(1kstep), MySQL(0.2kstep), nginx, AWS, Ubuntu|
 |2016年11月～現在|某ベンチャーのスクレーピング機能の実装|Git, GitHub, Atom, HTML(0.3kstep), JavaScript(0.5kstep), PHP(0.5kstep), CURL|
