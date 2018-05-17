@@ -71,7 +71,7 @@
 |チャット|gitter, slack(main)|-|
 |ローカルCI|eslint|-|
 |仮想化|-|Docker(main), Docker Compose(main)|
-|その他|Shell|Terraform|
+|その他|Shell|AWS CLI(main), ElasticBeansTalk CLI, Terraform|
 
 ### 資格
 中国語検定 HSK 2級
