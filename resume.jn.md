@@ -6,7 +6,7 @@
 
 ### 概要
 業務経験は計5年です。行政や国鉄のような大規模クライアントシステム向けのクライアント/サーバプロダクトのウォーターフォール/スクラム開発を3年、自治体のような大規模業務システムの開発/運用/保守を1年、モバイルやWeb、ビックデータ分析といった中/小規模プロダクトのスクラム+ラピッドアプリ開発を1年です。
-また、知人のスタートアップやサイドプロジェクトにて小規模なWeb開発を1年しています。
+また、知人のスタートアップや個人開発にて、小規模なWeb開発を1年しています。
 学生時代は、スイスのCERNやUSAのFermi Labにて、素粒子物理学の研究活動をしていました。
 
 
@@ -27,12 +27,12 @@
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:----|:-----|:----|:-----------------------------|:-----|:-------|:-----|
-|2018 4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2、パートナー 3、Reaktor 3)|Rapid Application Development、1 week/sprint、リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, VSCode|
-|2017 11月〜2018 4月|モバイル、Web、データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|19名(クライアント 10、パートナー 3、Reaktor 6)|Rapid Application Development、3 weeks/sprint、リモート|AWS, AWS CLI, ElasticBeansTalk CLI, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BsizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker Compose, Git, GitHub, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, macOS, ObjectC, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Shell, Slack, Trello, TypeScript, VSCode, Xcode, gnuplot, iOS, npm, numpy, panda, yarn, 統計学|
-|2017 10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development、1 week/sprint、オンサイト|AWS, Apache Superset, Docker, Docker Compose, Git, GitHub, MySQL, macOS, Redis, Shell, Slack, Trello, Ubuntu, VSCode, npm, yarn|
-|2017 9月〜10月|Unity|某VRプロジェクトの接続問題の調査とMVPの開発|エンジニア|7名(クライアント 3、Reaktor 4)|Rapid Application Development、1 week/sprint、リモート|AWS, GameLift, Lumberyard, macOS, Stream VR, Trello, UDP Protocol, Ubuntsu, Unity, User Story Board, VSCode|
-|2017 7月〜9月|モバイル|Bluetooth Low Energy接続問題の調査とMVPの開発|サブアカウントマネージャー、リードエンジニア|5名(クライアント 2、Reaktor 3)|Rapid Application Development、1 weeks/sprint、リモート|AWS, Android, Android Studio, Angular, Shell, BSizeSDK, ChartJS, Chrome Dev Tool, Chrome Inspect, Cordova, DeployGate, GemTotSDK, Git, GitBucket, GitHub, Grunt, HTML, Java, MySQL, NodeJS, macOS, ObjectC, Redhat, Slack, Trello, TypeScript, VSCode, Xcode, iOS, noble, npm, yarn|
-|2017 5月〜7月|モバイル|某ポイントチャージアプリへの新機能の追加、位置情報とホットペッパーグルメAPIを使った周辺店舗情報の表示機能|エンジニア|24名(クライアント 10、クライアントのIT部門 2、パートナー 5、Reaktor 7)|Rapid Application Development、Scrum Development、2 weeks/sprint、オンサイト|AWS, Android, Angular, Chrome Dev Tool, Chrome Inspect, Cordova, CSS, Data Stusio, DeployGate, Git, GitHub, Google Analytics, Grunt, HTML, Istanble, JavaScript, Kanban, Mocha, NodeJS, OpenVPN, OS X, OnsenUI, PhantomJS, Redhat, Slack, TypeScript, VSCode, Xcode, iOS, loadtest, npm, supertest, yarn, ワイヤーフレーム(or Customer ジャーニーマップ), ペーパープロトタイプ|
+|2018年4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2、パートナー 3、Reaktor 3)|Rapid Application Development、1 week/sprint、リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, VSCode|
+|2017年 11月〜2018 4月|モバイル、Web、データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|19名(クライアント 10、パートナー 3、Reaktor 6)|Rapid Application Development、3 weeks/sprint、リモート|AWS, AWS CLI, ElasticBeansTalk CLI, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BsizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker Compose, Git, GitHub, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, macOS, ObjectC, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Shell, Slack, Trello, TypeScript, VSCode, Xcode, gnuplot, iOS, npm, numpy, panda, yarn, 統計学|
+|2017年10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development、1 week/sprint、オンサイト|AWS, Apache Superset, Docker, Docker Compose, Git, GitHub, MySQL, macOS, Redis, Shell, Slack, Trello, Ubuntu, VSCode, npm, yarn|
+|2017年9月〜10月|Unity|某VRプロジェクトの接続問題の調査とMVPの開発|エンジニア|7名(クライアント 3、Reaktor 4)|Rapid Application Development、1 week/sprint、リモート|AWS, GameLift, Lumberyard, macOS, Stream VR, Trello, UDP Protocol, Ubuntsu, Unity, User Story Board, VSCode|
+|2017年7月〜9月|モバイル|Bluetooth Low Energy接続問題の調査とMVPの開発|サブアカウントマネージャー、リードエンジニア|5名(クライアント 2、Reaktor 3)|Rapid Application Development、1 weeks/sprint、リモート|AWS, Android, Android Studio, Angular, Shell, BSizeSDK, ChartJS, Chrome Dev Tool, Chrome Inspect, Cordova, DeployGate, GemTotSDK, Git, GitBucket, GitHub, Grunt, HTML, Java, MySQL, NodeJS, macOS, ObjectC, Redhat, Slack, Trello, TypeScript, VSCode, Xcode, iOS, noble, npm, yarn|
+|2017年5月〜7月|モバイル|某ポイントチャージアプリへの新機能の追加、位置情報とホットペッパーグルメAPIを使った周辺店舗情報の表示機能|エンジニア|24名(クライアント 10、クライアントのIT部門 2、パートナー 5、Reaktor 7)|Rapid Application Development、Scrum Development、2 weeks/sprint、オンサイト|AWS, Android, Angular, Chrome Dev Tool, Chrome Inspect, Cordova, CSS, Data Stusio, DeployGate, Git, GitHub, Google Analytics, Grunt, HTML, Istanble, JavaScript, Kanban, Mocha, NodeJS, OpenVPN, OS X, OnsenUI, PhantomJS, Redhat, Slack, TypeScript, VSCode, Xcode, iOS, loadtest, npm, supertest, yarn, ワイヤーフレーム(or Customer ジャーニーマップ), ペーパープロトタイプ|
 
 
 
@@ -79,16 +79,13 @@
 ### 最終学歴
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月　卒業
 
-### その他
-
-- 主な個人開発の内容
+### プライベートプロジェクトの履歴
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:----|:---------|:----------|:---------|:---------|:----------|
-|2018 3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, macOS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
-|2017年～現在|チャットサービスの開発(NDMにより概要のみ)|Git, GitHub, Atom, Eslint, babel, flow, webpack1.x, gulp, Phoenix, JavaScript(0.5kstep), Elixir(1kstep), MySQL(0.2kstep), nginx, AWS, Ubuntu|
-|2016年11月～現在|某ベンチャーのスクレーピング機能の実装|Git, GitHub, Atom, HTML(0.3kstep), JavaScript(0.5kstep), PHP(0.5kstep), CURL|
-|2016年2月～現在|SNSの開発(NDMにより概要のみ)|Git, GitHub, Atom, Eslint, babel, flow, webpack1.x, gulp, HTML(1kstep), JavaScript(10kstep), PHP(5kstep), MySQL(1kstep), AWS, ElasticSearch, Amazon Linux|
-|2016年2月～4月|某ベンチャーのECサイト(プロトタイプ)のPaypal決済機能の実装|Git, GitHub, Atom, HTML(0.5kstep), JavaScript(0.5kstep), PHP(1kstep), Paypal API, AWS|
-|2015年10月～2016年2月|プライベートストリーミングサイトを個人開発|Git, GitHub, Atom, HTML(1kstep), JavaScript(7kstep), CSS(0.5kstep), MySQL(0.1kstep), PHP(1kstep), AWS, Apatch, AmazonLinux|
-u2015年6月～9月|社内向け検索エンジンを作成|HTML(1kstep), Java(3kstep), Tomcat, TiddlyWiki|
+|2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development、x week/sprint、リモート|AWS, BootStrap, CSS, Chrome dev tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, macOS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, npm, supertest, yarn|
+|2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|スクラム、2 weeks/sprint、リモート|Git, GitHub, Atom, Eslint, babel, flow, webpack, gulp, Phoenix, JavaScript, Elixir, MySQL, nginx, AWS, Ubuntu|
+|2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|スクラム、2 weeks/sprint、リモート&オンサイト|Git, GitHub, Atom, HTML, JavaScript, PHP, CURL|
+|2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|CTO|3名|ウォーターフォール、リモート|Git, GitHub, Atom, HTML, JavaScript, PHP, Paypal API, AWS|
+|2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|Git, GitHub, Atom, HTML, JavaScript, CSS, MySQL, PHP, AWS, Apatch, AmazonLinux|
+|2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|ウォーターフォール|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
