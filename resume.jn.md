@@ -100,5 +100,5 @@ Welcom the issue
 ### その他
 - GitHub：takaki-ishibashi、takaki-ishibashi2
 - 趣味：ヒップホップダンス、バスケット、ツーリング、異文化交流、先端技術の学習、ホワイトハッキング(beginner yet)
-- 興味：Blockchain、Machine Learning、AIエンジニアリング、量子コンピューティング、DNAメモリ、人口増加問題、マルチリンガル、宗教(神道)、漢方(beginner yet)、Functional Programming
+- 興味：Blockchain、Machine Learning、AIエンジニアリング、量子コンピューティング、DNAメモリ、人口増加問題、マルチリンガル、宗教(神道)、漢方(beginner yet)、Functional Programming(beginner yet)
 
