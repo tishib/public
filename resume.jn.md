@@ -87,5 +87,5 @@
 |2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|スクラム、2 weeks/sprint、リモート|Git, GitHub, Atom, Eslint, babel, flow, webpack, gulp, Phoenix, JavaScript, Elixir, MySQL, nginx, AWS, Ubuntu|
 |2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|スクラム、2 weeks/sprint、リモート&オンサイト|Git, GitHub, Atom, HTML, JavaScript, PHP, CURL|
 |2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|CTO|3名|ウォーターフォール、リモート|Git, GitHub, Atom, HTML, JavaScript, PHP, Paypal API, AWS|
-|2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|Git, GitHub, Atom, HTML, JavaScript, CSS, MySQL, PHP, AWS, Apatch, AmazonLinux|
+|2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|エンジニア|2名|スクラム、2 weeks/sprint、リモート|Git, GitHub, Atom, HTML, JavaScript, CSS, MySQL, PHP, AWS, Apatch, AmazonLinux|
 |2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|ウォーターフォール|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
