@@ -73,6 +73,11 @@
 |仮想化|-|Docker(main), Docker Compose(main)|
 |その他|Shell|AWS CLI(main), ElasticBeansTalk CLI, Terraform|
 
+### 自然言語のレベル
+日本語　母国語
+英語　日常会話〜ビジネスの中間
+中国語　日常会話
+
 ### 資格
 中国語検定 HSK 2級
 
@@ -89,3 +94,7 @@
 |2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|CTO|3名|ウォーターフォール、リモート|Git, GitHub, Atom, HTML, JavaScript, PHP, Paypal API, AWS|
 |2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|エンジニア|2名|スクラム、2 weeks/sprint、リモート|Git, GitHub, Atom, HTML, JavaScript, CSS, MySQL, PHP, AWS, Apatch, AmazonLinux|
 |2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|ウォーターフォール|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
+
+### その他
+- 趣味：ヒップホップダンス、バスケット、ツーリング、異文化交流、先端技術の学習、ホワイトハッキング(beginner yet)
+- 興味：Blockchain、Machine Learning、AIエンジニアリング、量子コンピューティング、DNAメモリ、人口増加問題、自然言語
