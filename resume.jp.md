@@ -101,6 +101,6 @@ PM：Present Main
 
 ### その他
 beginner yet：1年未満
-- GitHub Account：[private: takaki-ishibashi](https://github.com/takaki-ishibashi), [work: takaki-ishibashi2](https://github.com/takaki-ishibashi2)
+- GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
 - 趣味：ヒップホップダンス, バスケット, ツーリング, 異文化交流, Ethreum meetup, プログラミング, 株取引, 競技プログラミング(beginner yet)
 - 興味：Blockchain, DAAP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口問題, マルチリンガル, 宗教(神道), 漢方(beginner yet), ホワイトハッキング(beginner yet)
