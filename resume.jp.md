@@ -8,9 +8,9 @@ Any problems are welcome.
 
 
 ### 概要
-業務経験は合計5年になります。行政や国鉄のような大規模クライアントのシステム向けクライアントサイド&サーバサイドプロダクトのウォーターフォール&スクラム開発を3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守を1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&ラピッドアプリ開発を1年しました。
-また, 友人のスタートアップや個人開発で, 小規模なWeb開発を2年しています。
-学生時代は, スイスのCERNやUSAのFermilabで素粒子物理学について研究活動を行い, 日本のKEKで素粒子検出機の研究開発を行なっていました。
+業務経験は計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のウォーターフォール&スクラム開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&[ラピッドアプリ開発](https://en.wikipedia.org/wiki/Rapid_application_development)が1年になります。
+また, 友人のスタートアップや個人開発で, 小規模なWeb開発を計2年しています。
+学生時代は, スイスの[CERN](https://home.cern/)やUSの[Fermilab](http://www.fnal.gov/pub/about/leadership.html)で素粒子について研究活動を行い, 日本のKEKで素粒子検出機について研究開発を行なっていました。
 
 
 ### 略歴
@@ -30,12 +30,12 @@ Any problems are welcome.
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2名, パートナー 3名, Reaktor 3名)|Rapid Application Development, 1week/sprint, リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, VSCode|
-|2017年 11月〜2018 4月|モバイル, Web, データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター, リードエンジニア, エンジニア, データアナリシスト|19名(クライアント 10名, パートナー 3名, Reaktor 6名)|Rapid Application Development, 3weeks/sprint, リモート|AWS, AWS CLI, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BSizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker Compose, ElasticBeansTalk CLI, Git, GitHub, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, ObjectC, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Shell, Slack, Trello, TypeScript, VSCode, Xcode, gnuplot, iOS, macOS, npm, numpy, panda, yarn, 統計学|
-|2017年10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development, 1week/sprint, オンサイト|AWS, Apache Superset, Docker, Docker Compose, Git, GitHub, MySQL, Redis, Shell, Slack, Trello, Ubuntu, VSCode, macOS, npm, yarn|
-|2017年9月〜10月|Unity|某VRプロジェクトの接続問題の調査とMVPの開発|エンジニア|7名(クライアント 3名, Reaktor 4名)|Rapid Application Development, 1week/sprint, リモート|AWS, GameLift, Lumberyard, macOS, Stream VR, Trello, UDP Protocol, Ubuntsu, Unity, User Story Board, VSCode|
-|2017年7月〜9月|モバイル|Bluetooth Low Energy接続問題の調査とMVPの開発|サブアカウントマネージャー, リードエンジニア|5名(クライアント 2名, Reaktor 3名)|Rapid Application Development, 1week/sprint, リモート|AWS, Android, Android Studio, Angular, BSizeSDK, ChartJS, Chrome Dev Tool, Chrome Inspect, Cordova, DeployGate, GemTotSDK, Git, GitBucket, GitHub, Grunt, HTML, Java, MySQL, NodeJS, ObjectC, Redhat, Shell, Slack, Trello, TypeScript, VSCode, Xcode, iOS, macOS, noble, npm, yarn|
-|2017年5月〜7月|モバイル|某ポイントチャージアプリへの新機能の追加, 位置情報とホットペッパーグルメAPIを使った周辺店舗情報の表示機能|エンジニア|24名(クライアント 10名, クライアントのIT部門 2名, パートナー 5名, Reaktor 7名)|Rapid Application Development, Scrum Development, 2weeks/sprint, オンサイト|AWS, Android, Angular, CSS, Chrome Dev Tool, Chrome Inspect, Cordova, Data Stusio, DeployGate, Git, GitHub, Google Analytics, Grunt, HTML, Istanble, JavaScript, Kanban, Mocha, NodeJS, OnsenUI, OpenVPN, PhantomJS, Redhat, Slack, TypeScript, VSCode, Xcode, iOS, loadtest, macOS, npm, supertest, yarn, ワイヤーフレーム(or カスタマージャーニーマップ), ペーパープロトタイプ|
+|2018年4月〜5月|モバイル|某ポイントチャージアプリの改善|リードエンジニア|8名(クライアント 2名, パートナー 3名, Reaktor 3名)|Rapid Application Development, 1week/sprint, リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, Visual Studio Code|
+|2017年 11月〜2018 4月|モバイル, Web, データ解析|Bluetooth Low Energy接続問題を解決するためのプロトタイプとデータ解析|アカウントサポーター, リードエンジニア, エンジニア, データアナリシスト|19名(クライアント 10名, パートナー 3名, Reaktor 6名)|Rapid Application Development, 3weeks/sprint, リモート|AWS, AWS CLI, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BSizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker Compose, ElasticBeansTalk CLI, Git, GitHub, Google Analytics, Grunt, Java, Kanban, MySQL, NodeJS, ObjectC, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Redhat, Shell, Slack, Trello, TypeScript, Visual Studio Code, Xcode, gnuplot, iOS, macOS, npm, numpy, panda, yarn, 統計学|
+|2017年10月〜11月|社内改善|Apache Supersetの実用性の検証とMVP|DevOps|1名|Rapid Application Development, 1week/sprint, オンサイト|AWS, Apache Superset, Docker, Docker Compose, Git, GitHub, MySQL, Redis, Shell, Slack, Trello, Ubuntu, Visual Studio Code, macOS, npm, yarn|
+|2017年9月〜10月|Unity|某VRプロジェクトの接続問題の調査とMVPの開発|エンジニア|7名(クライアント 3名, Reaktor 4名)|Rapid Application Development, 1week/sprint, リモート|AWS, GameLift, Lumberyard, macOS, Stream VR, Trello, UDP Protocol, Ubuntsu, Unity, User Story Board, Visual Studio Code|
+|2017年7月〜9月|モバイル|Bluetooth Low Energy接続問題の調査とMVPの開発|サブアカウントマネージャー, リードエンジニア|5名(クライアント 2名, Reaktor 3名)|Rapid Application Development, 1week/sprint, リモート|AWS, Android, Android Studio, Angular, BSizeSDK, ChartJS, Chrome Dev Tool, Chrome Inspect, Cordova, DeployGate, GemTotSDK, Git, GitBucket, GitHub, Grunt, HTML, Java, MySQL, NodeJS, ObjectC, Redhat, Shell, Slack, Trello, TypeScript, Visual Studio Code, Xcode, iOS, macOS, noble, npm, yarn|
+|2017年5月〜7月|モバイル|某ポイントチャージアプリへの新機能の追加, 位置情報とホットペッパーグルメAPIを使った周辺店舗情報の表示機能|エンジニア|24名(クライアント 10名, クライアントのIT部門 2名, パートナー 5名, Reaktor 7名)|Rapid Application Development, Scrum Development, 2weeks/sprint, オンサイト|AWS, Android, Angular, CSS, Chrome Dev Tool, Chrome Inspect, Cordova, Data Stusio, DeployGate, Git, GitHub, Google Analytics, Grunt, HTML, Istanble, JavaScript, Kanban, Mocha, NodeJS, OnsenUI, OpenVPN, PhantomJS, Redhat, Slack, TypeScript, Visual Studio Code, Xcode, iOS, loadtest, macOS, npm, supertest, yarn, ワイヤーフレーム(or カスタマージャーニーマップ), ペーパープロトタイプ|
 
 
 
@@ -54,7 +54,7 @@ Any problems are welcome.
 |2013年9月〜2014年1月|ソフトウェア|HCS v7.9のREST API機能の開発にて, APIサーバのDB設計, ORMの実装を行なった。|エンジニア|50名|ウォーターフォール|ClearCase, Eclipce, Java, MySQL, SubVersion, Windows|
 
 
-### テクニカルスキル(業務/個人で1年以上/1年未満使っているもの)
+### テクニカルスキル(業務またはプライベートで, 1年以上または1年未満使っているもの)
 PM：Present Main
 
 | 分類 | 1年以上 | 1年未満 |
@@ -63,7 +63,7 @@ PM：Present Main
 |クライアントサイド| CSS, Flux(PM), HTML, JavaScript, Markdown, ReactJS(PM), Redux, TypeScript(PM)|Action Script, Angular, Cordova, Bootstrap, Jest, MXML, ObjectC, OnsenUI, PhantomJS, Service Worker, WebRTC, flow|
 |サーバサイド|Apatch, ExpressJS(PM), Java, MySQL, NodeJS(PM), PHP, TypeScript(PM)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, istanble, mocha, nginx, supertest|
 |PaaS|AWS(PM)|-|
-|エディタ|Atom, Eclipce, SublineText, VSCode(PM), vi(PM)|Android Studio|
+|エディタ|Atom, Eclipce, SublineText, Visual Studio Code(PM), vi(PM)|Android Studio|
 |OSS|ElasticSearch, Superset|-|
 |プロジェクト管理|Kanban(PM), Trello(PM)|JIRA|
 |開発環境|Rapid Application Development(PM), Scrum(PM), Waterfall|XP|
@@ -96,7 +96,7 @@ PM：Present Main
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, VSCode, Webpack, loadtest, macOS, npm, supertest, yarn|
+|2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
 |2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Eslint, Elixir, Git, GitHub, JavaScript, MySQL, Phoenix, Ubuntu, babel, gulp, flow, nginx, webpack|
 |2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|Scrum, 2weeks/sprint, リモート&オンサイト|Atom, CURL, Git, GitHub, HTML, JavaScript, PHP|
 |2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|ウォーターフォール, リモート|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API,|
@@ -108,4 +108,7 @@ PM：Present Main
 beginner yet：1年未満
 - GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
 - 趣味：ヒップホップダンス, バスケット, ツーリング, 異文化交流, Ethreum meetup, プログラミング, 株取引, 競技プログラミング(beginner yet)
-- 興味：Blockchain, DAAP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口問題, マルチリンガル, 宗教(神道), 漢方(beginner yet), ホワイトハッキング(beginner yet)
+- 興味：Blockchain, DAAP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口問題, マルチリンガル, 宗教(神道), 漢方(beginner yet), ホワイトハッキング(beginner yet), 経済産業省のグローバル企業家等育成プログラム
+- 現在の年収：7500000JPY
+- ポートフォリオ：
+![test](./kek.png)
