@@ -111,4 +111,4 @@ beginner yet：1年未満
 - 興味：Blockchain, DAAP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口問題, マルチリンガル, 宗教(神道), 漢方(beginner yet), ホワイトハッキング(beginner yet), 経済産業省のグローバル企業家等育成プログラム
 - 現在の年収：7500000JPY
 - ポートフォリオ：
-![test](./kek.png)
+- ![KEK](./kek.png =500x500)
