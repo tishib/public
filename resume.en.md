@@ -108,4 +108,4 @@ My total work experience is 5 years. As a breakdown,
 - GitHub Account: [takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
 - Hobby: ヒップホップダンス, バスケット, ツーリング, 異文化交流, Ethreum meetup, プログラミング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考), 株取引, 競技プログラミング：TopCoder(beginner yet), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)
 - Interest: Blockchain, DAPP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口増加問題, マルチリンガル, 宗教(神道), 漢方, ホワイトハッキング, 経済産業省のグローバル企業家等育成プログラム
-- Current Salary: 7500000 JPY
+- Current Salary: 7.5M JPY
