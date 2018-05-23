@@ -1,6 +1,3 @@
-Any problems are welcome.
-
-
 #### 最終更新：2018/05/23
 
 
@@ -8,8 +5,8 @@ Any problems are welcome.
 
 
 ### 概要
-業務経験は計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のウォーターフォール&スクラム開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&[ラピッドアプリ開発](https://en.wikipedia.org/wiki/Rapid_application_development)が1年になります。
-また, 友人のスタートアップや個人開発で, 小規模なWeb開発を計2年しています。
+業務経験は, 合計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のウォーターフォール&スクラム開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&[ラピッドアプリ開発](https://en.wikipedia.org/wiki/Rapid_application_development)が1年になります。
+また, 友人のスタートアップや個人開発で, 小規模なWeb開発を合計2年しています。
 学生時代は, スイスの[CERN](https://en.wikipedia.org/wiki/CERN)やUSの[Fermilab](https://en.wikipedia.org/wiki/Fermilab)で素粒子について研究活動を行い, 日本の[KEK](https://en.wikipedia.org/wiki/KEK)で素粒子検出機について研究開発を行なっていました。
 
 
@@ -22,7 +19,7 @@ Any problems are welcome.
 |2013〜2015年（36ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　配属 |
 |2012年（3ヶ月）| 米国エネルギー省 フェルミ国立加速器研究所(Fermilab) |
 |2011年（3ヶ月）| 欧州原子核研究機構(CERN) |
-|2011〜2013年（18ヶ月）| 国立大学法人筑波大学　数理物質科学研究科　物理学専攻 |
+|2011〜2013年（18ヶ月）| 国立大学法人　筑波大学大学院　数理物質科学研究科　物理学専攻 |
 
 
 ### 職務履歴
@@ -89,7 +86,7 @@ Any problems are welcome.
 |その他|Shell|AWS CLI(＊), ElasticBeansTalk CLI, Terraform, XCode|
 
 
-### 自然言語のコミュニケーションスキルレベル
+### それぞれの言語のコミュニケーションスキルレベル
 - 日本語　母国語
 - 英語　日常会話〜ビジネスの中間
 - 中国語　日常会話
@@ -105,6 +102,6 @@ Any problems are welcome.
 
 ### その他
 - GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
-- 趣味：ヒップホップダンス, バスケット, ツーリング, 異文化交流, Ethreum meetup, プログラミング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考), 株取引, 競技プログラミング：TopCoder(beginner yet), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)
-- 興味：Blockchain, DAPP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口増加問題, マルチリンガル, 宗教(神道), 漢方, ホワイトハッキング, 経済産業省のグローバル企業家等育成プログラム
+- 趣味(1年未満を含む)：Ethreum meetup, 競技プログラミング(TopCoder), 国際交流 meetup, 証券投資(国内), 自動二輪ツーリング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケットボール, ヒップホップダンス, プログラミング。
+- 関心：AIエンジニアリング, Blockchain, DAPP, DNAメモリ, Machine Learning, OSS, Q#, [User-centered design](https://en.wikipedia.org/wiki/User-centered_design), 関数型プログラミング, 漢方, 経済産業省のグローバル企業家等育成プログラム, 宗教(神道), 人口増加問題, 量子コンピューティング, スマートコントラクト, ホワイトハッキング, マルチリンガル。
 - 現在の年収：750万円
