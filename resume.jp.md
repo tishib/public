@@ -54,6 +54,17 @@ Any problems are welcome.
 |2013年9月〜2014年1月|ソフトウェア|HCS v7.9のREST API機能の開発にて, APIサーバのDB設計, ORMの実装を行なった。|エンジニア|50名|ウォーターフォール|ClearCase, Eclipce, Java, MySQL, SubVersion, Windows|
 
 
+### プライベートプロジェクトの履歴
+| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
+|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
+|2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
+|2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Eslint, Elixir, Git, GitHub, JavaScript, MySQL, Phoenix, Ubuntu, babel, gulp, flow, nginx, webpack|
+|2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|Scrum, 2weeks/sprint, リモート&オンサイト|Atom, CURL, Git, GitHub, HTML, JavaScript, PHP|
+|2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|ウォーターフォール, リモート|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API,|
+|2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|エンジニア|2名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Apatch, Amazon Linux, CSS, Git, GitHub, HTML, JavaScript, MySQL, PHP|
+|2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|ウォーターフォール|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
+
+
 ### テクニカルスキル(業務またはプライベートで, 1年以上または1年未満使っているもの)
 (＊)：現在メインで使ってるもの
 
@@ -90,18 +101,6 @@ Any problems are welcome.
 
 ### 最終学歴
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月　卒業
-
-
-### プライベートプロジェクトの履歴
-
-| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
-|2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Eslint, Elixir, Git, GitHub, JavaScript, MySQL, Phoenix, Ubuntu, babel, gulp, flow, nginx, webpack|
-|2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|Scrum, 2weeks/sprint, リモート&オンサイト|Atom, CURL, Git, GitHub, HTML, JavaScript, PHP|
-|2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|ウォーターフォール, リモート|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API,|
-|2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|エンジニア|2名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Apatch, Amazon Linux, CSS, Git, GitHub, HTML, JavaScript, MySQL, PHP|
-|2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|ウォーターフォール|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
 
 
 ### その他
