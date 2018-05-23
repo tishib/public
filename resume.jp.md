@@ -1,4 +1,4 @@
->日本語, English(work in progress)
+#### 言語：_日本語_, English(work in progress)
 
 
 #### 最終更新：2018/05/23
