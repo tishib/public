@@ -5,9 +5,9 @@
 
 
 ### 概要
-業務経験は, 合計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のウォーターフォール&スクラム開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&[ラピッドアプリ開発](https://en.wikipedia.org/wiki/Rapid_application_development)が1年になります。
+業務経験は, 合計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のウォーターフォール&スクラム開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&[ラピッドアプリ開発](https://ja.wikipedia.org/wiki/Rapid_Application_Development)が1年になります。
 また, 友人のスタートアップや個人開発で, 小規模なWeb開発を合計2年しています。
-学生時代は, スイスの[CERN](https://en.wikipedia.org/wiki/CERN)やUSの[Fermilab](https://en.wikipedia.org/wiki/Fermilab)で素粒子について研究活動を行い, 日本の[KEK](https://en.wikipedia.org/wiki/KEK)で素粒子検出機について研究開発を行なっていました。
+学生時代は, スイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)やUSの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で素粒子について研究活動を行い, 日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)で素粒子検出機について研究開発を行なっていました。
 
 
 ### 略歴
@@ -23,7 +23,7 @@
 
 
 ### 職務履歴
-[（株）Reaktor Japan](https://reaktor.co.jp/en/)
+[（株）Reaktor Japan](https://reaktor.co.jp/)
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
@@ -36,7 +36,7 @@
 
 
 
-[（株）日立製作所](https://en.wikipedia.org/wiki/Hitachi)
+[（株）日立製作所](https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E8%A3%BD%E4%BD%9C%E6%89%80)
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
@@ -103,5 +103,5 @@
 ### その他
 - GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
 - 趣味(1年未満を含む)：Ethreum meetup, 競技プログラミング(TopCoder), 国際交流 meetup, 証券投資(国内), 自動二輪ツーリング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケットボール, ヒップホップダンス, プログラミング。
-- 関心：AIエンジニアリング, Blockchain, DAPP, DNAメモリ, Machine Learning, OSS, Q#, [User-centered design](https://en.wikipedia.org/wiki/User-centered_design), 関数型プログラミング, 漢方, 経済産業省のグローバル企業家等育成プログラム, 宗教(神道), 人口増加問題, 量子コンピューティング, スマートコントラクト, ホワイトハッキング, マルチリンガル。
+- 関心：AIエンジニアリング, Blockchain, DAPP, DNAメモリ, Machine Learning, OSS, Q#, [User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88), 関数型プログラミング, 漢方, 経済産業省のグローバル企業家等育成プログラム, 宗教(神道), 人口増加問題, 量子コンピューティング, スマートコントラクト, ホワイトハッキング, マルチリンガル。
 - 現在の年収：750万円
