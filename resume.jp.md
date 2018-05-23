@@ -1,3 +1,5 @@
+__日本語__, English(work in progress)
+
 #### 最終更新：2018/05/23
 
 
