@@ -1,7 +1,7 @@
 #### 最終更新：2018/05/23
 
 
-#### レジュメの言語：_日本語_, English(work in progress)
+#### レジュメの言語：日本語, English(work in progress)
 
 
 ### 石橋　貴生(メール：itakaki0@gmail.com, 住所：日本神奈川県川崎市川崎区)
