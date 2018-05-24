@@ -38,7 +38,6 @@ Any problems are welcome.
 |2017年5月〜7月|モバイル|某ポイントチャージアプリへの新機能の追加, 位置情報とホットペッパーグルメAPIを使った周辺店舗情報の表示機能|エンジニア|24名(クライアント 10名, クライアントのIT部門 2名, パートナー 5名, Reaktor 7名)|Rapid Application Development, Scrum Development, 2weeks/sprint, オンサイト|AWS, Android, Angular, CSS, Chrome Dev Tool, Chrome Inspect, Cordova, Data Stusio, DeployGate, Git, GitHub, Google Analytics, Grunt, HTML, Istanble, JavaScript, Kanban, Linux, Mocha, NodeJS, OnsenUI, OpenVPN, PhantomJS, Slack, TypeScript, Visual Studio Code, Xcode, iOS, loadtest, macOS, npm, supertest, yarn, ワイヤーフレーム(or カスタマージャーニーマップ), ペーパープロトタイプ|
 
 
-
 [（株）日立製作所](https://en.wikipedia.org/wiki/Hitachi)
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
@@ -105,6 +104,6 @@ Any problems are welcome.
 
 ### その他
 - GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
-- 趣味：ヒップホップダンス, バスケット, ツーリング, 異文化交流, Ethreum meetup, プログラミング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考), 株取引, 競技プログラミング：TopCoder(beginner yet), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)
+- 趣味：ヒップホップダンス, バスケット, ツーリング, 異文化交流, Ethreum meetup, プログラミング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考, プログラミングコンテストチャレンジブック第2版), 株取引, 競技プログラミング：TopCoder(beginner yet), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)
 - 興味：Blockchain, DAPP, スマートコントラクト, Machine Learning, AIエンジニアリング, 関数型プログラミング, OSS, 量子コンピューティング, Q#, DNAメモリ, 人口増加問題, マルチリンガル, 宗教(神道), 漢方, ホワイトハッキング, 経済産業省のグローバル企業家等育成プログラム
 - 現在の年収：750万円
