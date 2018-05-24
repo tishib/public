@@ -1,15 +1,11 @@
-Any problems are welcome.
-
-
 #### LAST UPDATE: May 22, 2018
 
 
 ### Takaki Ishibashi(Mail:itakaki0@gmail.com, Address:Japan Kanagawa-ken Kawasaki-shi)
 
 
-### SUMMARY ABOUT PERSONAL
-My total work experience is 5 years. As a breakdown, 
-業務経験は計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のウォーターフォール&スクラム開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのスクラム&[ラピッドアプリ開発](https://en.wikipedia.org/wiki/Rapid_application_development)が1年になります。
+### SUMMARY ABOUT ME
+My total work experience is 5 years. As a breakdown, the 3 years is that I worked in the development project of software for large client who is like an administration,  a state railway and a bank with “Water fall” & “Scrum”, the 1 year is that I worked in the development & operation & maintenance project of system for middle client who is like a municipality, the 1 year is that I worked in the development & consulting project of mobile, web and data analytics with “Scrum” & [“Rapid Application Development”](https://en.wikipedia.org/wiki/Rapid_application_development).
 また, 友人のスタートアップや個人開発で, 小規模なWeb開発を計2年しています。
 学生時代は, スイスの[CERN](https://en.wikipedia.org/wiki/CERN)やUSの[Fermilab](https://en.wikipedia.org/wiki/Fermilab)で素粒子について研究活動を行い, 日本の[KEK](https://en.wikipedia.org/wiki/KEK)で素粒子検出機について研究開発を行なっていました。
 
