@@ -1,4 +1,3 @@
 ###  Resumes
-- [Japanese(markdown)](./resume.jn.md)
-- [Japanese(pdf)](./resume.jn.pdf)
+- [Japanese](./resume.jn.md)
 - English(working progress)

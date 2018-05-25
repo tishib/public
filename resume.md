@@ -1,2 +1,0 @@
-- [Japanese](https://github.com/takaki-ishibashi/published/blob/master/resume.jn.md)
-- English(working progress)
