@@ -103,7 +103,7 @@
 
 
 ### その他
-- GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
+- GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(work)](https://github.com/takaki-ishibashi2)
 - 趣味(1年未満を含む)：Ethreum meetup, 競技プログラミング(TopCoder), 国際交流 meetup, 証券投資(国内), 自動二輪ツーリング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考, プログラミングコンテストチャレンジブック第2版), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケットボール, ヒップホップダンス, プログラミング。
 - 関心：AIエンジニアリング, Blockchain, DAPP, DNAメモリ, Machine Learning, OSS, Q#, [User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88), 関数型プログラミング, 漢方, 経済産業省のグローバル企業家等育成プログラム, 宗教(神道), 人口増加問題, 量子コンピューティング, スマートコントラクト, ホワイトハッキング, マルチリンガル。
 - 現在の年収：750万円
