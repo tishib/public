@@ -1,4 +1,4 @@
-#### LAST UPDATE: May 23, 2018
+#### LAST UPDATE: May 28, 2018
 
 
 #### LANGUAGE OF RESUME: [日本語](https://github.com/takaki-ishibashi/public/blob/master/resume.jn.md), English
