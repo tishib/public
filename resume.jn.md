@@ -59,7 +59,7 @@
 |2018年3月〜現在|Web|WebRTCを使ったSPAの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
 |2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Eslint, Elixir, Git, GitHub, JavaScript, MySQL, Phoenix, Ubuntu, babel, gulp, flow, nginx, webpack|
 |2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|Scrum, 2weeks/sprint, リモート&オンサイト|Atom, CURL, Git, GitHub, HTML, JavaScript, PHP|
-|2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|Waterfall, リモート|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API,|
+|2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|Waterfall, リモート|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API|
 |2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|エンジニア|2名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Apatch, Amazon Linux, CSS, Git, GitHub, HTML, JavaScript, MySQL, PHP|
 |2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|Waterfall|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
 
@@ -89,9 +89,9 @@
 
 
 ### それぞれの言語のコミュニケーションスキルレベル
-- 日本語　母国語
-- 英語　日常会話〜ビジネスの中間
-- 中国語　日常会話
+- 日本語：母国語
+- 英語：日常会話〜ビジネスの中間
+- 中国語：日常会話
 
 
 ### 資格
@@ -103,7 +103,7 @@
 
 
 ### その他
-- GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(work)](https://github.com/takaki-ishibashi2)
-- 趣味(1年未満を含む)：Ethreum meetup, 競技プログラミング(TopCoder), 国際交流 meetup, 証券投資(国内), 自動二輪ツーリング, 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考, プログラミングコンテストチャレンジブック第2版), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケットボール, ヒップホップダンス, プログラミング。
+- GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
+- 趣味(1年未満を含む)：Ethreum meetup, 競技プログラミング(TopCoder), 国際交流 meetup, 証券投資(国内), 自動二輪ツーリング(HONDA), 読書(ダンブラウン著作, 物理学関連, The Master Algorithm, Steve Jobs, 道をひらく, Unix Philosophy, HARD THINGS, エッセンシャル思考, プログラミングコンテストチャレンジブック第2版), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケットボール, ヒップホップダンス, プログラミング。
 - 関心：AIエンジニアリング, Blockchain, DAPP, DNAメモリ, Machine Learning, OSS, Q#, [User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88), 関数型プログラミング, 漢方, 経済産業省のグローバル企業家等育成プログラム, 宗教(神道), 人口増加問題, 量子コンピューティング, スマートコントラクト, ホワイトハッキング, マルチリンガル。
 - 現在の年収：750万円
