@@ -95,7 +95,7 @@ In the age of students, I studied Elementary Particles in [CERN](https://en.wiki
 
 
 ### LICENSE
-Chinese tes HSK Lv2
+Chinese test HSK Lv2
 
 
 ### FINAL EDUCATION
