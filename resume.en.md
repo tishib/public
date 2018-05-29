@@ -8,9 +8,7 @@
 
 
 ### SUMMARY ABOUT ME
-My total work experience is 5 years. As a breakdown, the 3 years is that I worked in the development project of software for large client who is like an administration,  a state railway and a bank with “Water fall” & “Scrum”, the 1 year is that I worked in the development & operation & maintenance project of system for middle client who is like a municipality, the 1 year is that I worked in the development & consulting project of mobile, web and data analytics with “Scrum” & [“Rapid Application Development”](https://en.wikipedia.org/wiki/Rapid_application_development).
-And also, I've been working on small web development for my friend's startup and personal development for 2 years.
-In the age of students, I studied Elementary Particles in [CERN](https://en.wikipedia.org/wiki/CERN) in Switzerland and [Fermilab](https://en.wikipedia.org/wiki/Fermilab) in the United States and I was researching and developing Elementary Particle Detector in [KEK](https://en.wikipedia.org/wiki/KEK) in Japan. 
+I have 5 years of work experience.  For first 3 years, I worked on development of software platforms for large prestigious organizations like national government offices, Japan Railway, and Banks employing waterfall and scrum development.  For one year, I worked on various business process systems on local government offices.  For the latest one year, I worked on Mobile, Web, Big Data analysis for small systems employing scrum and [rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development).  I also worked on web development for my friend’s start up company for two years.  During university graduate work, I participated in [CERN](https://en.wikipedia.org/wiki/CERN) in Switzerland and [Fermilab](https://en.wikipedia.org/wiki/Fermilab) in US as well as Japan’s [KEK](https://en.wikipedia.org/wiki/KEK) for R&D activities of Elementary Particles Detector.
 
 
 ### SUMMARY ABOUT WORK EXPERIENCE
@@ -105,5 +103,4 @@ University of Tsukuba - Graduate School of Pure and Applied Sciences - Physics M
 ### OTHER
 - GitHub Account: [takaki-ishibashi(private)](https://github.com/takaki-ishibashi), [takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
 - Hobby(include less than 1 year): Basket Ball, Bike Touring(HONDA), Book(Dan Brown author, Physics, The Master Algorithm, Steve Jobs, THE PATH, Unix Philosophy, HARD THINGS, Essential Thinking, Programming Contest Challenge Book 2nd Edition), [Child Sponsorship(for Ethiopia)](https://www.worldvision.jp/info/e-about-wvj.html), Competition Programming(TopCoder), Ethreum Meetup, Hip Hop Danse, International Exchange Meetup, Investment(for Japan), Programming.
-- Interest: AI Engineering, Blockchain, DAPP, DNA Memory, Functional Programming, Global Entrepreneur Training Programs by  "Ministry of Economy, Trade and Industry", Kampo, Machine Learning, Multilingual, OSS, Population Growth Problem, Q#, Quantum Computing, Religion(Shinto), Smart Contract, [User-centered design](https://en.wikipedia.org/wiki/User-centered_design), White Hacking.
-- Current Salary：7.5M JPY
+- Interest: AI Engineering, Blockchain, DAPP, DNA Memory, Functional Programming, Global Entrepreneur Training Programs by  "Ministry of Economy, Trade and Industry", Kampo, Machine Learning, Multilingual, OSS, Population Growth Problem, Q#, Quantum Computing, Smart Contract, [User-centered design](https://en.wikipedia.org/wiki/User-centered_design), White Hacking.
