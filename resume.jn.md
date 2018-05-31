@@ -56,7 +56,7 @@
 ### プライベートプロジェクトの履歴
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年3月〜現在|Web|あ音声APIを使ったサービスの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
+|2018年3月〜現在|Web|音声APIを使ったサービスの開発|リードエンジニア|2名|Rapid Application Development, 2weeks/sprint, リモート|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
 |2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|Scrum, 2weeks/sprint, リモート|Atom, AWS, Eslint, Elixir, Git, GitHub, JavaScript, MySQL, Phoenix, Ubuntu, babel, gulp, flow, nginx, webpack|
 |2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|Scrum, 2weeks/sprint, リモート&オンサイト|Atom, CURL, Git, GitHub, HTML, JavaScript, PHP|
 |2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|Waterfall, リモート|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API|
