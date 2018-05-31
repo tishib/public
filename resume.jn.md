@@ -44,13 +44,13 @@
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
 |2017年1月〜4月|Web|Hitachi Automation Directorの開発にて, プロトタイプ作成とフロントエンドのUX/UI改善を行った。|エンジニア|10名|Scrum, 2weeks/sprint|Atom, CSS, Git, HTML, JIRA, JavaScript, Jenkins, SourceTree, Windows, jQuery|
 |2016年3月〜12月|システム|某自治体業務システムのサーバサイドの保守開発にて, 製品/技術選定, 先行検証, プロジェクトマネジメント, システム切り替え作業, 切り替え後テストを行った。|プロジェクトリーダー, システムエンジニア|8名|Waterfall|JP1, PowerShell, VMWare, Windows, Windows Server 2015|
-|2016年1月〜2月|ソフトウェア|SaaS型Hitachi Command Suiteの開発にて, サーバーサイドのNAT環境対応を行った。|エンジニア|10名|Scrum, 2weeks/sprint|Atom, JIRA, Java, Git, Linux, VMWare, Windows, Windows server 2013|
-|2015年10月〜2016年1月|ソフトウェア|国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応にて, 先行検証とプロジェクトマネジメントを行った。|プロジェクトリーダー, テクニカルアドバイザー|5名|Waterfall|AWS, JP1, Linux, Power Shell, Windows Server 201x|
-|2015年7月〜10月|ソフトウェア|Hitachi Command Suite（以降Hitachi Command Suite）v8.2のUnifiedモデルストレージ対応にて, 商用ストレージのファイルシステムOS用ブロックを保護する機能の検討/実装を行った。|エンジニア|20名|Scrum, 3weeks/sprint|Eclipce, Git, Java, SourceTree, VSP1000, Windows|
-|2015年3月〜7月|ソフトウェア|Hitachi Command Suite v8.1のノイジーネイバー特定機能の開発フェーズ2にて, プロジェクトマネジメントや予算管理, 外部チームとのIR調整を行った。|プロジェクトサポート|20名|Waterfall|-|
-|2014年6月〜12月|ソフトウェア|Hitachi Command Suite v8.0.1のノイジーネイバー特定機能の開発フェーズ1にて, 上流工程のマネジメントや要件定義, APIの仕様定義・実装を行った。また, それらを題材に研修員論文を執筆した。|セールス, プロジェクトリーダー, エンジニア|30名|Waterfall|ClearCase, Eclipce, SubVersion, Java, Windows|
-|2014年1月〜6月|ソフトウェア|Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能の開発にて, クライアントサイドのグラフチャートやリソースリストといった分析用のUIの実装を行なった。|エンジニア|40名|Waterfall|ActionScript, Eclipce, ClearCase, MXML, SubVersion, Windows|
-|2013年9月〜2014年1月|ソフトウェア|Hitachi Command Suite v7.9のREST API機能の開発にて, APIサーバのDB設計やORMの実装を行なった。|エンジニア|50名|Waterfall|ClearCase, Eclipce, Java, MySQL, SubVersion, Windows|
+|2016年1月〜2月|業務アプリケーション、ソフトウェア|SaaS型Hitachi Command Suiteの開発にて, サーバーサイドのNAT環境対応を行った。|エンジニア|10名|Scrum, 2weeks/sprint|Atom, JIRA, Java, Git, Linux, VMWare, Windows, Windows server 2013|
+|2015年10月〜2016年1月|業務アプリケーション、ソフトウェア|国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応にて, 先行検証とプロジェクトマネジメントを行った。|プロジェクトリーダー, テクニカルアドバイザー|5名|Waterfall|AWS, JP1, Linux, Power Shell, Windows Server 201x|
+|2015年7月〜10月|業務アプリケーション、ソフトウェア|Hitachi Command Suite（以降Hitachi Command Suite）v8.2のUnifiedモデルストレージ対応にて, 商用ストレージのファイルシステムOS用ブロックを保護する機能の検討/実装を行った。|エンジニア|20名|Scrum, 3weeks/sprint|Eclipce, Git, Java, SourceTree, VSP1000, Windows|
+|2015年3月〜7月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v8.1のノイジーネイバー特定機能の開発フェーズ2にて, プロジェクトマネジメントや予算管理, 外部チームとのIR調整を行った。|プロジェクトサポート|20名|Waterfall|-|
+|2014年6月〜12月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v8.0.1のノイジーネイバー特定機能の開発フェーズ1にて, 上流工程のマネジメントや要件定義, APIの仕様定義・実装を行った。また, それらを題材に研修員論文を執筆した。|セールス, プロジェクトリーダー, エンジニア|30名|Waterfall|ClearCase, Eclipce, SubVersion, Java, Windows|
+|2014年1月〜6月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能の開発にて, クライアントサイドのグラフチャートやリソースリストといった分析用のUIの実装を行なった。|エンジニア|40名|Waterfall|ActionScript, Eclipce, ClearCase, MXML, SubVersion, Windows|
+|2013年9月〜2014年1月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v7.9のREST API機能の開発にて, APIサーバのDB設計やORMの実装を行なった。|エンジニア|50名|Waterfall|ClearCase, Eclipce, Java, MySQL, SubVersion, Windows|
 
 
 ### プライベートプロジェクトの履歴
