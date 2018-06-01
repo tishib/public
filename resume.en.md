@@ -8,7 +8,9 @@
 
 
 ### SUMMARY ABOUT ME
-I have 5 years of work experience.  For first 3 years, I worked on development of software platforms for large prestigious organizations like national government offices, Japan Railway, and Banks employing waterfall and scrum development.  For one year, I worked on various business process systems on local government offices.  For the latest one year, I worked on Mobile, Web, Big Data analysis for small systems employing scrum and [rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development).  I also worked on web development for my friend’s start up company for two years.  During university graduate work, I participated in [CERN](https://en.wikipedia.org/wiki/CERN) in Switzerland and [Fermilab](https://en.wikipedia.org/wiki/Fermilab) in US as well as Japan’s [KEK](https://en.wikipedia.org/wiki/KEK) for R&D activities of Elementary Particles Detector.
+I have 5 years of work experience.  For the first 3 years, I worked on the development of software platforms for large prestigious organizations such as national government offices, Japan Railway, and Banks employing waterfall and scrum development. For one year, I worked on various business process systems for local government offices. Since last year, I have been working on Mobile, Web, Big Data analysis for small systems employing scrum and [rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development).
+On the side, I also worked on web development for my friend’s start up company for two years.
+In addition, during university graduate work, I participated in [CERN](https://en.wikipedia.org/wiki/CERN) in Switzerland and [Fermilab](https://en.wikipedia.org/wiki/Fermilab) in US as well as in Japan’s [KEK](https://en.wikipedia.org/wiki/KEK) for R&D activities of Elementary Particles Detector.
 
 
 ### SUMMARY ABOUT WORK EXPERIENCE
@@ -23,7 +25,7 @@ I have 5 years of work experience.  For first 3 years, I worked on development o
 |2011〜2013 (18 months) | University of Tsukuba - Graduate School of Pure and Applied Sciences - Physics |
 
 
-### WORK EXPERIENCE IN BUSINESS
+### WORK EXPERIENCE
 [Reaktor Japan K.K.](https://reaktor.co.jp/en/)
 
 | Period | Category | Contents | Role | Scall of Project | Development Environment | Develompent Resources |
@@ -51,10 +53,10 @@ I have 5 years of work experience.  For first 3 years, I worked on development o
 |Sep 2013 ~ Jan 2014|Business Application, Software|Development of the DB of the REST API Feature in Hitachi Command Suite v7.9|Engineer|50 people|Waterfall|ClearCase, Eclipce, Java, MySQL, SubVersion, Windows|
 
 
-### WORK EXPERIENCE IN PRIVATE
+### INDEPENDENT WORK EXPERIENCE
 | Period | Category | Contents | Role | Scall of Project | Development Environment | Develompent Resources |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|Present ~ Mar 2018|Web|Development of the platform using a voice API|Lead Engineer|2 people|Rapid Application Development, 1weeks/sprint, Remote|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
+|Present ~ Mar 2018|Web|Development of a platform using a voice API|Lead Engineer|2 people|Rapid Application Development, 1weeks/sprint, Remote|AWS, BootStrap, CSS, Chrome Dev Tool, Docker, Docker-Compose, Elastic Search, Express, Flux, Git, GitHub, HTML, Java, Jest, Mocha, MySQL, NodeJS, ReactJS, Redux, Shell, Slack, Trello, TypeScript, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn|
 |Mar ~ Jan 2017|Web|Development of the Web Chat Service of a startup company(NOTE: with NDA)|Lead Engineer|5 people|Scrum, 2weeks/sprint, Remote|Atom, AWS, Eslint, Elixir, Git, GitHub, JavaScript, MySQL, Phoenix, Ubuntu, babel, gulp, flow, nginx, webpack|
 |Oct ~ Dec 2016|Web|Development of the Web Scraping Feature of a startup company(NOTE: with NDA)|Lead Engineer|7 people|Scrum, 2weeks/sprint, Remote&Onsite|Atom, CURL, Git, GitHub, HTML, JavaScript, PHP|
 |Feb ~ Apr 2016|Web|Development of the Paypal Settlement Feature in an EC site of a startup company(NOTE: with NDA)|Lead Engineer|3 people|Waterfall, Remote|Atom, AWS, Git, GitHub, HTML, JavaScript, PHP, Paypal API|
@@ -62,10 +64,10 @@ I have 5 years of work experience.  For first 3 years, I worked on development o
 |Jun ~ Sep 2015|Web|Development of the Search Engine for HITACHI internal|Lead Engineer|3 people|Waterfall|Atom, Git, GitHub, HTML, Java, Tomcat, TiddlyWiki|
 
 
-### TECHNICAL SKILL(In business or private, using more than 1 year or less than 1 year)
+### TECHNICAL SKILL(Using more than 1 year or less than 1 year)
 (＊)： Currently use as a main tool.
 
-| Category | 1+y | +1y |
+| Category | more than 1 year | less than 1 year |
 |:-----------|:-----|:-------|
 |Platform|Linux(＊), Windows, macOS(＊)|Android, Ubuntu, iOS|
 |Client Side| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Cordova, Bootstrap, Jest, MXML, ObjectC, OnsenUI, PhantomJS, Service Worker, WebRTC, flow|
