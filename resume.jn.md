@@ -1,4 +1,4 @@
-#### 最終更新：2018/05/23
+#### 最終更新：2018/07/22
 
 
 #### レジュメの言語：日本語, [English](https://github.com/takaki-ishibashi/public/blob/master/resume.en.md)
@@ -70,7 +70,7 @@
 | 分類 | 1年以上 | 1年未満 |
 |:-----------|:-----|:-------|
 |プラットフォーム|Linux(＊), Windows, macOS(＊)|Android, Ubuntu, iOS|
-|クライアントサイド| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Cordova, Bootstrap, Jest, MXML, ObjectC, OnsenUI, PhantomJS, Service Worker, WebRTC, flow|
+|クライアントサイド| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Chai(*), Cordova, Bootstrap, Enzyme(*), Jest(*), MXML, ObjectC, OnsenUI, PhantomJS, Service Worker,Sinon(*),  WebRTC, flow|
 |サーバサイド|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, istanble, mocha, nginx, supertest|
 |PaaS|AWS(＊)|-|
 |エディタ|Atom, Eclipce, SublineText, Visual Studio Code(＊), vi(＊)|Android Studio|

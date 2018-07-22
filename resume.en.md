@@ -1,4 +1,4 @@
-#### LAST UPDATE: May 28, 2018
+#### LAST UPDATE: Jul 22, 2018
 
 
 #### LANGUAGE OF RESUME: [日本語](https://github.com/takaki-ishibashi/public/blob/master/resume.jn.md), English
@@ -70,7 +70,7 @@ In addition, during university graduate work, I participated in [CERN](https://e
 | Category | more than 1 year | less than 1 year |
 |:-----------|:-----|:-------|
 |Platform|Linux(＊), Windows, macOS(＊)|Android, Ubuntu, iOS|
-|Client Side| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Cordova, Bootstrap, Jest, MXML, ObjectC, OnsenUI, PhantomJS, Service Worker, WebRTC, flow|
+|Client Side| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Chai(*), Cordova, Bootstrap, Enzyme(*), Jest(*), MXML, ObjectC, OnsenUI, PhantomJS, Service Worker, Sinon(*), WebRTC, flow|
 |Server Side|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, istanble, mocha, nginx, supertest|
 |PaaS|AWS(＊)|-|
 |Editor|Atom, Eclipce, SublineText, Visual Studio Code(＊), vi(＊)|Android Studio|
