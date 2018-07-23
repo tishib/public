@@ -65,28 +65,28 @@ In addition, during university graduate work, I participated in [CERN](https://e
 
 
 ### TECHNICAL SKILL(Using more than 1 year or less than 1 year)
-(＊)： Currently use as a main tool.
+(\*)： Currently use as a main tool.
 
 | Category | more than 1 year | less than 1 year |
 |:-----------|:-----|:-------|
-|Platform|Linux(＊), Windows, macOS(＊)|Android, Ubuntu, iOS|
-|Client Side| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Cordova, Bootstrap, MXML, ObjectC, OnsenUI, Service Worker, WebRTC, flow|
-|Server Side|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, nginx|
-|PaaS|AWS(＊)|-|
-|Editor|Atom, Eclipce, SublineText, Visual Studio Code(＊), vi(＊)|Android Studio|
+|Platform|Linux(\*), Windows, macOS(\*)|Android, Ubuntu, iOS|
+|Client Side| CSS, Flux(\*), HTML, JavaScript, Markdown, ReactJS(\*), Redux, TypeScript(\*)|Action Script, Angular, Cordova, Bootstrap, MXML, ObjectC, OnsenUI, Service Worker, WebRTC, flow|
+|Server Side|Apatch, ExpressJS(\*), Java, MySQL, NodeJS(\*), PHP, TypeScript(\*)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, nginx|
+|PaaS|AWS(\*)|-|
+|Editor|Atom, Eclipce, SublineText, Visual Studio Code(\*), vi(\*)|Android Studio|
 |OSS|ElasticSearch|Apatch Superset|
-|Project or Task Management|Kanban(＊), Trello(＊)|JIRA|
-|Development Style|Rapid Application Development(＊), Scrum(＊), Waterfall|XP|
-|Version Management|ClearCase, Git(＊), GitHub(＊)|GitBucket, SubVersion|
-|Package Management|npm, yarn(＊)|-|
+|Project or Task Management|Kanban(\*), Trello(\*)|JIRA|
+|Development Style|Rapid Application Development(\*), Scrum(\*), Waterfall|XP|
+|Version Management|ClearCase, Git(\*), GitHub(\*)|GitBucket, SubVersion|
+|Package Management|npm, yarn(\*)|-|
 |Task Runner|gulp|Grunt|
-|Trans Compilar|babel(＊)|-|
-|Bundler|Webpack(＊)|-|
-|Testing|Chai(＊), Mocha(＊), supertest(＊)|Enzyme(＊), istanble(＊), Jest(＊), PhantomJS, Sinon(\*)|
-|Chat|gitter, slack(＊)|-|
+|Trans Compilar|babel(\*)|-|
+|Bundler|Webpack(\*)|-|
+|Testing|Chai(\*), Mocha(\*), supertest(\*)|Enzyme(\*), istanble(\*), Jest(\*), PhantomJS, Sinon(\*)|
+|Chat|gitter, slack(\*)|-|
 |Local CI|eslint|-|
-|Virtualization|-|Docker(＊), Docker Compose(＊)|
-|Other|Shell|AWS CLI(＊), ElasticBeansTalk CLI, Terraform, XCode|
+|Virtualization|-|Docker(\*), Docker Compose(\*)|
+|Other|Shell|AWS CLI(\*), ElasticBeansTalk CLI, Terraform, XCode|
 
 
 ### COMMUNICATION SKILL LEVEL WITH FOREIGN LANGUAGE
