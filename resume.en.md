@@ -82,7 +82,7 @@ In addition, during university graduate work, I participated in [CERN](https://e
 |Task Runner|gulp|Grunt|
 |Trans Compilar|babel(＊)|-|
 |Bundler|Webpack(＊)|-|
-|Testing|Chai(*), Mocha(*), supertest(*)|Enzyme(*), istanble(*), Jest(*), PhantomJS, Sinon(*)|
+|Testing|Chai(＊), Mocha(＊), supertest(＊)|Enzyme(＊), istanble(＊), Jest(＊), PhantomJS, Sinon(\*)|
 |Chat|gitter, slack(＊)|-|
 |Local CI|eslint|-|
 |Virtualization|-|Docker(＊), Docker Compose(＊)|

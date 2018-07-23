@@ -82,7 +82,7 @@
 |タスクランナー|gulp|Grunt|
 |トランスコンパイラー|babel(＊)|-|
 |バンドラー|Webpack(＊)|-|
-|テスト|Chai(*), Mocha(*), supertest(*)|Enzyme(*), istanble(*), Jest(*), PhantomJS, Sinon(*)|
+|テスト|Chai(＊), Mocha(＊), supertest(＊)|Enzyme(＊), istanble(＊), Jest(＊), PhantomJS, Sinon(＊)|
 |チャット|gitter, slack(＊)|-|
 |ローカルCI|eslint|-|
 |仮想化|-|Docker(＊), Docker Compose(＊)|
