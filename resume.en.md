@@ -70,8 +70,8 @@ In addition, during university graduate work, I participated in [CERN](https://e
 | Category | more than 1 year | less than 1 year |
 |:-----------|:-----|:-------|
 |Platform|Linux(＊), Windows, macOS(＊)|Android, Ubuntu, iOS|
-|Client Side| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Chai(*), Cordova, Bootstrap, Enzyme(*), Jest(*), MXML, ObjectC, OnsenUI, PhantomJS, Service Worker, Sinon(*), WebRTC, flow|
-|Server Side|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, istanble, mocha, nginx, supertest|
+|Client Side| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Cordova, Bootstrap, MXML, ObjectC, OnsenUI, Service Worker, WebRTC, flow|
+|Server Side|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, nginx|
 |PaaS|AWS(＊)|-|
 |Editor|Atom, Eclipce, SublineText, Visual Studio Code(＊), vi(＊)|Android Studio|
 |OSS|ElasticSearch|Apatch Superset|
@@ -80,8 +80,9 @@ In addition, during university graduate work, I participated in [CERN](https://e
 |Version Management|ClearCase, Git(＊), GitHub(＊)|GitBucket, SubVersion|
 |Package Management|npm, yarn(＊)|-|
 |Task Runner|gulp|Grunt|
-|Trans Compilation|babel(＊)|-|
-|Bundle|Webpack(＊)|-|
+|Trans Compilar|babel(＊)|-|
+|Bundler|Webpack(＊)|-|
+|Testing|Chai(*), Mocha(*), supertest(*)|Enzyme(*), istanble(*), Jest(*), PhantomJS, Sinon(*)|
 |Chat|gitter, slack(＊)|-|
 |Local CI|eslint|-|
 |Virtualization|-|Docker(＊), Docker Compose(＊)|

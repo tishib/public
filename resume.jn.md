@@ -70,8 +70,8 @@
 | 分類 | 1年以上 | 1年未満 |
 |:-----------|:-----|:-------|
 |プラットフォーム|Linux(＊), Windows, macOS(＊)|Android, Ubuntu, iOS|
-|クライアントサイド| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Chai(*), Cordova, Bootstrap, Enzyme(*), Jest(*), MXML, ObjectC, OnsenUI, PhantomJS, Service Worker,Sinon(*),  WebRTC, flow|
-|サーバサイド|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, istanble, mocha, nginx, supertest|
+|クライアントサイド| CSS, Flux(＊), HTML, JavaScript, Markdown, ReactJS(＊), Redux, TypeScript(＊)|Action Script, Angular, Cordova, Bootstrap, MXML, ObjectC, OnsenUI, Service Worker, WebRTC, flow|
+|サーバサイド|Apatch, ExpressJS(＊), Java, MySQL, NodeJS(＊), PHP, TypeScript(＊)|C++, Elixir, Go, Phoenix, Python, Tomcat, Unity, nginx|
 |PaaS|AWS(＊)|-|
 |エディタ|Atom, Eclipce, SublineText, Visual Studio Code(＊), vi(＊)|Android Studio|
 |OSS|ElasticSearch|Apatch Superset|
@@ -80,8 +80,9 @@
 |バージョン管理|ClearCase, Git(＊), GitHub(＊)|GitBucket, SubVersion|
 |パッケージ管理|npm, yarn(＊)|-|
 |タスクランナー|gulp|Grunt|
-|トランスコンパイル|babel(＊)|-|
-|バンドル|Webpack(＊)|-|
+|トランスコンパイラー|babel(＊)|-|
+|バンドラー|Webpack(＊)|-|
+|テスト|Chai(*), Mocha(*), supertest(*)|Enzyme(*), istanble(*), Jest(*), PhantomJS, Sinon(*)|
 |チャット|gitter, slack(＊)|-|
 |ローカルCI|eslint|-|
 |仮想化|-|Docker(＊), Docker Compose(＊)|
