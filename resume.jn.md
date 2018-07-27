@@ -86,7 +86,7 @@
 |チャット|gitter, slack(＊)|-|
 |ローカルCI|eslint|-|
 |仮想化|-|Docker(＊), Docker Compose(＊)|
-|その他|Shell|AWS CLI(＊), ElasticBeansTalk CLI, Terraform, XCode|
+|その他|Shell|AWS CLI(＊), ElasticBeansTalk CLI, Responsive Web Design, Terraform, XCode|
 
 
 ### それぞれの言語のコミュニケーションスキルレベル

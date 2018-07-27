@@ -86,7 +86,7 @@ In addition, during university graduate work, I participated in [CERN](https://e
 |Chat|gitter, slack(\*)|-|
 |Local CI|eslint|-|
 |Virtualization|-|Docker(\*), Docker Compose(\*)|
-|Other|Shell|AWS CLI(\*), ElasticBeansTalk CLI, Terraform, XCode|
+|Other|Shell|AWS CLI(\*), ElasticBeansTalk CLI, Responsive Web Design, Terraform, XCode|
 
 
 ### COMMUNICATION SKILL LEVEL WITH FOREIGN LANGUAGE
