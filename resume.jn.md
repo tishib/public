@@ -1,4 +1,4 @@
-#### 最終更新：2018/07/22
+#### 最終更新：2019/03/22
 
 
 #### レジュメの言語：日本語, [English](https://github.com/takaki-ishibashi/public/blob/master/resume.en.md)
@@ -8,15 +8,16 @@
 
 
 ### 概要
-業務経験は, 合計5年になります。内訳としては、国内外の行政や国鉄、銀行のような大規模クライアントのシステム向けソフトウェア製品のWaterfall&Scrum開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb, ビックデータ解析といった小規模プロダクトのScrum&[Rapid Application Development](https://ja.wikipedia.org/wiki/Rapid_Application_Development)が1年になります。
-また, 友人のスタートアップや個人開発で, 小規模なWeb開発を合計2年しています。
-学生時代は, スイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)やUSの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で素粒子について研究活動を行い, 日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)で素粒子検出機について研究開発を行なっていました。
+業務経験は計5年になります。内訳としては, 国内外の行政や国鉄, 銀行のような大規模クライアントのシステム向けソフトウェア製品のWaterfall&Scrum開発が3年, 自治体のような中規模クライアントの業務システムの開発&運用&保守が1年, モバイルやWeb App, ビックデータ解析といった小規模プロダクトのScrum&[Rapid Application Development](https://ja.wikipedia.org/wiki/Rapid_Application_Development)が1年です。
+また, 友人のスタートアップや個人開発で, 小規模なWeb開発を計2年していました。
+学生時代はスイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)やUSの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で素粒子について研究活動を行い, 日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)で素粒子検出機について研究開発を行なっていました。
 
 
 ### 略歴
 | 期間 | 内容 |
 |:----|:----|
-|2017〜2018年（12ヶ月）現在|（株）Reaktor Japan |
+|2018〜現在|（株）Accenture Japan |
+|2017〜2018年（14ヶ月）|（株）Reaktor Japan |
 |2016〜2017年（3ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　帰属 |
 |2016年（9ヶ月）|（株）日立製作所　公共システム本部　有期異動 |
 |2013〜2015年（36ヶ月）|（株）日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部　配属 |
@@ -26,11 +27,18 @@
 
 
 ### 職務履歴
+[（株）Accenture Japan](https://www.accenture.com/jp-ja)
+
+| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
+|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
+|2018年10月〜現在|Web|某小売最大手Web Appにて新しいUX開発とECのフルリニューアル|マネージャー, リードエンジニア, エンジニア, コンサルタント|100名(クライアント 20名, パートナー 50名, Accenture 30名)|Scrum, Waterfall, 1week/sprint, オンサイト|AWS, CSS, Git, GitHub, Google Dialogflow, GoogleAssistantApp, GoogleCloudPlatform, GoogleProductSearch, GoogleVisionAPI, Gulp, HTML, JavaScript, LivePersonEngagement, MaterialWebDesign, MicrosoftAzureDevOps, MicrosoftOffice, MicrosoftSharePoint, NodeJS, NulabBacklog, Puppeteer, ReactReduxApp, ResponsiveWebDesign, SASS, ShellScript, Slack, Trello, Vim, VisualStudioCode, VoiceUX, macOS, npm|
+
+
 [（株）Reaktor Japan](https://reaktor.co.jp/)
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年4月〜5月|モバイル|某モバイルポイントチャージアプリのUX改善|リードエンジニア|8名(クライアント 2名, パートナー 3名, Reaktor 3名)|Rapid Application Development, Scrum, 1week/sprint, リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, Visual Studio Code|
+|2018年4月〜7月|モバイル|某モバイルポイントチャージアプリのUX改善|リードエンジニア|8名(クライアント 2名, パートナー 3名, Reaktor 3名)|Rapid Application Development, Scrum, 1week/sprint, リモート|Angular, Cordova, Git, GitHub, Google Analytics, JavaScript, OnsenUI, Slack, Trello, Visual Studio Code|
 |2017年 11月〜2018 4月|モバイル, Web, データ解析|某モバイルアプリのBluetooth Low Energy接続問題を解決するためのデータ収集・分析システムのスクラッチ開発と収集データの解析|アカウントサポーター, リードエンジニア, エンジニア, データアナリシスト|19名(クライアント 10名, パートナー 3名, Reaktor 6名)|Rapid Application Development, Scrum, 3weeks/sprint, リモート|AWS, AWS CLI, Advanced Encryption Standard, Android, Android Debug Bridge, Android Studio, Angular, Babel, BootStrap, BSizeSDK, Chrome Dev Tool, Chrome Inspect, Cordova, Cordova Plugin, Docker, Docker Compose, ElasticBeansTalk CLI, Git, GitHub, Google Analytics, Grunt, Java, Kanban, Linux, MySQL, NodeJS, ObjectC, OmniGraffle, Python, ReactJS, Received Signal Strength Indication, Shell, Slack, Trello, TypeScript, Visual Studio Code, Xcode, gnuplot, iOS, macOS, npm, numpy, panda, yarn, 統計学|
 |2017年10月〜11月|社内改善|Apache Supersetの実用性の検証とMVPの開発|DevOps|1名|Rapid Application Development, Scrum, 1week/sprint, オンサイト|AWS, Apache Superset, Docker, Docker Compose, Git, GitHub, MySQL, Redis, Shell, Slack, Trello, Ubuntu, Visual Studio Code, macOS, npm, yarn|
 |2017年9月〜10月|Unity|フィンランドの某VRプロジェクトでのネットワーク問題の調査とMVPの開発|エンジニア|7名(クライアント 3名, Reaktor 4名)|Rapid Application Development, Scrum, 1week/sprint, リモート|AWS, GameLift, Lumberyard, macOS, Stream VR, Trello, UDP Protocol, Ubuntu, Unity, User Story Board, Visual Studio Code|

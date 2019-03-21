@@ -1,4 +1,4 @@
-#### LAST UPDATE: Jul 22, 2018
+#### LAST UPDATE: Mar 22, 2019
 
 
 #### LANGUAGE OF RESUME: [日本語](https://github.com/takaki-ishibashi/public/blob/master/resume.jn.md), English
@@ -16,7 +16,8 @@ In addition, during university graduate work, I participated in [CERN](https://e
 ### SUMMARY ABOUT WORK EXPERIENCE
 | Period | Contents |
 |:----|:----|
-|2017〜2018 (12 months) present | Reaktor Japan K.K. |
+|2018〜present| Accenture Japan Ltd. |
+|2017〜2018 (12 months) | Reaktor Japan K.K. |
 |2016〜2017 (3 months)| HITACHI Ltd. - IT Platform Business Headquaters - Software Development Department (Return) |
 |2016 (9 months) | HITACHI Ltd. - Public System Headquaters (Periodic change) |
 |2013〜2015 (36 months) | HITACHI Ltd. - IT Platform Business Headquaters - Software Development Department (Assignment) |
@@ -26,6 +27,13 @@ In addition, during university graduate work, I participated in [CERN](https://e
 
 
 ### WORK EXPERIENCE
+[Accenture Japan Ltd.](https://www.accenture.com/us-en)
+
+| Period | Category | Contents | Role | Scall of Project | Development Environment | Develompent Resources |
+|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
+|Oct 2018 ~ present|Web|New UX development and EC full renewal with biggest retailer company in Japan|Manager, Lead engineer, Engineer, Consultant|100 people(client 20, Other vender 50, Accenture 30)|Scrum, Waterfall, 1week/sprint, オンサイト|AWS, CSS, Git, GitHub, Google Dialogflow, GoogleAssistantApp, GoogleCloudPlatform, GoogleProductSearch, GoogleVisionAPI, Gulp, HTML, JavaScript, LivePersonEngagement, MaterialWebDesign, MicrosoftAzureDevOps, MicrosoftOffice, MicrosoftSharePoint, NodeJS, NulabBacklog, Puppeteer, ReactReduxApp, ResponsiveWebDesign, SASS, ShellScript, Slack, Trello, Vim, VisualStudioCode, VoiceUX, macOS, npm|
+
+
 [Reaktor Japan K.K.](https://reaktor.co.jp/en/)
 
 | Period | Category | Contents | Role | Scall of Project | Development Environment | Develompent Resources |
