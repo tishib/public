@@ -11,7 +11,7 @@ ctrl + 0 // 拡大縮小リセット
 esc // 操作キャンセル
 ```
 
-## excel(All of below are ローマ字入力モード)
+## excel(ローマ字入力モード)
 ```
 === Add ===
 ctrl + shift + & // 外枠追加
