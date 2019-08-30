@@ -4,7 +4,7 @@
 ```
 alt + <- // １つ前のページに戻る
 alt + shift + B // ヘッダのブックマークバーにフォーカス
-ctrl + tab // タブ切替
+ctrl + tab + [shift] // タブ切替
 ctrl + shift + '+' // 拡大
 ctrl + '-' // 縮小
 ctrl + 0 // 拡大縮小リセット
