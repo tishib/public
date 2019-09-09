@@ -1,4 +1,4 @@
-# Below is for windows
+# For windows
 
 ## chrome
 ```
@@ -15,7 +15,8 @@ esc // 操作キャンセル
 ## excel(ローマ字入力モード)
 ```
 === Add ===
-ctrl + shift + & // 外枠追加
+alt -> H -> B -> A // 格子描画
+ctrl + shift + & // 外枠描画
 ctrl + alt + V -> V -> Enter // 値だけ貼り付け
 ctrl + space -> ctrl + shift + '+' // 列追加
 ctrl + shift + L // フィルタON/OFF
