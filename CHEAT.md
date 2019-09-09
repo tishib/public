@@ -6,19 +6,20 @@
 alt -> H -> B -> A // 格子(田)描画
 ctrl + shift + & // 外枠(口)描画
 ctrl + alt + V -> V -> Enter // 値だけ貼り付け
-ctrl + space -> ctrl + shift + '+' // 列追加
+ctrl + space -> ctrl + shift + "+" // 列追加
 ctrl + shift + L // フィルタON/OFF切り替え
 F2 // セル入力開始
 shift + F2 // コメント追加
-shift + space -> ctrl + shift + '+' // 行追加
+shift + space -> ctrl + shift + "+" // 行追加
 
 === 削除系 ===
 alt -> A -> C -> 2 // フィルタ条件リセット
-ctrl + space -> ctrl + shift + '-' // 列削除
-shift + space -> ctrl + '-' // 行削除
+ctrl + space -> ctrl + shift + "-" // 列削除
+shift + space -> ctrl + "-" // 行削除
 shift + F2 // コメント削除
 
 === その他 ===
+alt + "↓" // フィルタ条件を選択
 ctrl + PageUp/PageDown // シート間移動
 ctrl + 1 // セルの書式設定を開く
 ctrl + F1 // リボンの表示/非表示切り替え
