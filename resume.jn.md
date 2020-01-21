@@ -4,7 +4,7 @@
 #### レジュメの言語：日本語, [English](https://github.com/takaki-ishibashi/public/blob/master/resume.en.md)
 
 
-### 石橋　貴生(メール：itakaki0@gmail.com, 住所：日本東京都調布市)
+### 石橋　貴生(メール：itakaki0@gmail.com, 住所：日本東京都)
 
 
 ### 概要
