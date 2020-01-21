@@ -4,7 +4,7 @@
 #### LANGUAGE OF RESUME: [日本語](https://github.com/takaki-ishibashi/public/blob/master/resume.jn.md), English
 
 
-### Takaki Ishibashi(Mail:itakaki0@gmail.com, Address:Japan Tokyo Chofu-shi)
+### Takaki Ishibashi(Mail:itakaki0@gmail.com, Address:Japan Tokyo)
 
 
 ### SUMMARY ABOUT ME
