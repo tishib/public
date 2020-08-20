@@ -27,17 +27,22 @@
 
 
 ### 職務履歴
+MAU: monthly active user<br>
+SW: software<br>
+NW: network<br>
+MW: middleware<br>
+HW: hardware<br>
+<br>
 [（株）Accenture Japan](https://www.accenture.com/jp-ja)
-
-|     区分     |詳細            |
+|区分|詳細|
 |:------------:|:---------------|
-|     期間     |2020年4月〜現在 |
-| 分類 |CRM、システム|
-| 内容 |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守|
-| 役割 | - チームリード<br> - リードSW(software)エンジニアリング<br> - NW(network)/インフラエンジニアリング<br> - クライアントフェイシング|
-| 規模 | - 登録ユーザ：2000万<br> - MAU(monthly active user)：25万<br> - サーバ：50<br> - DB：15<br> - DBテーブル・レコード(平均)：3000・30億<br> - バッチ：900<br> - セキュアルーム・端末：5・50台<br> - データサイズ：1.6PiB<br> - PJメンバー計150名(クライアント40名、カウンターパート60名、ACN50名)|
+|期間|2020年4月〜現在 |
+| 分類         |CRM、システム|
+| 内容         |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守|
+| 役割         | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング|
+| 規模         | - 2000万登録ユーザ<br> - 25万MAU<br> - 50サーバ<br> - 15DB<br> - 3000DBテーブル<br> - 平均30億DBレコード<br> - 900バッチ<br> - 5セキュアルーム<br> - 1.6PBストレージ<br> - 計150名PJメンバー (内訳：クライアント40名、カウンターパート60名、ACN50名)|
 | 開発スタイル |Waterfall、オンサイト|
-| 技術スタック |AWS(IAM/Lambda/NAT/Redshift/S3/SSM/etc)、Backlog、Box、Django、JP1 AJS、JP1 Base、Jenkins、Linux、MySQL、OpenVPN、PostgreSQL、Python、Redmine、Squid、MS Teams、TeraTermm、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)、Zabbix、Bash、Windows cmd.exe|
+| 技術スタック |- PGM言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(IAM/Lambda/NAT/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Backlog、Box、Django、<br> - タスクランナー：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbux<br> - その他：Linux、、Redmine、MS Teams、TeraTermm、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)、|
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | プロジェクトスタイル | 開発スタック |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
