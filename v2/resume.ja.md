@@ -1,10 +1,10 @@
 #### 最終更新：2020/07/14
 
 
-#### レジュメの言語：日本語、[English](https://github.com/takaki-ishibashi/public/blob/master/resume.en.md)
+#### 日本語、[English](https://github.com/xtaka/public/blob/master/resume.en.md)
 
 
-### 石橋　貴生(メール：itakaki0@gmail.com、住所：日本東京都)
+### 石橋　貴生(メール：itakaki0@gmail.com、住所：日本・東京都)
 
 
 ### 概要
@@ -27,14 +27,36 @@
 
 
 ### 職務履歴
+MAU: monthly active user<br>
+SW: software<br>
+NW: network<br>
+MW: middleware<br>
+MS: Microsoft<br>
+HW: hardware<br>
+<br>
 [（株）Accenture Japan](https://www.accenture.com/jp-ja)
-
-|:--:|:---------------|
+| 区分 | 詳細 |
+|:--:|:---|
 | 期間 |2020年4月〜現在|
+| 分類 |CRM、システム|
+| 内容 |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
+| 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
+| 規模 | - 日本国内登録ユーザ：2000万人<br> - MAU：25万<br> - サーバ：50<br> - DB：15<br> - DBテーブル・ビュー：3000<br> - 平均DBレコード：30億<br> - バッチ：900<br> - 運用兼クライアント業務用セキュアルーム：5<br> - 保存ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
+| 開発スタイル |Waterfall、オンサイトorリモート|
+| 技術スタック | - 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
+
+| 区分 | 詳細 |
+|:--:|:---|
+| 期間 |2020年1月〜3月|
+| 分類 |CRM、システム|
+| 内容 |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
+| 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
+| 規模 | - 日本国内登録ユーザ：2000万人<br> - MAU：25万<br> - サーバ：50<br> - DB：15<br> - DBテーブル・ビュー：3000<br> - 平均DBレコード：30億<br> - バッチ：900<br> - 運用兼クライアント業務用セキュアルーム：5<br> - 保存ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
+| 開発スタイル |Waterfall、オンサイトorリモート|
+| 技術スタック | - 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
 
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | プロジェクトスタイル | 開発スタック |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2020年4月〜現在|CRM|某大手総合流通企業のCRMインフラの開発と運用保守|チームリード、リードエンジニア、テクニカルサポート|計80名（内訳：クライアント20名、カウンターパート20名、アクセンチュア40名）|Waterfall、オンサイト|AWS CLI、AWS IAM/Lambda/NAT/Redshift/S3/etc、Backlog(nulab社PJ管理ツール)、Bash、Box(ファイル管理)、Django、JP1 AJMS、Jenkins、Linux、MS Update catalog、MySQL、OpenVPN、PostgreSQL、Python、Redmine、Squid、Teams、TeraTermマクロ、Tmux、WSL、WinSCP、Windows AD、Windows cmd.exe、Windowsバッチ、YAMAHAルータ(RTX830）、Zabbix、vi|
 |2020年1月〜3月|CRM|某大手総合流通企業のCRMシステムの新規APIバックエンドのPOC|ソリューションアーキテクト、エンジニア|計10名（内訳：クライアント3名、アクセンチュア7名）|Scrum、オンサイト|AWS CLI、AWS Aurora/EC2/Gateway/Lambda/Redshift/etc、Bash、Git、JMeter、Linux、OpenVPN、PostgreSQL、Tmux、WSL>、Windows Server、psycopg2、vi|
 |2019年8月〜2019年11月|Web|某大手小売企業の国内EC(MAU1000万)およびEC業務システムのフルリニューアルにおける各担当ベンダーリードとのPJマネジメント|マルチベンダーマネジメント、テクニカルサポート|計120名(内訳：クライアント20名、カウンターパート60名、Accenture50名)|Waterfall、オンサイト|Backlog API、Redmine、Shell、WSL、Slack、NodeJS、Teams|
 |2018年10月〜2019年7月|Web|某大手小売Web Appにて音声および画像UX開発とその運用業務設計、Web ECのフルリニューアル|マネージャー、リードエンジニア、エンジニア、コンサルタント|130名(クライアント 20名、パートナー 60名、Accenture 50名)|Scrum、Waterfall、1week/sprint、オンサイト|Abstract(Sketch version management)、Automation(CIや多言語切替)、AWS、CSS3(FLOCSS)、Git、GitHub、GoogleDialogflow、GoogleAssistantApp、GoogleCloudPlatform、GoogleProductSearch、GoogleVisionAPI、Gulp、HTML5、JavaScript、MVP、MaterialWebDesign、MicrosoftAzureDevOps、MicrosoftOffice、MicrosoftSharePoint、NodeJS、NulabBacklog、Puppeteer、ReactJS、ReactReduxApp、ResponsiveWebDesign、SASS、ShellScript、Slack、Trello、Vim、VisualStudioCode、 macOS、npm|
@@ -120,4 +142,4 @@
 ### その他
 - GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi)、[takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
 - 趣味(1年未満を含む)：Ethreum meetup、競技プログラミング(TopCoder)、国際交流 meetup、証券投資(国内)、自動二輪ツーリング(HONDA)、読書(ダンブラウン著作、物理学関連、The Master Algorithm、Steve Jobs、道をひらく、Unix Philosophy、HARD THINGS、エッセンシャル思考、プログラミングコンテストチャレンジブック第2版)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール、ヒップホップダンス、プログラミング。
-- 関心：AIエンジニアリング、Blockchain、B2C、DAPP、DNAメモリ、Machine Learning、OSS、Q#、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、関数型プログラミング、漢方、経済産業省のグローバル企業家等育成プログラム、人口増加問題、量子コンピューティング、スマートコントラクト、ホワイトハッキング、マルチリンガル。
+- 関心：Rust、IoT、AIエンジニアリング、Blockchain、B2C、DAPP、DNAメモリ、Machine Learning、OSS、Q#、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、関数型プログラミング、漢方、経済産業省のグローバル企業家等育成プログラム、人口増加問題、量子コンピューティング、スマートコントラクト、ホワイトハッキング、マルチリンガル。
