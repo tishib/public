@@ -39,7 +39,7 @@ HW: hardware<br>
 |:--:|:---|
 | 期間 |2020年4月〜現在|
 | 分類 |CRM、システム|
-| 内容 |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
+| 内容 |日本の某大手流通企業のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
 | 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
 | 規模 | - 日本国内の登録ユーザ数：2000万<br> - MAU：25万<br> - サーバ数：50<br> - DB数：15<br> - DBテーブル・ビュー数：3000<br> - 平均DBレコード数：30億<br> - 日次実行バッチ数：900<br> - 運用兼クライアント業務用セキュアルーム数：5<br> - 保有ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
 | 開発スタイル |Waterfall、オンサイトorリモート|
@@ -49,16 +49,32 @@ HW: hardware<br>
 |:--:|:---|
 | 期間 |2020年1月〜3月|
 | 分類 |CRM、システム|
-| 内容 |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
-| 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
-| 規模 | - 日本国内登録ユーザ：2000万人<br> - MAU：25万<br> - サーバ：50<br> - DB：15<br> - DBテーブル・ビュー：3000<br> - 平均DBレコード：30億<br> - バッチ：900<br> - 運用兼クライアント業務用セキュアルーム：5<br> - 保存ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
-| 開発スタイル |Waterfall、オンサイトorリモート|
-| 技術スタック | - 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
+| 内容 |日本の某大手流通企業のカスタマーサポート業務システム向けAPIバックエンドのPoC|
+| 役割 | - リードソリューションアーキテクト|
+| 規模 | - カスタマーサポート：200人<br>  - DB：5<br> - DBテーブル/ビュー：300<br> - 平均DBレコード：10億<br> - PJメンバー：30名 (クライアント20名、アクセンチュア10名)|
+| 開発スタイル |Scrum、オンサイト|
+| 技術スタック | - 言語：Bash<br> - クラウド：AWS(Aurora/EC2/Gateway/Lambda/Redshift/etc)<br> - MW：PostgreSQL、OpenVPN、psycopg2<br> - その他：Git、JMeter、AWS CLI、Amazon Linux2、Tmux、WSL、Windows Server<br> - PJ管理ツール：Redmine|
 
-| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | プロジェクトスタイル | 開発スタック |
-|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2020年1月〜3月|CRM|某大手総合流通企業のCRMシステムの新規APIバックエンドのPOC|ソリューションアーキテクト、エンジニア|計10名（内訳：クライアント3名、アクセンチュア7名）|Scrum、オンサイト|AWS CLI、AWS Aurora/EC2/Gateway/Lambda/Redshift/etc、Bash、Git、JMeter、Linux、OpenVPN、PostgreSQL、Tmux、WSL>、Windows Server、psycopg2、vi|
-|2019年8月〜2019年11月|Web|某大手小売企業の国内EC(MAU1000万)およびEC業務システムのフルリニューアルにおける各担当ベンダーリードとのPJマネジメント|マルチベンダーマネジメント、テクニカルサポート|計120名(内訳：クライアント20名、カウンターパート60名、Accenture50名)|Waterfall、オンサイト|Backlog API、Redmine、Shell、WSL、Slack、NodeJS、Teams|
+| 区分 | 詳細 |
+|:--:|:---|
+| 期間 |2019年8月〜11月|
+| 分類 |PJマネジメント|
+| 内容 |日本の某大手小売企業のモバイル・Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメント|
+| 役割 | - 他社ベンダーマネジメント<br> - Webエンジニアリング|
+| 規模 | - ベンダー数：10社<br> - 対応チケット数：3000<br> - PJメンバー：300名 (クライアント50名、他社ベンダー180名、アクセンチュア70名)|
+| 開発スタイル |Waterfall、オンサイト|
+| 技術スタック | - 言語：Bash、NodeJS<br> - その他：Backlog API、Redmin、WSL、Slack、Chatwork|
+
+| 区分 | 詳細 |
+|:--:|:---|
+| 期間 |2018年12月〜2019年7月|
+| 分類 |Web|
+| 内容 |日本の某大手小売企業のWeb ECフルリニューアルと多言語対応|
+| 役割 | - チームマネジメント<br> - リードWebエンジニアリング<br> - ソリューションアーキテクチャ|
+| 規模 | - 画面数、ステップ数、★|
+| 開発スタイル |Waterfall、オンサイト|
+| 技術スタック | - 言語：Bash、NodeJS<br> - その他：Backlog API、Redmin、WSL、Slack、Chatwork|
+
 |2018年10月〜2019年7月|Web|某大手小売Web Appにて音声および画像UX開発とその運用業務設計、Web ECのフルリニューアル|マネージャー、リードエンジニア、エンジニア、コンサルタント|130名(クライアント 20名、パートナー 60名、Accenture 50名)|Scrum、Waterfall、1week/sprint、オンサイト|Abstract(Sketch version management)、Automation(CIや多言語切替)、AWS、CSS3(FLOCSS)、Git、GitHub、GoogleDialogflow、GoogleAssistantApp、GoogleCloudPlatform、GoogleProductSearch、GoogleVisionAPI、Gulp、HTML5、JavaScript、MVP、MaterialWebDesign、MicrosoftAzureDevOps、MicrosoftOffice、MicrosoftSharePoint、NodeJS、NulabBacklog、Puppeteer、ReactJS、ReactReduxApp、ResponsiveWebDesign、SASS、ShellScript、Slack、Trello、Vim、VisualStudioCode、 macOS、npm|
 
 
