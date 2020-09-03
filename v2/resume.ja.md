@@ -41,7 +41,7 @@ HW: hardware<br>
 | 分類 |CRM、システム|
 | 内容 |日本の某流通会社のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
 | 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
-| 規模 | - 日本国内登録ユーザ：2000万人<br> - MAU：25万<br> - サーバ：50<br> - DB：15<br> - DBテーブル・ビュー：3000<br> - 平均DBレコード：30億<br> - バッチ：900<br> - 運用兼クライアント業務用セキュアルーム：5<br> - 保存ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
+| 規模 | - 日本国内の登録ユーザ数：2000万<br> - MAU：25万<br> - サーバ数：50<br> - DB数：15<br> - DBテーブル・ビュー数：3000<br> - 平均DBレコード数：30億<br> - 日次実行バッチ数：900<br> - 運用兼クライアント業務用セキュアルーム数：5<br> - 保有ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
 | 開発スタイル |Waterfall、オンサイトorリモート|
 | 技術スタック | - 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
 
