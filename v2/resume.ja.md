@@ -69,40 +69,167 @@ HW: hardware<br>
 |:--:|:---|
 | 期間 |2018年12月〜2019年7月|
 | 分類 |Web|
-| 内容 |日本の某大手小売企業のWeb ECフルリニューアルと多言語対応|
-| 役割 | - チームマネジメント<br> - リードWebエンジニアリング<br> - ソリューションアーキテクチャ|
-| 規模 | - 画面数、ステップ数、★|
-| 開発スタイル |Waterfall、オンサイト|
-| 技術スタック | - 言語：Bash、NodeJS<br> - その他：Backlog API、Redmin、WSL、Slack、Chatwork|
+| 内容 |日本の某大手小売企業Web ECのフルリニューアルと多言語対応|
+| 役割 |- チームマネジメント<br>- リードWebエンジニアリング<br>- ソリューションアーキテクト|
+| 規模 |<br>- チーム規模：10名<br>- 最終画面数：550<br>- ステップ数：JS 7k、CSS 10k<br>- 対応言語：英語・フィンランド語・中国語<br>- PJメンバー：計130名(クライアント20名、他社ベンダー60名、アクセンチュア50名)|
+| 開発スタイル |Waterfall、Scrum(1sprint/week)、オンサイト|
+| 技術スタック |- 言語：CSS、HTML、JS、NodeJS、SASS、Bash、PHP7<br>- コーディング規約：MVP、FLOCSS、Material Web Design、Responsive Web Design<br>- バージョン管理：Abstract (Sketchファイル)、Git、Github<br>- MW：Puppeteer、osX<br>- その他：npm、Slack、Trello、ReactJS、ReactReduxAPP、Backlog (Nulab)、自動化 (CI/多言語切替)、Gulp、Microsoft Azure DevOps<br>- クラウド：AWS|
 
-|2018年10月〜2019年7月|Web|某大手小売Web Appにて音声および画像UX開発とその運用業務設計、Web ECのフルリニューアル|マネージャー、リードエンジニア、エンジニア、コンサルタント|130名(クライアント 20名、パートナー 60名、Accenture 50名)|Scrum、Waterfall、1week/sprint、オンサイト|Abstract(Sketch version management)、Automation(CIや多言語切替)、AWS、CSS3(FLOCSS)、Git、GitHub、GoogleDialogflow、GoogleAssistantApp、GoogleCloudPlatform、GoogleProductSearch、GoogleVisionAPI、Gulp、HTML5、JavaScript、MVP、MaterialWebDesign、MicrosoftAzureDevOps、MicrosoftOffice、MicrosoftSharePoint、NodeJS、NulabBacklog、Puppeteer、ReactJS、ReactReduxApp、ResponsiveWebDesign、SASS、ShellScript、Slack、Trello、Vim、VisualStudioCode、 macOS、npm|
+| 区分 | 詳細 |
+|:--:|:---|
+| 期間 |2018年10月〜2019年6月|
+| 分類 |Web、PoC|
+| 内容 |日本の某大手小売企業モバイルアプリの画像検索PoCと音声検索機能の実装/運用保守業務の設計と構築|
+| 役割 |- チームマネジメント<br>- SW/インフラエンジニアリング<br>- ソリューションアーキテクト<br>- クライアントフェンシング|
+| 規模 |- チーム規模：5名<br>- PJメンバー：計30名(クライアント25名、アクセンチュア5名)|
+| 開発スタイル |Scrum(1sprint/week)、オンサイト|
+| 技術スタック |- 言語：CSS、HTML、JS、NodeJS、Bash、Object-C、Java、TypeScript<br>- クラウド：AWS、GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI)<br>- その他：MVP、MicrosftOffice|
+
 
 
 [（株）Reaktor Japan](https://reaktor.co.jp/)
 
-| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年4月〜7月|モバイル|某モバイルポイントチャージアプリのUX改善|リードエンジニア|8名(クライアント 2名、パートナー 3名、Reaktor 3名)|Rapid Application Development、Scrum、1week/sprint、リモート|Angular、Cordova、Git、GitHub、Google Analytics、JavaScript、OnsenUI、Slack、Trello、Visual Studio Code|
-|2017年 11月〜2018 4月|モバイル、Web、データ解析|某モバイルアプリのBluetooth Low Energy接続問題を解決するためのデータ収集・分析システムのスクラッチ開発と収集データの解析|アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|19名(クライアント 10名、パートナー 3名、Reaktor 6名)|Rapid Application Development、Scrum、3weeks/sprint、リモート|AWS、AWS CLI、Advanced Encryption Standard、Android、Android Debug Bridge、Android Studio、Angular、Babel、BootStrap、BSizeSDK、Chrome Dev Tool、Chrome Inspect、Cordova、Cordova Plugin、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Java、Kanban、Linux、MySQL、NodeJS、ObjectC、OmniGraffle、Python、ReactJS、Received Signal Strength Indication、Shell、Slack、Trello、TypeScript、Visual Studio Code、Xcode、gnuplot、iOS、macOS、npm、numpy、panda、yarn、統計学|
-|2017年10月〜11月|社内改善|Apache Supersetの実用性の検証とMVPの開発|DevOps|1名|Rapid Application Development、Scrum、1week/sprint、オンサイト|AWS、Apache Superset、Docker、Docker Compose、Git、GitHub、MySQL、Redis、Shell、Slack、Trello、Ubuntu、Visual Studio Code、macOS、npm、yarn|
-|2017年9月〜10月|Unity|フィンランドの某VRプロジェクトでのネットワーク問題の調査とMVPの開発|エンジニア|7名(クライアント 3名、Reaktor 4名)|Rapid Application Development、Scrum、1week/sprint、リモート|AWS、GameLift、Lumberyard、macOS、Stream VR、Trello、UDP Protocol、Ubuntu、Unity、User Story Board、Visual Studio Code|
-|2017年7月〜9月|モバイル|某モバイルアプリのBluetooth Low Energy接続問題の調査とMVPの開発|サブアカウントマネージャー、リードエンジニア|5名(クライアント 2名、Reaktor 3名)|Rapid Application Development、Scrum、1week/sprint、リモート|AWS、Android、Android Studio、Angular、BSizeSDK、ChartJS、Chrome Dev Tool、Chrome Inspect、Cordova、DeployGate、GemTotSDK、Git、GitBucket、GitHub、Grunt、HTML、Java、Linux、MySQL、NodeJS、ObjectC、Shell、Slack、Trello、TypeScript、Visual Studio Code、Xcode、iOS、macOS、noble、npm、yarn|
-|2017年5月〜7月|モバイル|某モバイルポイントチャージアプリにて、位置情報とリクルートAPIを使った周辺情報を表示する機能の開発|エンジニア|24名(クライアント 10名、クライアントのIT部門 2名、パートナー 5名、Reaktor 7名)|Rapid Application Development、Scrum Development、2weeks/sprint、オンサイト|AWS、Android、Angular、CSS、Chrome Dev Tool、Chrome Inspect、Cordova、Data Stusio、DeployGate、Git、GitHub、Google Analytics、Grunt、HTML、Istanble、JavaScript、Kanban、Linux、Mocha、NodeJS、OnsenUI、OpenVPN、PhantomJS、Slack、TypeScript、Visual Studio Code、Xcode、iOS、loadtest、macOS、npm、supertest、yarn、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ|
+| 区分 | 詳細 |
+|:--:|:---|
+| 期間 |2018年4月〜7月|
+| 分類 |Mobile|
+| 内容 |日本の某飲料メーカのモバイルポイントチャージアプリのUX改善|
+| 役割 |- リードSWエンジニアリング<br>- クライアントフェンシング|
+| 規模 |- チーム規模：3名<br>- PJメンバー：計8名(クライアント2名、他社ベンダー3名、Reaktor3名)|
+| 開発スタイル |Scrum、1sprint/1week、Rapid Application Development、リモート|
+| 技術スタック |- 言語：JS<br>- ツール：Angular、Cordova、Git、Github、Google Analytics、OnsenUI、Slack、Trello|
 
+| 区分 | 詳細 |
+|:--:|:---|
+|期間|2017年11月〜2018年4月|
+|分類|モバイル、Web、データ解析|
+| 内容 |某モバイルアプリのBluetooth Low Energy接続問題を解決するためのデータ収集・分析システムのスクラッチ開発と収集データの解析|
+| 役割 |アカウントサポーター、リードエンジニア、エンジニア、データアナリシスト|
+| 規模 |19名(クライアント 10名、パートナー 3名、Reaktor 6名)|
+| 開発スタイル |Rapid Application Development、Scrum、3weeks/sprint、リモート|
+| 技術スタック |AWS、AWS CLI、Advanced Encryption Standard、Android、Android Debug Bridge、Android Studio、Angular、Babel、BootStrap、BSizeSDK、Chrome Dev Tool、Chrome Inspect、Cordova、Cordova Plugin、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Java、Kanban、Linux、MySQL、NodeJS、ObjectC、OmniGraffle、Python、ReactJS、Received Signal Strength Indication、Shell、Slack、Trello、TypeScript、Visual Studio Code、Xcode、gnuplot、iOS、macOS、npm、numpy、panda、yarn、統計学|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2017年10月〜11月|
+|分類|社内改善|
+|内容|Apache Supersetの実用性の検証とMVPの開発|
+|役割|DevOps|
+|規模|1名|
+|開発スタイル|Rapid Application Development、Scrum、1week/sprint、オンサイト|
+|技術スタック |AWS、Apache Superset、Docker、Docker Compose、Git、GitHub、MySQL、Redis、Shell、Slack、Trello、Ubuntu、Visual Studio Code、macOS、npm、yarn|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2017年9月〜10月|
+|分類|Unity|
+|内容|フィンランドの某VRプロジェクトでのネットワーク問題の調査とMVPの開発|
+|役割|エンジニア|
+|規模|7名(クライアント 3名、Reaktor 4名)|
+|開発スタイル|Rapid Application Development、Scrum、1week/sprint、リモート|
+|技術スタック|AWS、GameLift、Lumberyard、macOS、Stream VR、Trello、UDP Protocol、Ubuntu、Unity、User Story Board、Visual Studio Code|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2017年7月〜9月|
+|分類|モバイル|
+|内容|某モバイルアプリのBluetooth Low Energy接続問題の調査とMVPの開発|
+|役割|サブアカウントマネージャー、リードエンジニア|
+|規模|5名(クライアント 2名、Reaktor 3名)|
+|開発スタイル|Rapid Application Development、Scrum、1week/sprint、リモート|
+|技術スタック|AWS、Android、Android Studio、Angular、BSizeSDK、ChartJS、Chrome Dev Tool、Chrome Inspect、Cordova、DeployGate、GemTotSDK、Git、GitBucket、GitHub、Grunt、HTML、Java、Linux、MySQL、NodeJS、ObjectC、Shell、Slack、Trello、TypeScript、Visual Studio Code、Xcode、iOS、macOS、noble、npm、yarn|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2017年5月〜7月|
+|分類|モバイル|
+|内容|某モバイルポイントチャージアプリにて、位置情報とリクルートAPIを使った周辺情報を表示する機能の開発|
+|役割|エンジニア|
+|規模|24名(クライアント 10名、クライアントのIT部門 2名、パートナー 5名、Reaktor 7名)|
+|開発スタイル|Rapid Application Development、Scrum Development、2weeks/sprint、オンサイト|
+|技術スタック|AWS、Android、Angular、CSS、Chrome Dev Tool、Chrome Inspect、Cordova、Data Stusio、DeployGate、Git、GitHub、Google Analytics、Grunt、HTML、Istanble、JavaScript、Kanban、Linux、Mocha、NodeJS、OnsenUI、OpenVPN、PhantomJS、Slack、TypeScript、Visual Studio Code、Xcode、iOS、loadtest、macOS、npm、supertest、yarn、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ|
 
 [（株）日立製作所](https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E8%A3%BD%E4%BD%9C%E6%89%80)
 
-| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2017年1月〜4月|Web|Hitachi Automation Directorの開発にて、プロトタイプ作成とフロントエンドのUX/UI改善を行った。|エンジニア|10名|Scrum、2weeks/sprint|Atom、CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery|
-|2016年3月〜12月|システム|某自治体業務システムのサーバサイドの保守開発にて、製品/技術選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|プロジェクトリーダー、システムエンジニア|8名|Waterfall|JP1、PowerShell、VMWare、Windows、Windows Server 2015|
-|2016年1月〜2月|業務アプリケーション、ソフトウェア|SaaS型Hitachi Command Suiteの開発にて、サーバーサイドのNAT環境対応を行った。|エンジニア|10名|Scrum、2weeks/sprint|Atom、JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013|
-|2015年10月〜2016年1月|業務アプリケーション、ソフトウェア|国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応にて、先行検証とプロジェクトマネジメントを行った。|プロジェクトリーダー、テクニカルアドバイザー|5名|Waterfall|AWS、JP1、Linux、Power Shell、Windows Server 201x|
-|2015年7月〜10月|業務アプリケーション、ソフトウェア|Hitachi Command Suite（以降Hitachi Command Suite）v8.2のUnifiedモデルストレージ対応にて、商用ストレージのファイルシステムOS用ブロックを保護する機能の検討/実装を行った。|エンジニア|20名|Scrum、3weeks/sprint|Eclipce、Git、Java、SourceTree、VSP1000、Windows|
-|2015年3月〜7月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v8.1のノイジーネイバー特定機能の開発フェーズ2にて、プロジェクトマネジメントや予算管理、外部チームとのIR調整を行った。|プロジェクトサポート|20名|Waterfall|-|
-|2014年6月〜12月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v8.0.1のノイジーネイバー特定機能の開発フェーズ1にて、上流工程のマネジメントや要件定義、APIの仕様定義・実装を行った。また、それらを題材に研修員論文を執筆した。|セールス、プロジェクトリーダー、エンジニア|30名|Waterfall|ClearCase、Eclipce、SubVersion、Java、Windows|
-|2014年1月〜6月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能の開発にて、クライアントサイドのグラフチャートやリソースリストといった分析用のUIの実装を行なった。|エンジニア|40名|Waterfall|ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows|
-|2013年9月〜2014年1月|業務アプリケーション、ソフトウェア|Hitachi Command Suite v7.9のREST API機能の開発にて、APIサーバのDB設計やORMの実装を行なった。|エンジニア|50名|Waterfall|ClearCase、Eclipce、Java、MySQL、SubVersion、Windows|
+|区分|詳細|
+|:--:|:---|
+|期間|2017年1月〜4月|
+|分類|Web|
+|内容|Hitachi Automation Directorの開発にて、プロトタイプ作成とフロントエンドのUX/UI改善を行った。|
+|役割|Webエンジニアリング|
+|規模|10名|
+|開発スタイル|Scrum、2weeks/sprint|
+|技術スタック|Atom、CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2016年3月〜12月|
+|分類|システム|
+|内容|某自治体業務システムのサーバサイドの保守開発にて、製品/技術選定、先行検証、プロジェクトマネジメント、システム切り替え作業、切り替え後テストを行った。|
+|役割|プロジェクトリーダー、システムエンジニア|
+|規模|8名|
+|開発スタイル|Waterfall|
+|技術スタック|JP1、PowerShell、VMWare、Windows、Windows Server 2015|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2016年1月〜2月|
+|分類|業務アプリケーション、ソフトウェア|
+|内容|SaaS型Hitachi Command Suiteの開発にて、サーバーサイドのNAT環境対応を行った。|
+|役割|エンジニア|
+|規模|10名|
+|開発スタイル|Scrum (sprint/2weeks)|
+|技術スタック|Atom、JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2015年10月〜2016年1月|
+|分類|業務アプリケーション、ソフトウェア|
+|内容|国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応にて、先行検証とプロジェクトマネジメントを行った。|
+|役割|プロジェクトリーダー、テクニカルアドバイザー|
+|規模|5名|
+|開発スタイル|Waterfall|
+|技術スタック|AWS、JP1、Linux、Power Shell、Windows Server 201x|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2015年3月〜7月|
+|分類|業務アプリケーション、ソフトウェア|
+|内容|Hitachi Command Suite v8.1のノイジーネイバー特定機能の開発フェーズ2にて、プロジェクトマネジメントや予算管理、外部チームとのIR調整を行った。|
+|役割|プロジェクトサポート|
+|規模|20名|
+|開発スタイル|Waterfall|
+|技術スタック|-|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2014年6月〜12月|
+|分類|業務アプリケーション、ソフトウェア|
+|内容|Hitachi Command Suite v8.0.1のノイジーネイバー特定機能の開発フェーズ1にて、上流工程のマネジメントや要件定義、APIの仕様定義・実装を行った。また、それらを題材に研修員論文を執筆した。|
+|役割|セールス、プロジェクトリーダー、エンジニア|
+|規模|30名|
+|開発スタイル|Waterfall|
+|技術スタック|ClearCase、Eclipce、SubVersion、Java、Windows|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2014年1月〜6月|
+|分類|業務アプリケーション、ソフトウェア|
+|内容|Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能の開発にて、クライアントサイドのグラフチャートやリソースリストといった分析用のUIの実装を行なった。|
+|役割|エンジニア|
+|規模|40名|
+|開発スタイル|Waterfall|
+|技術スタック|ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows|
+
+|区分|詳細|
+|:--:|:---|
+|期間|2013年9月〜2014年1月|
+|分類|業務アプリケーション、ソフトウェア|
+|内容|Hitachi Command Suite v7.9のREST API機能の開発にて、APIサーバのDB設計やORMの実装を行なった。|
+|役割|エンジニア|
+|規模|50名|
+|開発スタイル|Waterfall|
+|技術スタック|ClearCase、Eclipce、Java、MySQL、SubVersion、Windows|
 
 
 ### プライベートプロジェクトの履歴
