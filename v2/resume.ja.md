@@ -35,14 +35,19 @@ MS: Microsoft<br>
 HW: hardware<br>
 <br>
 [（株）Accenture Japan](https://www.accenture.com/jp-ja)
-| 区分 | 詳細 |
+| 項目 | 内容 |
 |:--:|:---|
 | 期間 |2020年4月〜現在|
-| 分類 |CRM、システム|
+| 分類 |CRM、システム
+upstream
+downstream
+|
 | 内容 |日本の某大手流通企業のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
 | 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
-| 規模 | - 日本国内の登録ユーザ数：2000万<br> - MAU：25万<br> - サーバ数：50<br> - DB数：15<br> - DBテーブル・ビュー数：3000<br> - 平均DBレコード数：30億<br> - 日次実行バッチ数：900<br> - 運用兼クライアント業務用セキュアルーム数：5<br> - 保有ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
-| 開発スタイル |Waterfall、オンサイトorリモート|
+| 規模 | 
+LOC
+- 日本国内の登録ユーザ数：2000万<br> - MAU：25万<br> - サーバ数：50<br> - DB数：15<br> - DBテーブル・ビュー数：3000<br> - 平均DBレコード数：30億<br> - 日次実行バッチ数：900<br> - 運用兼クライアント業務用セキュアルーム数：5<br> - 保有ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
+| 開発プロセス |Waterfall、オンサイトorリモート|
 | 技術スタック | - 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
 
 | 区分 | 詳細 |
@@ -233,6 +238,16 @@ HW: hardware<br>
 
 
 ### プライベートプロジェクトの履歴
+|項目|内容|
+|:--:|:---|
+|期間|2018年3月〜12月|
+|分類|Webアプリケーション|
+|内容|音声共有サービスの開発|
+|役割|エンジニアリング|
+|規模|50名|
+|開発スタイル|Waterfall|
+|技術スタック|ClearCase、Eclipce、Java、MySQL、SubVersion、Windows|
+
 | 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
 |:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
 |2018年3月〜現在|Web|音声APIを使ったサービスの開発|リードエンジニア|2名|Rapid Application Development、2weeks/sprint、リモート|AWS、BootStrap、CSS、Chrome Dev Tool、Docker、Docker-Compose、Elastic Search、Express、Flux、Git、GitHub、HTML、Java、Jest、Mocha、MySQL、NodeJS、ReactJS、Redux、Shell、Slack、Trello、TypeScript、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn|
