@@ -48,7 +48,11 @@ downstream
 LOC
 - 日本国内の登録ユーザ数：2000万<br> - MAU：25万<br> - サーバ数：50<br> - DB数：15<br> - DBテーブル・ビュー数：3000<br> - 平均DBレコード数：30億<br> - 日次実行バッチ数：900<br> - 運用兼クライアント業務用セキュアルーム数：5<br> - 保有ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
 | 開発プロセス |Waterfall、オンサイトorリモート|
-| 技術スタック | - 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
+| 技術スタック |
+実装<br>
+テスト<br>
+保守運用<br>
+- 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -240,22 +244,63 @@ LOC
 ### プライベートプロジェクトの履歴
 |項目|内容|
 |:--:|:---|
-|期間|2018年3月〜12月|
+|期間|2018年3月〜2019年3月|
 |分類|Webアプリケーション|
-|内容|音声共有サービスの開発|
-|役割|エンジニアリング|
-|規模|50名|
-|開発スタイル|Waterfall|
-|技術スタック|ClearCase、Eclipce、Java、MySQL、SubVersion、Windows|
+|内容|音声共有SNSサービスのクライアント・サーバサイドの開発・リファクタリング|
+|役割|Webエンジニアリング|
+|規模|- LOC: 40k|
+|開発プロセス|Rapid Application Development, Scrum (スプリント/2週間)|
+|技術スタック|- 言語：PHP, CSS, HTML, Java, Bourne Shell, JavaScript (TypeScript/ReactJS/NodeJS)<br>- MW：Erasticsearch, Flux, MuSQL, Jest, Mocha, Express, Redux,<br>- クラウド：AWS<br>- その他ツール・サービス：Chrome Dev Tool、Docker、Docker-Compose、Git, Github, Slack, Trello, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn<br>|
 
-| 期間 | 分類 | 内容 | 役割 | プロジェクト規模 | 開発環境 | 開発リソース |
-|:-----|:-----|:---------------|:-----|:----------|:----------|:---------------|
-|2018年3月〜現在|Web|音声APIを使ったサービスの開発|リードエンジニア|2名|Rapid Application Development、2weeks/sprint、リモート|AWS、BootStrap、CSS、Chrome Dev Tool、Docker、Docker-Compose、Elastic Search、Express、Flux、Git、GitHub、HTML、Java、Jest、Mocha、MySQL、NodeJS、ReactJS、Redux、Shell、Slack、Trello、TypeScript、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn|
-|2017年1月～3月|Web|某スタートアップのチャットサービスの開発(NDAにより概要のみ)|リードエンジニア|5名|Scrum、2weeks/sprint、リモート|Atom、AWS、Eslint、Elixir、Git、GitHub、JavaScript、MySQL、Phoenix、Ubuntu、babel、gulp、flow、nginx、webpack|
-|2016年10月～12月|Web|某スタートアップのWebスクレーピング機能の開発(NDAにより概要のみ)|リードエンジニア|7名|Scrum、2weeks/sprint、リモート&オンサイト|Atom、CURL、Git、GitHub、HTML、JavaScript、PHP|
-|2016年2月～4月|Web|某スタートアップのECサイト(プロトタイプ)のPaypal決済機能の開発(NDAにより概要のみ)|リードエンジニア|3名|Waterfall、リモート|Atom、AWS、Git、GitHub、HTML、JavaScript、PHP、Paypal API|
-|2015年10月～2016年2月|Web|プライベートストリーミングサービスのSPAの開発|エンジニア|2名|Scrum、2weeks/sprint、リモート|Atom、AWS、Apatch、Amazon Linux、CSS、Git、GitHub、HTML、JavaScript、MySQL、PHP|
-|2015年6月～9月|Web|社内向け検索エンジンの作成|リードエンジニア|3名|Waterfall|Atom、Git、GitHub、HTML、Java、Tomcat、TiddlyWiki|
+|項目|内容|
+|:--:|:---|
+|期間|2017年1月〜3月|
+|分類|Webアプリケーション|
+|内容|日本の某スタートアップ(シードステージ)のWebチャットサービスの試作開発(NDAにより概要のみ)|
+|役割|Webエンジニアリング|
+|規模|- PJメンバー: 5名|
+|開発プロセス|Scrum, sprint/2weeks, リモート|
+|技術スタック|- 言語：Elixir, JavaScript<br>- MW：MuSQL, Phoenix, Nginx<br>- クラウド：AWS<br>- その他ツール・サービス：Atom, Eslint, Git, GitHub, Ubuntu, babel, gulp, flow, webpack|
+
+|項目|内容|
+|:--:|:---|
+|期間|2016年10月〜12月|
+|分類|Webアプリケーション|
+|内容|日本の某スタートアップ(アーリーステージ)のWebスクレーピングアプリケーションの試作開発 (NDAにより概要のみ)|
+|役割|Webエンジニアリング|
+|規模|- PJメンバー: 7名|
+|開発プロセス|Scrum, sprint/2weeks, リモート|
+|技術スタック|- 言語：HTML, JavaScript, PHP<br>- MW：cURL<br>- その他ツール・サービス：Atom, Git, GitHub|
+
+|項目|内容|
+|:--:|:---|
+|期間|2016年2月〜4月|
+|分類|Webアプリケーション|
+|内容|日本の某スタートアップ(シードステージ)のECサイトのクライアント側決済機能の試作(NDAにより概要のみ)|
+|役割|リードSWエンジニアリング|
+|規模|- PJメンバー: 3名|
+|開発プロセス|Waterfall, リモート|
+|技術スタック|- 言語: HTML, JavaScript, PHP<br>- MW: Paypal<br>- クラウドサービス: AWS<br>- その他ツール・サービス: Atom, Git, GitHub|
+
+|項目|内容|
+|:--:|:---|
+|期間|2015年10月〜2016年2月|
+|分類|Webアプリケーション|
+|内容|個人用ストリーミングサービスの開発|
+|役割|Webエンジニアリング|
+|規模|- PJメンバー: 2名<br>- LOC: 6k|
+|開発プロセス|Scrum, sprint/2weeks|
+|技術スタック|- 言語: CSS, HTML, JavaScript, PHP<br>- MW: Apatch, MySQL<br>- クラウドサービス: AWS<br>- その他ツール・サービス: Atom, Amazon Linux, Git, GitHub|
+
+|項目|内容|
+|:--:|:---|
+|期間|2015年6月〜9月|
+|分類|Webアプリケーション|
+|内容|社内向け個人Wikiメモ横断検索サービスの試作|
+|役割|リードSWエンジニアリング|
+|規模|- PJメンバー: 3名|
+|開発プロセス|Waterfall|
+|技術スタック|- 言語: HTML, Java<br>- MW: Tomcat, TiddlyWiki<br>- その他ツール・サービス: Atom, git, GitHub|
 
 
 ### テクニカルスキル(業務またはプライベートで、1年以上または1年未満使っているもの)
@@ -283,9 +328,9 @@ LOC
 |その他|Shell|AWS CLI(＊)、ElasticBeansTalk CLI、Responsive Web Design、Terraform、XCode|
 
 
-### それぞれの言語のコミュニケーションスキルレベル
+### 母国語と第二外国語のレベル
 - 日本語：母国語
-- 英語：日常会話〜ビジネスの中間
+- 英語：日常会話〜ビジネス初級
 - 中国語：日常会話
 
 
