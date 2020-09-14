@@ -32,12 +32,12 @@
 | 区分 | 内容 |
 |:----:|:-----|
 | 期間 |2020年4月〜現在|
-| 概要 |日本の某大手流通企業CRMシステムのインフラおよびWeb検索サービスの開発および運用保守|
-| 分類 |CRM、システム、下流|
+| 概要 |日本の某大手流通企業CRMシステムのインフラおよび業務用検索サービスの拡張および運用保守|
+| 分類 |CRM、システム、Webアプリケーション|
 | 役割 |- チームリード<br>- リードSWエンジニア<br>- リードNWエンジニア<br>- インフラエンジニア<br>- クライアントフェイシング<br>- ソリューションアーキテクト|
 | 規模 |- PJメンバー: 150名(クライアント40名、カウンターパート60名、アクセンチュア40名)<br>- チームメンバー: 5名<br>- 日本国内の登録ユーザ数: 2000万人<br>- MAU: 25万人<br>- サーバ数: 50<br>- DB数: 15<br>- DBテーブル数: 3000<br>- 平均DBテーブルレコード数: 30億<br>- 業務バッチ数: 900<br>- 運用保守業務およびクライアント業務用セキュアルーム数: 5<br>- 保有ファイルデータ量: 1.6PB|
-| 開発プロセス |Waterfall、オンサイトおよびリモート(コロナのため)|
-| 技術スタック |- 言語: Bash, CSS(Sass), HTML, JavaScript, Lua, Python<br>- インフラ: AWS<br>- MW: AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC), Django, MySQL, OpenVPN, PostgreSQL, Squid<br>- ジョブ: Jenkins, JP1 AJS, JP1 Base<br>- 監視: Zabbix<br>- PJ管理: Azure DevOps(タスク), Backlog(課題), Box(ファイル), Gitlab(ソースコード), OneDrive(ファイル), Outlook(コミュニケーション), Redmine(タスク), Teams(コミュニケーション)<br>- その他: AWS CLI, Amazon Linux2, Amazon Linux Security Center, Microsoft Update Catalog, TeraTermマクロ, WSL, WinSCP, Windows Server 2016, Windows cmd.exe, YAMAHAルータ(RTX810/830)|
+| 開発<br>プロセス |Waterfall(下流)、オンサイトおよびリモート(コロナのため)|
+| 技術<br>スタック |- 言語: Bash, CSS(Sass), HTML, JavaScript, Lua, Python<br>- インフラ: AWS<br>- MW: AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC), Django, MySQL, OpenVPN, PostgreSQL, Squid<br>- ジョブ: Jenkins, JP1 AJS, JP1 Base<br>- 監視: Zabbix<br>- PJ管理: Azure DevOps(タスク), Backlog(課題), Box(ファイル), Gitlab(ソースコード), OneDrive(ファイル), Outlook(コミュニケーション), Redmine(タスク), Teams(コミュニケーション)<br>- その他: AWS CLI, Amazon Linux2, Amazon Linux Security Center, Microsoft Update Catalog, TeraTermマクロ, WSL, WinSCP, Windows Server 2016, Windows cmd.exe, YAMAHAルータ(RTX810/830)|
 
 | 区分 | 詳細 |
 |:--:|:---|
