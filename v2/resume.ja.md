@@ -35,24 +35,17 @@ MS: Microsoft<br>
 HW: hardware<br>
 <br>
 [（株）Accenture Japan](https://www.accenture.com/jp-ja)
-| 項目 | 内容 |
-|:--:|:---|
+<br>
+<br>
+日本の某大手流通企業のモバイル・Web向け「CRMシステムインフラ」と「CRMシステム検索Webサービス」、「セキュリティルーム」の開発および運用保守
+| 区分 | 内容 |
+|:----:|:-----|
 | 期間 |2020年4月〜現在|
-| 分類 |CRM、システム
-upstream
-downstream
-|
-| 内容 |日本の某大手流通企業のモバイル/Webアプリ向けCRMシステムのインフラにおける開発と運用保守 |
-| 役割 | - チームリード<br> - リードSW/NWエンジニアリング<br> - インフラエンジニアリング<br> - クライアントフェイシング<br> - ソリューションアーキテクト|
-| 規模 | 
-LOC
-- 日本国内の登録ユーザ数：2000万<br> - MAU：25万<br> - サーバ数：50<br> - DB数：15<br> - DBテーブル・ビュー数：3000<br> - 平均DBレコード数：30億<br> - 日次実行バッチ数：900<br> - 運用兼クライアント業務用セキュアルーム数：5<br> - 保有ファイルデータ量：1.6PB<br> - PJメンバー：150名 (クライアント40名、カウンターパート60名、アクセンチュア50名)|
-| 開発プロセス |Waterfall、オンサイトorリモート|
-| 技術スタック |
-実装<br>
-テスト<br>
-保守運用<br>
-- 言語：Bash、HTML、JS、CSS、Lua、Python、Sass、Windows cmd.exe<br> - クラウド：AWS(EC2/VPC/CloudWatch/Lambda/Redshift/S3/SSM/etc)<br> - MW：MySQL、PostgreSQL、OpenVPN、Squid、Django、<br> - ジョブ実行ツール：JP1 AJS、JP1 Base、Jenkins<br> - 監視ツール：Zabbix<br> - その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、MS Update Catalog、MS Teams、TeraTermマクロ、WSL、WinSCP、Windows Server、YAMAHAルータ(RTX810/830)<br> - PJ管理ツール：Backlog(課題管理)、Box(ファイル管理共有)、Redmine(タスク管理)|
+| 分類 |CRM、システム、下流|
+| 役割 |- チームリード<br>- リードSWエンジニア<br>- リードNWエンジニア<br>- インフラエンジニア<br>- クライアントフェイシング<br>- ソリューションアーキテクト|
+| 規模 |- PJメンバー: 150名(クライアント40名、カウンターパート60名、アクセンチュア40名)<br>- チームメンバー: 5名<br>- 日本国内の登録ユーザ数: 2000万人<br>- MAU: 25万人<br>- サーバ数: 50<br>- DB数: 15<br>- DBテーブル数: 3000<br>- 平均DBテーブルレコード数: 30億<br>- 業務バッチ数: 900<br>- 運用保守業務およびクライアント業務用セキュアルーム数: 5<br>- 保有ファイルデータ量: 1.6PB|
+| 開発プロセス |Waterfall、オンサイトおよびリモート(コロナのため)|
+| 技術スタック |- 言語: Bash, CSS(Sass), HTML, JavaScript, Lua, Python<br>- インフラ: AWS<br>- MW: AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC), Django, MySQL, OpenVPN, PostgreSQL, Squid<br>- ジョブ: Jenkins, JP1 AJS, JP1 Base<br>- 監視: Zabbix<br>- PJ管理: Azure DevOps(タスク), Backlog(課題), Box(ファイル), Gitlab(ソースコード), OneDrive(ファイル), Outlook(コミュニケーション), Redmine(タスク), Teams(コミュニケーション)<br>- その他: AWS CLI, Amazon Linux2, Amazon Linux Security Center, Microsoft Update Catalog, TeraTermマクロ, WSL, WinSCP, Windows Server 2016, Windows cmd.exe, YAMAHAルータ(RTX810/830)|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -82,7 +75,7 @@ LOC
 | 役割 |- チームマネジメント<br>- リードWebエンジニアリング<br>- ソリューションアーキテクト|
 | 規模 |<br>- チーム規模：10名<br>- 最終画面数：550<br>- ステップ数：JS 7k、CSS 10k<br>- 対応言語：英語・フィンランド語・中国語<br>- PJメンバー：計130名(クライアント20名、他社ベンダー60名、アクセンチュア50名)|
 | 開発スタイル |Waterfall、Scrum(1sprint/week)、オンサイト|
-| 技術スタック |- 言語：CSS、HTML、JS、NodeJS、SASS、Bash、PHP7<br>- コーディング規約：MVP、FLOCSS、Material Web Design、Responsive Web Design<br>- バージョン管理：Abstract (Sketchファイル)、Git、Github<br>- MW：Puppeteer、osX<br>- その他：npm、Slack、Trello、ReactJS、ReactReduxAPP、Backlog (Nulab)、自動化 (CI/多言語切替)、Gulp、Microsoft Azure DevOps<br>- クラウド：AWS|
+| 技術スタック |- 言語：CSS、HTML、JS、NodeJS、SASS、Bash、PHP7<br>- コーディング規約：MVP、FLOCSS、Material Web Design、Responsive Web Design<br>- バージョン管理：Abstract (Sketchファイル)、Git、GitHub<br>- MW：Puppeteer、osX<br>- その他：npm、Slack、Trello、ReactJS、ReactReduxAPP、Backlog (Nulab)、自動化 (CI/多言語切替)、Gulp、Microsoft Azure DevOps<br>- クラウド：AWS|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -106,7 +99,7 @@ LOC
 | 役割 |- リードSWエンジニアリング<br>- クライアントフェンシング|
 | 規模 |- チーム規模：3名<br>- PJメンバー：計8名(クライアント2名、他社ベンダー3名、Reaktor3名)|
 | 開発スタイル |Scrum、1sprint/1week、Rapid Application Development、リモート|
-| 技術スタック |- 言語：JS<br>- ツール：Angular、Cordova、Git、Github、Google Analytics、OnsenUI、Slack、Trello|
+| 技術スタック |- 言語：JS<br>- ツール：Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -250,7 +243,7 @@ LOC
 |役割|Webエンジニアリング|
 |規模|- LOC: 40k|
 |開発プロセス|Rapid Application Development, Scrum (スプリント/2週間)|
-|技術スタック|- 言語：PHP, CSS, HTML, Java, Bourne Shell, JavaScript (TypeScript/ReactJS/NodeJS)<br>- MW：Erasticsearch, Flux, MuSQL, Jest, Mocha, Express, Redux,<br>- クラウド：AWS<br>- その他ツール・サービス：Chrome Dev Tool、Docker、Docker-Compose、Git, Github, Slack, Trello, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn<br>|
+|技術スタック|- 言語：PHP, CSS, HTML, Java, Bourne Shell, JavaScript (TypeScript/ReactJS/NodeJS)<br>- MW：Erasticsearch, Flux, MuSQL, Jest, Mocha, Express, Redux,<br>- クラウド：AWS<br>- その他ツール・サービス：Chrome Dev Tool、Docker、Docker-Compose、Git, GitHub, Slack, Trello, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn<br>|
 
 |項目|内容|
 |:--:|:---|
@@ -304,28 +297,32 @@ LOC
 
 
 ### テクニカルスキル(業務またはプライベートで、1年以上または1年未満使っているもの)
-(＊)：現在メインで使ってるもの
+Note: (*) = 現在メインで使ってるもの
 
 | 分類 | 1年以上 | 1年未満 |
 |:-----------|:-----|:-------|
-|プラットフォーム|Linux(＊)、Windows、macOS(＊)|Android、Ubuntu、iOS|
-|クライアントサイド| CSS、Flux(＊)、HTML、JavaScript、Markdown、ReactJS(＊)、Redux、TypeScript(＊)|Action Script、Angular、Cordova、Bootstrap、MXML、ObjectC、OnsenUI、Service Worker、WebRTC、flow|
-|サーバサイド|Apatch、ExpressJS(＊)、Java、MySQL、NodeJS(＊)、PHP、TypeScript(＊)|C++、Elixir、Go、Phoenix、Python、Tomcat、Unity、nginx|
-|PaaS|AWS(＊)|-|
-|エディタ|Atom、Eclipce、SublineText、Visual Studio Code(＊)、vi(＊)|Android Studio|
-|OSS|ElasticSearch|Apatch Superset|
+|OS|Amazon Linux(*), macOS(*), Ubuntu, Windows 10(*), WSL(*)|Android, iOS|
+|クライアントサイド|CSS, Flux, HTML, JavaScript, ReactJS, Redux, TypeScript(*)|Action Script, Angular, Cordova, Bootstrap, MXML, ObjectC, OnsenUI, Saas, Service Worker, WebRTC, flow|
+|サーバサイド|Apatch, Bash(*), Bourne Shell, Express, Java, MySQL, NodeJS(*), PHP, TypeScript|C(*), C++, Elixir, Go(*), Lua, Phoenix, Python, Tomcat, Unity, Nginx, Windows cmd.exe|
+|PaaS|AWS(*)|GCP, Vulture|
+|DB|MySQL, PostgreSQL(*)|-|
+|エディタ|Atom, Eclipce, SublineText, Visual Studio Code(*), vi, vim(*)|Android Studio|
+|OSS|Elasticsearch|Apatch Superset|
+|タスク管理|Trello, |Azure DevOps(*), Taiga|
 |プロジェクト管理|Kanban(＊)、Trello(＊)|JIRA|
 |開発スタイル|Rapid Application Development(＊)、Scrum(＊)、Waterfall|XP|
-|バージョン管理|ClearCase、Git(＊)、GitHub(＊)|GitBucket、SubVersion|
+|バージョン管理|ClearCase, Git(*), GitHub(*)|Gitlab, GitBucket, SubVersion|
 |パッケージ管理|npm、yarn(＊)|-|
-|タスクランナー|gulp|Grunt|
-|トランスコンパイラー|babel(＊)|-|
+|タスクランナー|gulp|Grunt, Jenkins, JP1/AJS(*)|
+|トランスコンパイラー|babel|-|
+|課題管理|-|Redmine|
+|監視|-|Zabbix|
 |バンドラー|Webpack(＊)|-|
 |テスト|Chai(＊)、Mocha(＊)、supertest(＊)|Enzyme(＊)、istanble(＊)、Jest(＊)、PhantomJS、Sinon(＊)|
-|チャット|gitter、slack(＊)|-|
+|チャット|gitter, slack(*), MS Teams|-|
 |ローカルCI|eslint|-|
 |仮想化|-|Docker(＊)、Docker Compose(＊)|
-|その他|Shell|AWS CLI(＊)、ElasticBeansTalk CLI、Responsive Web Design、Terraform、XCode|
+|その他|AWS CLI(*)|ElasticBeansTalk CLI, Responsive Web Design, Terraform, XCode, Progressive Web Design, YAMAHAルータ(RTX810/830), tmux, gcc, gdb|
 
 
 ### 母国語と第二外国語のレベル
@@ -343,6 +340,6 @@ LOC
 
 
 ### その他
-- GitHub Account：[takaki-ishibashi(private)](https://github.com/takaki-ishibashi)、[takaki-ishibashi2(business)](https://github.com/takaki-ishibashi2)
-- 趣味(1年未満を含む)：Ethreum meetup、競技プログラミング(TopCoder)、国際交流 meetup、証券投資(国内)、自動二輪ツーリング(HONDA)、読書(ダンブラウン著作、物理学関連、The Master Algorithm、Steve Jobs、道をひらく、Unix Philosophy、HARD THINGS、エッセンシャル思考、プログラミングコンテストチャレンジブック第2版)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール、ヒップホップダンス、プログラミング。
-- 関心：Rust、IoT、AIエンジニアリング、Blockchain、B2C、DAPP、DNAメモリ、Machine Learning、OSS、Q#、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、関数型プログラミング、漢方、経済産業省のグローバル企業家等育成プログラム、人口増加問題、量子コンピューティング、スマートコントラクト、ホワイトハッキング、マルチリンガル。
+- GitHub Account: [xtaka(private)](https://github.com/xtaka)
+- 趣味(1年未満を含む): 競技プログラミング(LeetCode), 地元国際交流ボランティア, 自動二輪ツーリング(HONDA), 読書(ダンブラウン著作, The Master Algorithm, 道をひらく, Unix Philosophy, はじめて読む486, HARD THINGS, エッセンシャル思考, [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケット, ヒップホップダンス
+- 関心: Service Mesh, Rust, zig, IoT, B2Cビジネス, DNAメモリ, OSS活動, Q#, [User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88), 経済産業省のグローバル企業家等育成プログラム, 人口増加問題, 食料・エネルギー問題, 量子コンピューティング
