@@ -1,3 +1,3 @@
 ###  Resumes
-- [日本語](https://github.com/takaki-ishibashi/public/blob/master/resume.jn.md)
-- [English](https://github.com/takaki-ishibashi/public/blob/master/resume.en.md)
+- [日本語](https://github.com/xtaka/public/blob/master/v2/resume.ja.md)
+- English(WIP)
