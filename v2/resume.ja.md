@@ -1,19 +1,19 @@
 #### 最終更新：2020/09/16
 
 
-#### 日本語、English(WIP)
+#### レジュメの言語：日本語、English(WIP)
 
 
-### 石橋　貴生(メール：itakaki0@gmail.com、住所：日本・東京都)
+#### 石橋　貴生(メール：itakaki0@gmail.com、住所：日本・東京都)
 
 
-### 概要
+# 概要
 実務経験は計7年になります。最初の3年間は主に国内国外の行政機関や鉄道、銀行などの大規模業務システム向けソフトウェア製品のWaterfall開発、次の1年間は自治体の中規模業務システムのWaterfall開発・運用保守、次の1.5年間ではモバイルアプリやWebアプリなどの小規模プロダクトのScrum開発・[RAD](https://ja.wikipedia.org/wiki/%E9%AB%98%E9%80%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA#:~:text=%E9%AB%98%E9%80%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA%EF%BC%88%E8%8B%B1%3A%20Rapid,%E3%81%AE1%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)開発・データ分析、その次の1年間ではWeb ECやEC運営に関わるBOシステムのフルリニューアルなどの中規模プロダクト・業務システムのPoC評価・Scrum開発・業務設計、残りの0.5年間は中規模CRMシステムのPoC評価・Waterfall開発・運用保守に携わりました。
 また、プライベートでは計3年ほど、友人のスタートアップや個人PJの小規模なWebプロダクトの開発活動をしています。
 大学ではスイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)やアメリカの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で素粒子に関する研究活動を行い、日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)で高エネルギー環境下における実験機器に関する研究と開発活動をしていました。
 
 
-### 略歴
+# 略歴
 | 期間 | 内容 |
 |:----|:----|
 | 2018〜現在 |（株）Accenture Japan|
@@ -26,21 +26,21 @@
 | 2011〜2013年（18ヶ月）|国立大学法人　筑波大学大学院　数理物質科学研究科　物理学専攻|
 
 
-### 職務履歴
+# 職務履歴
 [（株）Accenture Japan](https://www.accenture.com/jp-ja)
 
 | 区分 | 内容 |
 |:----:|:-----|
 | 期間 |2020年4月〜現在|
-| 分類 |CRM、システム、Webアプリケーション|
+| 分類 |CRM、システム、Web|
 | 概要 |日本の某大手流通企業CRMシステムのインフラ・業務用検索サービスの追加開発と運用保守|
 | 役割 |- チームリード<br>- リードSWエンジニア<br>- リードNWエンジニア<br>- インフラエンジニア<br>- クライアントフェイシング<br>- ソリューションアーキテクト|
 | 規模 |- PJメンバー：150名(クライアント40名、カウンターパート60名、アクセンチュア40名)<br>- チームメンバー：5名<br>- 日本国内の登録ユーザ：2000万人<br>- MAU：25万人<br>- サーバ：50<br>- DB：15<br>- DBテーブル：3000<br>- 平均DBテーブルレコード：30億<br>- 業務バッチ：900<br>- セキュアルーム：5<br>- ストレージ：1.6PB|
 | 開発プロセス |Waterfall(下流)、オンサイトまたはリモート|
-| 技術スタック |- 言語：Bash, CSS(Sass), HTML, JavaScript, Lua, Python<br>- インフラ：AWS<br>- MW：AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC), Django, MySQL, OpenVPN, PostgreSQL, Squid<br>- ジョブ：enkins, JP1 AJS, JP1 Base<br>- 監視：Zabbix<br>- PJ管理：Azure DevOps(タスク), Backlog(課題), Box(ファイル), Gitlab(ソースコード), OneDrive(ファイル), Outlook(コミュニケーション), Redmine(タスク), Teams(コミュニケーション)<br>- その他サービス・ツール：AWS CLI, Amazon Linux2, Amazon Linux Security Center, Microsoft Update Catalog, TeraTermマクロ, WSL, WinSCP, Windows Server 2016, Windows cmd.exe, YAMAHAルータ(RTX810/830)|
+| 技術スタック |- 言語：Bash, CSS(Sass), HTML, JavaScript, Lua, Python<br>- インフラ：AWS<br>- MW：AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC), Django, MySQL, OpenVPN, PostgreSQL, Squid<br>- ジョブ：Jenkins, JP1 AJS, JP1 Base<br>- 監視：Zabbix<br>- PJ管理：Azure DevOps(タスク), Backlog(課題), Box(ファイル), Gitlab(ソースコード), OneDrive(ファイル), Outlook(コミュニケーション), Redmine(タスク), Teams(コミュニケーション)<br>- その他サービス・ツール：AWS CLI, Amazon Linux2, Amazon Linux Security Center, Microsoft Update Catalog, TeraTermマクロ, WSL, WinSCP, Windows Server 2016, Windows cmd.exe, YAMAHAルータ(RTX810/830)|
 
 | 区分 | 詳細 |
-|:--:|:---|
+|:----:|:-----|
 | 期間 |2020年1月〜3月|
 | 分類 |PoC|
 | 概要 |日本の某大手流通企業カスタマーサポートセンター業務システム向けAPIバックエンドのPoC評価|
@@ -76,7 +76,7 @@
 | 概要 |日本の某大手小売企業モバイルアプリの画像検索機能・音声検索機能(日本語/中国語)のPoC評価と開発、当該機能の運用保守業務の設計と構築|
 | 役割 |- チームマネジメント<br>- SW・インフラエンジニア<br>- ソリューションアーキテクト<br>- クライアントフェイシング|
 | 規模 |- チーム規模：5名<br>- PJメンバー：30名(クライアント25名、アクセンチュア5名)|
-| 開発スタイル |Waterfall(上流/下流)、Scrum(1sprint/week)、MVP, オンサイト|
+| 開発プロセス |Waterfall(上流/下流)、Scrum(1sprint/week)、MVP, オンサイト|
 | 技術スタック |- 言語：Bash, CSS, HTML, JavaScript(NodeJS/TypeScript), Java, Object-C<br>- インフラ：AWS, GCP<br>- MW：GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI), Baidu(UNIT)<br>- その他ツール・サービス：Microsoft Office|
 
 
@@ -111,7 +111,6 @@
 | 規模 |1名|
 | 開発プロセス |RAD、Scrum(sprint/1week)、オンサイト|
 | 技術スタック |- 言語：Bourne Shell, JavaScript(TypeScript)<br>- インフラ：AWS<br>- MW：Apache superset, Docker, Docker Compose, MySQL, Redis<br>- OS：Ubuntu, macOS<br>- その他ツール・サービス：Git, GitHub, Slack, Trello, npm, yarn|
-AWS、Apache Superset、Docker、Docker Compose、Git、GitHub、MySQL、Redis、Shell、Slack、Trello、Ubuntu、Visual Studio Code、macOS、npm、yarn|
 
 | 区分 | 詳細 |
 |:--:|:---|
