@@ -27,53 +27,54 @@
 
 
 ## 職務履歴
-#### **日本の某大手流通企業モバイルアプリおよびWebアプリ向けCRMシステムのインフラおよびBI Webサービスの開発と運用保守**
-[（株）Accenture Japan](https://www.accenture.com/jp-ja)
+####（株）Accenture Japan
+**日本の某流通企業のモバイルおよびWebアプリ向けCRMシステムのインフラおよびBI Webサービスの開発と運用保守**
 - 期間：2020年4月〜現在
-- 分類：CRM、業務システム、Web
-- 役割：チームリード、リードNW/インフラ、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
+- 分類：B2B、CRM、業務システム、Web
+- 役割：チームマネジメント、リードNW/インフラ、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
 - 規模：PJメンバー：150名(クライアント40名、カウンターパート60名、アクセンチュア40名、チームメンバー：5名、アプリ登録ユーザ：2000万人、MAU：25万人、BIサービス利用ユーザ：50人、サーバ：50、DB：15、DBテーブル：3000、平均DBテーブルレコード：30億、業務バッチ：900、セキュアルーム：5、ストレージ：1.6PB
 - 開発プロセス：Waterfall(上流下流)、オンサイトまたはリモート
-- プログラミング言語：Bash, CSS(Sass), HTML, JavaScript, Lua, Python
-- インフラ AWS
-- MW：AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC), Django, MySQL, OpenVPN, PostgreSQL, Squid
-- ジョブ：Jenkins, JP1 AJS, JP1 Base
-- 監視：Zabbix
-- PJ管理：Azure DevOps, Backlog, Box, Gitlab, OneDrive, Outlook, Redmine, Teams
-- その他サービス・ツール：AWS CLI, Amazon Linux2, Amazon Linux Security Center, Microsoft Update Catalog, TeraTermマクロ, WSL, WinSCP, Windows Server 2016, Windows cmd.exe, YAMAHAルータ(RTX810/830)
+- プログラミング言語：Bash、CSS(Sass)、HTML、JavaScript、Lua、Python
+- インフラ：AWS
+- MW：AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC)、Django、MySQL、OpenVPN、PostgreSQL、Squid
+- ジョブツール：Jenkins、JP1 AJS、JP1 Base
+- 監視ツール：Zabbix
+- PJ管理ツール：Azure DevOps、Backlog、Box、Gitlab、OneDrive、Outlook、Redmine、Teams
+- その他：AWS CLI、Amazon Linux2、Amazon Linux Security Center、Microsoft Update Catalog、TeraTermマクロ、WSL、WinSCP、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)<br><br><br>
 
-| 区分 | 内容 |
-|:----:|:-----|
 
-| 区分 | 詳細 |
-|:----:|:-----|
-| 期間 |2020年1月〜3月|
-| 分類 |PoC|
-| 概要 |日本の某大手流通企業カスタマーサポートセンター業務システム向けAPIバックエンドのPoC評価|
-| 役割 |- リードソリューションアーキテクト<br>- バックエンドエンジニア|
-| 規模 |- カスタマーサポートチーム：200名<br>- DB：5<br>- DBテーブル：300<br>- 平均DBレコード：10億<br>- PJメンバー：30名 (クライアント20名、アクセンチュア10名)|
-| 開発プロセス |Scrum、オンサイト|
-| 技術スタック |- 言語：Bash, Python<br>- インフラ：AWS<br>- MW：AWS(Aurora/API Gateway/EC2/Lambda/Redshift), HPACK, PostgreSQL, OpenVPN, psycopg2, Salesforce Marketing Cloud<br>- その他サービス・ツール：Git, JMeter, AWS CLI, Amazon Linux2, Tmux, WSL, Windows Server 2016, Redmine|
+**日本の某流通企業のカスタマーサポートセンター業務システム向けAPIバックエンドシステム（サーバレス）のPoC評価**
+- 期間：2020年1月〜3月
+- 分類：B2B、業務システム、PoC
+- 役割：ソリューションアーキテクト、バックエンドエンジニア
+- 規模：カスタマーサポートセンター体制：200名、DB：5、DBテーブル：300、平均DBレコード：10億、PJメンバー：30名 (クライアント20名、アクセンチュア10名)
+- 開発プロセス：Scrum、オンサイト
+- プログラミング言語：Bash、Python
+- インフラ：AWS
+- MW：AWS(Aurora/API Gateway/EC2/Lambda/Redshift)、HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
+- その他：Git、JMeter、AWS CLI、Amazon Linux2、Tmux、WSL、Windows Server 2016、Redmine<br><br><br>
 
-| 区分 | 詳細 |
-|:--:|:---|
-| 期間 |2019年8月〜11月|
-| 分類 |Web, 業務システム|
-| 概要 |日本の某大手小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメントとテクニカルサポート|
-| 役割 |- PJマネジメント<br>- Webエンジニア|
-| 規模 |- PJメンバー：300名(クライアント50名、カウンターパート180名、アクセンチュア70名)<br>- カウンターパート：10社<br>- 対応課題チケット：3000件|
-| 開発プロセス |Waterfall(下流)、オンサイト|
-| 技術スタック |- 言語：Bash, JavaScript(NodeJS, ReactJS, NextJS)<br>- その他サービス・ツール：Backlog(課題), Redmin(タスク), WSL, Slack(コミュニケーション), Chatwork(コミュニケーション), Teams(コミュニケーション)|
+**日本の某小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメントとテクニカルサポート**
+- 期間：2019年8月〜11月
+- 分類：B2C、業務システム、Web
+- 役割：PJマネジメント、Webエンジニア
+- 規模：PJメンバー：300名(クライアント50名、カウンターパート180名、アクセンチュア70名)、カウンターパート：10社、処理チケット：3000件
+- 開発プロセス：Waterfall(上流下流)、オンサイト
+- プログラミング言語：Bash、JavaScript(NodeJS、ReactJS、NextJS)
+- その他：Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)<br><br><br>
 
-| 区分 | 詳細 |
-|:--:|:---|
-| 期間 |2018年12月〜2019年7月|
-| 分類 |Web|
-| 概要 |日本の某大手小売企業Web ECのフルリニューアルにおける開発と多言語対応|
-| 役割 |- チームマネジメント<br>- リードWebエンジニア<br>- ソリューションアーキテクト|
-| 規模 |<br>- チーム規模：10名<br>- 最終ECページ数：600<br>- LOC：JS 7k、CSS 10k<br>- 多言語対応：英語、フィンランド語、中国語<br>- PJメンバー：200名(クライアント40名、他社ベンダー100名、アクセンチュア60名)|
-| 開発プロセス |Waterfall(上流/下流)、Scrum(1sprint/1week)、オンサイト|
-| 技術スタック |- 言語：Bash, CSS(Sass), HTML, JavaScript(PureJS/JSX/NodeJS), PHP7<br>- インフラ：AWS<br>- MW：Gulp, jQuery, ReactJS, Redux, Puppeteer<br>- コーディングスタイル：MVP, FLOCSS(CSS), Material Web Design, Responsive Web Design<br>- バージョン管理：Abstract(Sketchファイル), Git, GitHub<br>- その他ツール・サービス：macOS, npm, Slack, Trello(タスク), Backlog(課題), 多言語対応の自動化, Azure DevOps, SEO, Microsoft Office|
+**日本の某小売企業Web ECのフルリニューアルにおける開発と多言語化対応**
+- 期間：2018年12月〜2019年7月
+- 分類：B2C、Web
+- 役割：チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
+- 規模：チームメンバー：10名、最終Webページ数：600、LOC：JS=7k/CSS=10k、多言語対応：英語/フィンランド語/中国語、PJメンバー：200名(クライアント40名、他社ベンダー100名、アクセンチュア60名)
+- 開発プロセス：Waterfall(上流下流)、Scrum、オンサイト
+- プログラミング言語：Bash、CSS(Sass)、HTML、JavaScript(PureJS/JSX/NodeJS)、PHP7
+- インフラ：AWS
+- MW：Gulp、jQuery、ReactJS、Redux、Puppeteer
+- コーディングスタイル：MVP、FLOCSS(CSS)、Material Web Design、Responsive Web Design
+- バージョン管理：Abstract(Sketchファイル)、Git、GitHub
+- その他：macOS、npm、Slack、Trello(タスク)、Backlog(課題)、多言語対応の自動化、Azure DevOps、SEO、Microsoft Office<br><br><br>
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -82,8 +83,8 @@
 | 概要 |日本の某大手小売企業モバイルアプリの画像検索機能・音声検索機能(日本語/中国語)のPoC評価と開発、当該機能の運用保守業務の設計と構築|
 | 役割 |- チームマネジメント<br>- SW・インフラエンジニア<br>- ソリューションアーキテクト<br>- クライアントフェイシング|
 | 規模 |- チーム規模：5名<br>- PJメンバー：30名(クライアント25名、アクセンチュア5名)|
-| 開発プロセス |Waterfall(上流/下流)、Scrum(1sprint/week)、MVP, オンサイト|
-| 技術スタック |- 言語：Bash, CSS, HTML, JavaScript(NodeJS/TypeScript), Java, Object-C<br>- インフラ：AWS, GCP<br>- MW：GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI), Baidu(UNIT)<br>- その他ツール・サービス：Microsoft Office|
+| 開発プロセス |Waterfall(上流/下流)、Scrum(1sprint/week)、MVP、オンサイト|
+| 技術スタック |- 言語：Bash、CSS、HTML、JavaScript(NodeJS/TypeScript)、Java、Object-C<br>- インフラ：AWS、GCP<br>- MW：GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI)、Baidu(UNIT)<br>- その他ツール・サービス：Microsoft Office|
 
 
 [（株）Reaktor Japan](https://reaktor.co.jp/)
@@ -91,12 +92,12 @@
 | 区分 | 詳細 |
 |:--:|:---|
 | 期間 |2018年4月〜7月|
-| 分類 |モバイル, Web|
+| 分類 |モバイル、Web|
 | 概要 |日本の某飲料メーカのポイントチャージアプリのUX改善|
 | 役割 |- リードSWエンジニア<br>- クライアントフェンシング|
 | 規模 |- PJメンバー：8名(クライアント2名、他社ベンダー3名、Reaktor3名)|
 | 開発プロセス |Scrum(1sprint/1week)、RAD、リモート|
-| 技術スタック |- 言語：CSS, HTML, JavaScript(PureJS)<br>- その他ツール・サービス：Angular, Cordova, Git, GitHub, Google Analytics, OnsenUI, Slack, Trello|
+| 技術スタック |- 言語：CSS、HTML、JavaScript(PureJS)<br>- その他ツール・サービス：Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello|
 
 | 区分 | 詳細 |
 |:----:|:-----|
@@ -106,7 +107,7 @@
 | 役割 |- クライアントフェイシング<br>- セールス<br>- リードSWエンジニア<br>- データアナリシスト|
 | 規模 |- PJメンバー：19名(クライアント10名、カウンターパート3名、Reaktor6名)|
 | 開発プロセス |RAD、Scrum(1sprint/3weeks)、カンバン、リモート|
-| 技術スタック |- 言語：Bourne Shell, Java, Object-C, JavaScript(TypeScript, NodeJS, ReactJS), Python<br>- インフラ：AWS<br>- MW：Angular, Babel, Bootstrap, BSizeSDK, Cordova Plugin, MySQL, Omni Graffle, numpy, panda<br>- OS：Android, Linux, iOS, macOS<br>- その他ツール・サービス：AWS CLI, Android Debug Bridge, Android Studio, Chrome Dev Tool, Crome Inspect, Cordova, Docker, Docker Compose, ElasticBeansTalk CLI, Git, GitHub, Google Analytics, Grunt, Received Signal Strength Indication, Slack, Trello, Xcode, gnuplot, npm, yarn, 統計学|
+| 技術スタック |- 言語：Bourne Shell、Java、Object-C、JavaScript(TypeScript、NodeJS、ReactJS)、Python<br>- インフラ：AWS<br>- MW：Angular、Babel、Bootstrap、BSizeSDK、Cordova Plugin、MySQL、Omni Graffle、numpy、panda<br>- OS：Android、Linux、iOS、macOS<br>- その他ツール・サービス：AWS CLI、Android Debug Bridge、Android Studio、Chrome Dev Tool、Crome Inspect、Cordova、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Received Signal Strength Indication、Slack、Trello、Xcode、gnuplot、npm、yarn、統計学|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -116,7 +117,7 @@
 | 役割 |DevOps|
 | 規模 |1名|
 | 開発プロセス |RAD、Scrum(sprint/1week)、オンサイト|
-| 技術スタック |- 言語：Bourne Shell, JavaScript(TypeScript)<br>- インフラ：AWS<br>- MW：Apache superset, Docker, Docker Compose, MySQL, Redis<br>- OS：Ubuntu, macOS<br>- その他ツール・サービス：Git, GitHub, Slack, Trello, npm, yarn|
+| 技術スタック |- 言語：Bourne Shell、JavaScript(TypeScript)<br>- インフラ：AWS<br>- MW：Apache superset、Docker、Docker Compose、MySQL、Redis<br>- OS：Ubuntu、macOS<br>- その他ツール・サービス：Git、GitHub、Slack、Trello、npm、yarn|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -136,7 +137,7 @@
 | 役割 |- セールス<br>- リードエンジニア|
 | 規模 |5名(クライアント 2名、Reaktor 3名)|
 | 開発プロセス |ビジネス開発、RAD、Scrum(sprint/1week)、リモート|
-| 技術スタック |- 言語：HTML, Java, JavaScript(NodeJS/TypeScript), Object-C, Bourne Shell<br>- インフラ：AWS<br>- MW：Angular, BSizeSDK, ChartJS, Cordova, Deploy Gate, GemTotSDK, MySQL<br>- OS：Android, Linux, iOS, macOS<br>- その他ツール・サービス；Android Studio, Chrome Dev Tool, Chrome Inspect, Git, Git Bucket, GitHub, Grunt, Slack, Trello, Xcode, noble, npm, yarn|
+| 技術スタック |- 言語：HTML、Java、JavaScript(NodeJS/TypeScript)、Object-C、Bourne Shell<br>- インフラ：AWS<br>- MW：Angular、BSizeSDK、ChartJS、Cordova、Deploy Gate、GemTotSDK、MySQL<br>- OS：Android、Linux、iOS、macOS<br>- その他ツール・サービス；Android Studio、Chrome Dev Tool、Chrome Inspect、Git、Git Bucket、GitHub、Grunt、Slack、Trello、Xcode、noble、npm、yarn|
 
 | 区分 | 詳細 |
 |:--:|:---|
@@ -146,7 +147,7 @@
 | 役割 |エンジニア|
 | 規模 |24名(クライアント10名、クライアントのIT部門2名、カウンターパート5名、Reaktor7名)|
 | 開発プロセス |RAD、Scrum(sprint/2weeks)、オンサイト|
-| 技術スタック |- 言語：CSS, HTML, JavaScript(PureJS/NodeJS/TypeScript)<br>- インフラ：AWS<br>- MW：Angular, Cordova, Istanble, OnsenUI, PhantomJS<br>- OS：Android, Linux, iOS, macOS<br>- その他ツール・サービス：Chrome Dev Tool, Chrome Inspect, Data Stusio, Deploy Gate, Git, GitHub, Google Analytics, Grunt, Kanvan, Mocha, OpenVPN, Slack, Xcode, loadtest, npm, supertest, yarn, ワイヤーフレーム(or カスタマージャーニーマップ), ペーパープロトタイプ|
+| 技術スタック |- 言語：CSS、HTML、JavaScript(PureJS/NodeJS/TypeScript)<br>- インフラ：AWS<br>- MW：Angular、Cordova、Istanble、OnsenUI、PhantomJS<br>- OS：Android、Linux、iOS、macOS<br>- その他ツール・サービス：Chrome Dev Tool、Chrome Inspect、Data Stusio、Deploy Gate、Git、GitHub、Google Analytics、Grunt、Kanvan、Mocha、OpenVPN、Slack、Xcode、loadtest、npm、supertest、yarn、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ|
 
 
 [（株）日立製作所](https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E8%A3%BD%E4%BD%9C%E6%89%80)
@@ -241,8 +242,8 @@
 | 概要 |音声共有SNSサービスのクライアント・サーバサイドの開発・リファクタリング|
 | 役割 |Webエンジニアリング|
 | 規模 |- LOC：40k|
-| 開発プロセス |RAD, Scrum(sprint/2weeks)|
-| 技術スタック |- 言語：PHP, CSS, HTML, Java, Bourne Shell, JavaScript (TypeScript/ReactJS/NodeJS)<br>- MW：Erasticsearch, Flux, MuSQL, Jest, Mocha, Express, Redux,<br>- インフラ：AWS<br>- その他ツール・サービス：Chrome Dev Tool、Docker、Docker-Compose、Git, GitHub, Slack, Trello, Visual Studio Code, Webpack, loadtest, macOS, npm, supertest, yarn<br>|
+| 開発プロセス |RAD、Scrum(sprint/2weeks)|
+| 技術スタック |- 言語：PHP、CSS、HTML、Java、Bourne Shell、JavaScript (TypeScript/ReactJS/NodeJS)<br>- MW：Erasticsearch、Flux、MuSQL、Jest、Mocha、Express、Redux,<br>- インフラ：AWS<br>- その他ツール・サービス：Chrome Dev Tool、Docker、Docker-Compose、Git、GitHub、Slack、Trello、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn<br>|
 
 |項目|内容|
 |:--:|:---|
@@ -251,8 +252,8 @@
 | 概要 |日本の某スタートアップ(シードステージ)のWebチャットサービスの試作開発(NDAにより概要のみ)|
 | 役割 |Webエンジニアリング|
 | 規模 |- PJメンバー：5名|
-| 開発プロセス |Scrum, sprint/2weeks, リモート|
-| 技術スタック |- 言語：Elixir, JavaScript<br>- MW：MuSQL, Phoenix, Nginx<br>- インフラ：AWS<br>- その他ツール・サービス：Atom, Eslint, Git, GitHub, Ubuntu, babel, gulp, flow, webpack|
+| 開発プロセス |Scrum、sprint/2weeks、リモート|
+| 技術スタック |- 言語：Elixir、JavaScript<br>- MW：MuSQL、Phoenix、Nginx<br>- インフラ：AWS<br>- その他ツール・サービス：Atom、Eslint、Git、GitHub、Ubuntu、babel、gulp、flow、webpack|
 
 |項目|内容|
 |:--:|:---|
@@ -261,8 +262,8 @@
 | 概要 |日本の某スタートアップ(アーリーステージ)のWebスクレーピングアプリケーションの試作開発 (NDAにより概要のみ)|
 | 役割 |Webエンジニアリング|
 | 規模 |- PJメンバー：7名|
-| 開発プロセス |Scrum, sprint/2weeks, リモート|
-| 技術スタック |- 言語：HTML, JavaScript, PHP<br>- MW：cURL<br>- その他ツール・サービス：Atom, Git, GitHub|
+| 開発プロセス |Scrum、sprint/2weeks、リモート|
+| 技術スタック |- 言語：HTML、JavaScript、PHP<br>- MW：cURL<br>- その他ツール・サービス：Atom、Git、GitHub|
 
 |項目|内容|
 |:--:|:---|
@@ -271,8 +272,8 @@
 | 概要 |日本の某スタートアップ(シードステージ)のECサイトのクライアント側決済機能の試作(NDAにより概要のみ)|
 | 役割 |リードSWエンジニアリング|
 | 規模 |- PJメンバー：3名|
-| 開発プロセス |Waterfall, リモート|
-| 技術スタック |- 言語：HTML, JavaScript, PHP<br>- MW：Paypal<br>- インフラ：AWS<br>- その他ツール・サービス：Atom, Git, GitHub|
+| 開発プロセス |Waterfall、リモート|
+| 技術スタック |- 言語：HTML、JavaScript、PHP<br>- MW：Paypal<br>- インフラ：AWS<br>- その他ツール・サービス：Atom、Git、GitHub|
 
 |項目|内容|
 |:--:|:---|
@@ -281,8 +282,8 @@
 | 概要 |個人用ストリーミングサービスの開発|
 | 役割 |Webエンジニアリング|
 | 規模 |- PJメンバー：2名<br>- LOC：6k|
-| 開発プロセス |Scrum, sprint/2weeks|
-| 技術スタック |- 言語：CSS, HTML, JavaScript, PHP<br>- MW：Apatch, MySQL<br>- インフラ：AWS<br>- その他ツール・サービス：Atom, Amazon Linux, Git, GitHub|
+| 開発プロセス |Scrum、sprint/2weeks|
+| 技術スタック |- 言語：CSS、HTML、JavaScript、PHP<br>- MW：Apatch、MySQL<br>- インフラ：AWS<br>- その他ツール・サービス：Atom、Amazon Linux、Git、GitHub|
 
 |項目|内容|
 |:--:|:---|
@@ -292,7 +293,7 @@
 | 役割 |リードSWエンジニアリング|
 | 規模 |- PJメンバー：3名|
 | 開発プロセス |Waterfall|
-| 技術スタック |- 言語：HTML, Java<br>- MW：Tomcat, TiddlyWiki<br>- その他ツール・サービス：Atom, git, GitHub|
+| 技術スタック |- 言語：HTML、Java<br>- MW：Tomcat、TiddlyWiki<br>- その他ツール・サービス：Atom、git、GitHub|
 
 
 
@@ -301,28 +302,28 @@ Note：(*) = 現在メインで使ってるもの
 
 | 分類 | 1年以上 | 1年未満 |
 |:-----------|:-----|:-------|
-|OS|Amazon Linux(*), macOS(*), Ubuntu, Windows 10(*), WSL(*)|Android, iOS|
-|クライアントサイド|CSS, Flux, HTML, JavaScript, ReactJS, Redux, TypeScript(*)|Action Script, Angular, Cordova, Bootstrap, MXML, ObjectC, OnsenUI, Saas, Service Worker, WebRTC, flow|
-|サーバサイド|Apatch, Bash(*), Bourne Shell, Express, Java, MySQL, NodeJS(*), PHP, TypeScript|C(*), C++, Elixir, Go(*), Lua, Phoenix, Python, Tomcat, Unity, Nginx, Windows cmd.exe|
-|PaaS|AWS(*)|GCP, Vulture|
-|DB|MySQL, PostgreSQL(*)|-|
-|エディタ|Atom, Eclipce, SublineText, Visual Studio Code(*), vi, vim(*)|Android Studio|
+|OS|Amazon Linux(*)、macOS(*)、Ubuntu、Windows 10(*)、WSL(*)|Android、iOS|
+|クライアントサイド|CSS、Flux、HTML、JavaScript、ReactJS、Redux、TypeScript(*)|Action Script、Angular、Cordova、Bootstrap、MXML、ObjectC、OnsenUI、Saas、Service Worker、WebRTC、flow|
+|サーバサイド|Apatch、Bash(*)、Bourne Shell、Express、Java、MySQL、NodeJS(*)、PHP、TypeScript|C(*)、C++、Elixir、Go(*)、Lua、Phoenix、Python、Tomcat、Unity、Nginx、Windows cmd.exe|
+|PaaS|AWS(*)|GCP、Vulture|
+|DB|MySQL、PostgreSQL(*)|-|
+|エディタ|Atom、Eclipce、SublineText、Visual Studio Code(*)、vi、vim(*)|Android Studio|
 |OSS|Elasticsearch|Apatch Superset|
-|タスク管理|Trello, |Azure DevOps(*), Taiga|
-|プロジェクト管理|Kanban、Trello|Azure DevOps(*), Taiga(*), JIRA|
+|タスク管理|Trello、|Azure DevOps(*)、Taiga|
+|プロジェクト管理|Kanban、Trello|Azure DevOps(*)、Taiga(*)、JIRA|
 |開発プロセス|RAD、Scrum(*)、Waterfall(*)|XP|
-|バージョン管理|ClearCase, Git(*), GitHub(*)|Gitlab, GitBucket, SubVersion|
-|パッケージ管理|npm, yarn|-|
-|タスクランナー|gulp|Grunt, Jenkins, JP1/AJS(*)|
+|バージョン管理|ClearCase、Git(*)、GitHub(*)|Gitlab、GitBucket、SubVersion|
+|パッケージ管理|npm、yarn|-|
+|タスクランナー|gulp|Grunt、Jenkins、JP1/AJS(*)|
 |トランスコンパイラー|babel|-|
 |課題管理|-|Redmine|
 |監視|-|Zabbix(*)|
 |バンドラー|Webpack|-|
-|テスト|Chai, Mocha, supertest|Enzyme(*), istanble, Jest(*), PhantomJS, Sinon|
-|チャット|gitter, slack(*), Teams(*)|-|
+|テスト|Chai、Mocha、supertest|Enzyme(*)、istanble、Jest(*)、PhantomJS、Sinon|
+|チャット|gitter、slack(*)、Teams(*)|-|
 |ローカルCI|eslint|-|
-|仮想化|-|Docker, Docker Compose|
-|その他ツール・サービス|AWS CLI(*)|ElasticBeansTalk CLI, Responsive Web Design, Terraform, XCode, Progressive Web Design, YAMAHAルータ(RTX810/830), tmux, gcc, gdb|
+|仮想化|-|Docker、Docker Compose|
+|その他ツール・サービス|AWS CLI(*)|ElasticBeansTalk CLI、Responsive Web Design、Terraform、XCode、Progressive Web Design、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
 
 
 
@@ -345,5 +346,5 @@ Note：(*) = 現在メインで使ってるもの
 
 ## その他
 - GitHubアカウント：[xtaka](https://github.com/xtaka)
-- 趣味(1年未満含む)：競技プログラミング(LeetCode), 地元国際交流ボランティア, 自動二輪ツーリング(HONDA CB400), 読書(The Master Algorithm/道をひらく/Unix Philosophy/はじめて読む486/HARD THINGS/エッセンシャル思考), [チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/), バスケット, ヒップホップダンス
-- 興味があるもの：Service mesh, Rust, zig, Arduino(IoT), B2Cビジネス, DNAメモリ, OSS活動, Q#, [User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88), 経済産業省のグローバル企業家等育成プログラム, 人口増加・エネルギー問題, 量子コンピューティング, 暗号学, エジプト数学
+- 趣味(1年未満含む)：競技プログラミング(LeetCode)、地元国際交流ボランティア、自動二輪ツーリング(HONDA CB400)、読書(The Master Algorithm/道をひらく/Unix Philosophy/はじめて読む486/HARD THINGS/エッセンシャル思考)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケット、ヒップホップダンス
+- 興味があるもの：Service mesh、Rust、zig、Arduino(IoT)、B2Cビジネス、DNAメモリ、OSS活動、Q#、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、経済産業省のグローバル企業家等育成プログラム、人口増加・エネルギー問題、量子コンピューティング、暗号学、エジプト数学
