@@ -11,7 +11,7 @@
 
 
 ## 略歴
-| 期間 | 内容 |
+| 期間 | 所属組織 |
 |:----|:----|
 | 2018〜現在 |（株）Accenture Japan|
 | 2017〜2018年（14ヶ月）|（株）Reaktor Japan|
@@ -25,7 +25,7 @@
 
 ## 職務履歴
 #### [（株）Accenture Japan](https://www.accenture.com/jp-ja)
-**日本の某流通企業のモバイルおよびWebアプリ向けCRMシステムのインフラおよびBI Webサービスの開発と運用保守**
+**某流通企業CRMシステムのインフラおよびCRMデータ分析Webサービスの開発と運用保守**
 - [期間] 2020年4月〜現在
 - [分類] B2B、CRM、業務システム、Web
 - [役割] チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
@@ -40,7 +40,7 @@
 - [その他ツール・サービス] AWS CLI、Amazon Linux2、Amazon Linux Security Center、Microsoft Update Catalog、TeraTermマクロ、WSL、WinSCP、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)<br><br><br>
 
 
-**日本の某流通企業のカスタマーサポートセンター業務システム向けAPIバックエンドシステム（サーバレス）のPoC評価**
+**某流通企業カスタマーサポートセンター業務システムの新規APIバックエンド（サーバレス）のPoC評価**
 - [期間] 2020年1月〜3月
 - [分類] B2B、業務システム、PoC
 - [役割] ソリューションアーキテクト、バックエンドエンジニア
@@ -51,7 +51,7 @@
 - [ミドルウェア] AWS(Aurora/API Gateway/EC2/Lambda/Redshift)、HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
 - [その他ツール・サービス] Git、JMeter、AWS CLI、Amazon Linux2、Tmux、WSL、Windows Server 2016、Redmine<br><br><br>
 
-**日本の某小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメントとテクニカルサポート**
+**某小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメント**
 - [期間] 2019年8月〜11月
 - [分類] B2C、業務システム、Web
 - [役割] PJマネジメント、Webエンジニア
@@ -60,7 +60,7 @@
 - [プログラミング言語] Bash、JavaScript(NodeJS、ReactJS、NextJS)
 - [その他ツール・サービス] Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)<br><br><br>
 
-**日本の某小売企業Web ECのフルリニューアルにおける開発と多言語化対応**
+**某小売企業Web ECのフルリニューアルと多言語化対応**
 - [期間] 2018年12月〜2019年7月
 - [分類] B2C、Web
 - [役割] チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
@@ -73,7 +73,7 @@
 - [バージョン管理] Abstract(Sketchファイル)、Git、GitHub
 - [その他ツール・サービス] macOS、npm、Slack、Trello(タスク)、Backlog(課題)、多言語対応の自動化、Azure DevOps、SEO、Microsoft Office<br><br><br>
 
-**日本の某小売企業モバイルアプリの画像検索機能・音声検索機能(日本語/中国語)のPoC評価と開発、当該機能の運用保守業務の設計と構築**
+**某小売企業モバイルアプリの画像検索機能・音声検索機能（日本語/中国語）のPoC評価と開発および運用保守業務の設計と構築**
 - [期間] 2018年10月〜2019年6月
 - [分類] B2C、モバイル、Web、PoC
 - [役割] チームマネジメント、リードSWエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
@@ -86,7 +86,7 @@
 
 
 #### [（株）Reaktor Japan](https://reaktor.co.jp/)
-**日本の某飲料メーカのポイントチャージアプリのUX改善**
+**某飲料メーカのポイントチャージアプリのUX改善**
 - [期間] 2018年4月〜7月
 - [分類] B2C、モバイル、Web、PoC
 - [役割] リードSWエンジニア、クライアントフェンシング
@@ -95,7 +95,7 @@
 - [プログラミング言語] CSS、HTML、JavaScript(PureJS)
 - [その他ツール・サービス] Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello<br><br><br>
 
-**日本の某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy接続問題を解決するためのデータ収集インフラのフルスクラッチ開発と収集データの分析・MVP開発**
+**某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の解決に向けたトラッキングシステムの開発とトラッキングデータ分析**
 - [期間] 2017年11月〜2018年4月
 - [分類] B2C、モバイル、Web、データ分析
 - [役割] クライアントフェイシング、セールス、リードSWエンジニア、データアナリシスト
@@ -107,7 +107,7 @@
 - [OS] Android、Linux、iOS、macOS
 - [その他ツール・サービス] AWS CLI、Android Debug Bridge、Android Studio、Chrome Dev Tool、Crome Inspect、Cordova、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Received Signal Strength Indication、Slack、Trello、Xcode、gnuplot、npm、yarn<br><br><br>
 
-**Apache Supersetの実用性の検証とMVPの開発**
+**Apache Supersetによる社内プロセスの改善とPoC評価**
 - [期間] 2017年10月〜11月
 - [分類] 社内プロセス改善
 - [役割] DevOps
@@ -119,7 +119,7 @@
 - [OS] Ubuntu、macOS
 - [その他ツール・サービス] Git、GitHub、Slack、Trello、npm、yarn<br><br><br>
 
-**フィンランドの某VRプロジェクトでのネットワーク問題のデバッグとMVP開発**
+**フィンランドの某VRプロジェクトでのネットワーク問題調査とソリューションMVP開発**
 - [期間] 2017年9月〜10月
 - [分類] Unity
 - [役割] SWエンジニア
@@ -129,7 +129,7 @@
 - [ミドルウェア] GameLift、Lumberyard、Stream VR、Unity
 - [その他ツール・サービス] macOS、Trello、UDP Protocol、Ubuntu、User Story Board<br><br><br>
 
-**日本の某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy接続問題の調査とMVP開発**
+**某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の調査とソリューションMVP開発**
 - [期間] 2017年7月〜9月
 - [分類] B2C、モバイル
 - [役割] セールス、リードエンジニア
@@ -141,7 +141,7 @@
 - [OS] Android、Linux、iOS、macOS
 - [その他ツール・サービス] Android Studio、Chrome Dev Tool、Chrome Inspect、Git、Git Bucket、GitHub、Grunt、Slack、Trello、Xcode、noble、npm、yarn<br><br><br>
 
-**日本の某飲料メーカのポイントチャージアプリにおける位置情報とリクルートAPIを使った周辺施設情報を表示する機能の開発**
+**某飲料メーカのポイントチャージアプリにおける周辺クーポンコンテンツ表示機能の開発**
 - [期間] 2017年5月〜7月
 - [分類] B2C、モバイル
 - [役割] エンジニア
@@ -155,7 +155,7 @@
 
 
 #### [（株）日立製作所](https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E8%A3%BD%E4%BD%9C%E6%89%80)
-**Hitachi Automation DirectorのPoC評価とフロントエンドのUX/UI改善**
+**Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善**
 - [期間] 2017年1月〜4月
 - [分類] Web
 - [役割] Webエンジニア
