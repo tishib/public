@@ -31,273 +31,273 @@ CRMシステムやデータマートPJTでは、アジャイル開発、セキ�
 ## 職務履歴
 ### Accenture PLC
 大手流通企業のCRMシステムとデータマートのインフラ再構築（2021年3月～現在）
-- 【キーワード】B2C、B2B、CRM、BI、業務システム、Web
-- 【役割】チームマネジメント、クライアントフェイシング、リードエンジニア、ソリューションアーキテクト
-- 【規模】PJTメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：100人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブル平均レコード数：10億、バッチ処理：900ジョブ、セキュリティルーム：5部屋、ストレージ利用量：1.6PB
+- 【キーワード】 B2C、B2B、CRM、BI、業務システム、Web
+- 【役割】 チームマネジメント、クライアントフェイシング、リードエンジニア、ソリューションアーキテクト
+- 【規模】 PJTメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：100人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブル平均レコード数：10億、バッチ処理：900ジョブ、セキュリティルーム：5部屋、ストレージ利用量：1.6PB
 - 【開発スタイル】ウォーターフォール（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】bash、batch script、JavaScript、Python、Teraterm、VDS
+- 【プログラミング言語】 bash、batch script、JavaScript、Python、Teraterm、VDS
 - 【インフラ】AWS、クライアントのオンプレミス
 TBD
 <br>
 
 某流通企業CRMシステムのインフラおよびCRMデータ分析Webサービスの開発と運用保守（2020年4月〜2月）
-- 【キーワード】B2B、CRM、業務システム、Web
-- 【役割】チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
-- 【規模】PJメンバー数：150名(クライアント40名、カウンターパート60名、アクセンチュア40名)、チームメンバー数：5名、CRM対象アプリ登録ユーザ数：2000万人、MAU：25万人、データ分析サービス利用ユーザ数：50人、サーバ：50、DB：15、DBテーブル：3000、平均DBテーブルレコード：15億、業務バッチ数：900、セキュアルーム数：5、ストレージ利用量：1.6PB
-- 【開発プロセス】Waterfall(上流下流)、オンサイトまたはリモート
-- 【プログラミング言語】Bash、CSS(Sass)、HTML、JavaScript、Lua、Python
+- 【キーワード】 B2B、CRM、業務システム、Web
+- 【役割】 チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
+- 【規模】 PJメンバー数：150名(クライアント40名、カウンターパート60名、アクセンチュア40名)、チームメンバー数：5名、CRM対象アプリ登録ユーザ数：2000万人、MAU：25万人、データ分析サービス利用ユーザ数：50人、サーバ：50、DB：15、DBテーブル：3000、平均DBテーブルレコード：15億、業務バッチ数：900、セキュアルーム数：5、ストレージ利用量：1.6PB
+- 【開発プロセス】 Waterfall(上流下流)、オンサイトまたはリモート
+- 【プログラミング言語】 Bash、CSS(Sass)、HTML、JavaScript、Lua、Python
 - 【インフラ】AWS
-- 【ミドルウェア】AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC)、Django、MySQL、OpenVPN、PostgreSQL、Squid
-- 【ジョブツール】Jenkins、JP1 AJS、JP1 Base
-- 【監視ツール】Zabbix
-- 【マネジメントツール】Azure DevOps、Backlog、Box、Gitlab、OneDrive、Outlook、Redmine、Teams
-- 【その他ツール・サービス】AWS CLI、Amazon Linux2、Amazon Linux Security Center、Microsoft Update Catalog、TeraTermマクロ、WSL、WinSCP、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)
+- 【ミドルウェア】 AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC)、Django、MySQL、OpenVPN、PostgreSQL、Squid
+- 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
+- 【監視ツール】 Zabbix
+- 【マネジメントツール】 Azure DevOps、Backlog、Box、Gitlab、OneDrive、Outlook、Redmine、Teams
+- 【その他ツール・サービス】 AWS CLI、Amazon Linux2、Amazon Linux Security Center、Microsoft Update Catalog、TeraTermマクロ、WSL、WinSCP、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)
 <br>
 
 某流通企業カスタマーサポートセンター業務システムの新規サーバレスAPIバックエンドのPoC評価（2020年1月〜3月）
-- 【キーワード】B2B、業務システム、PoC
-- 【役割】ソリューションアーキテクト、バックエンドエンジニア
-- 【規模】カスタマーサポートセンター体制：200名、DB：5、DBテーブル：300、平均DBレコード：10億、PJメンバー：30名 (クライアント20名、アクセンチュア10名)
-- 【開発プロセス】Scrum、オンサイト
-- 【プログラミング言語】Bash、Python
+- 【キーワード】 B2B、業務システム、PoC
+- 【役割】 ソリューションアーキテクト、バックエンドエンジニア
+- 【規模】 カスタマーサポートセンター体制：200名、DB：5、DBテーブル：300、平均DBレコード：10億、PJメンバー：30名 (クライアント20名、アクセンチュア10名)
+- 【開発プロセス】 Scrum、オンサイト
+- 【プログラミング言語】 Bash、Python
 - 【インフラ】AWS
-- 【ミドルウェア】AWS(Aurora/API Gateway/EC2/Lambda/Redshift)、HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
-- 【その他ツール・サービス】Git、JMeter、AWS CLI、Amazon Linux2、Tmux、WSL、Windows Server 2016、Redmine
+- 【ミドルウェア】 AWS(Aurora/API Gateway/EC2/Lambda/Redshift)、HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
+- 【その他ツール・サービス】 Git、JMeter、AWS CLI、Amazon Linux2、Tmux、WSL、Windows Server 2016、Redmine
 <br>
 
 某小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメント（2019年8月〜11月）
-- 【キーワード】B2C、業務システム、Web
-- 【役割】PJマネジメント、Webエンジニア
-- 【規模】PJメンバー：300名(クライアント50名、カウンターパート180名、アクセンチュア70名)、カウンターパート：10社、対応イシュー数：3000件
-- 【開発プロセス】Waterfall(上流下流)、オンサイト
-- 【プログラミング言語】Bash、JavaScript(NodeJS、ReactJS、NextJS)
-- 【その他ツール・サービス】Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)
+- 【キーワード】 B2C、業務システム、Web
+- 【役割】 PJマネジメント、Webエンジニア
+- 【規模】 PJメンバー：300名(クライアント50名、カウンターパート180名、アクセンチュア70名)、カウンターパート：10社、対応イシュー数：3000件
+- 【開発プロセス】 Waterfall(上流下流)、オンサイト
+- 【プログラミング言語】 Bash、JavaScript(NodeJS、ReactJS、NextJS)
+- 【その他ツール・サービス】 Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)
 <br>
 
 某小売企業Web ECのフルリニューアルと多言語化対応（2018年12月〜2019年7月）
-- 【キーワード】B2C、Web
-- 【役割】チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
-- 【規模】チームメンバー：10名、最終Webページ数：600、LOC：JS=7k/CSS=10k、多言語対応：英語/フィンランド語/中国語、PJメンバー：200名(クライアント40名、他社ベンダー100名、アクセンチュア60名)
-- 【開発プロセス】Waterfall(上流下流)、Scrum、MVP、オンサイト
-- 【プログラミング言語】Bash、CSS(Sass)、HTML、JavaScript(PureJS/JSX/NodeJS)、PHP7
+- 【キーワード】 B2C、Web
+- 【役割】 チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
+- 【規模】 チームメンバー：10名、最終Webページ数：600、LOC：JS=7k/CSS=10k、多言語対応：英語/フィンランド語/中国語、PJメンバー：200名(クライアント40名、他社ベンダー100名、アクセンチュア60名)
+- 【開発プロセス】 Waterfall(上流下流)、Scrum、MVP、オンサイト
+- 【プログラミング言語】 Bash、CSS(Sass)、HTML、JavaScript(PureJS/JSX/NodeJS)、PHP7
 - 【インフラ】AWS
-- 【ミドルウェア】Gulp、jQuery、ReactJS、Redux、Puppeteer
-- 【コーディングスタイル】FLOCSS(CSS)、Material Web Design、Responsive Web Design
-- 【バージョン管理】Abstract(Sketchファイル)、Git、GitHub
-- 【その他ツール・サービス】macOS、npm、Slack、Trello(タスク)、Backlog(課題)、多言語対応の自動化、Azure DevOps、SEO、Microsoft Office
+- 【ミドルウェア】 Gulp、jQuery、ReactJS、Redux、Puppeteer
+- 【コーディングスタイル】 FLOCSS(CSS)、Material Web Design、Responsive Web Design
+- 【バージョン管理】 Abstract(Sketchファイル)、Git、GitHub
+- 【その他ツール・サービス】 macOS、npm、Slack、Trello(タスク)、Backlog(課題)、多言語対応の自動化、Azure DevOps、SEO、Microsoft Office
 <br>
 
 某小売企業モバイルアプリの画像検索機能・音声検索機能（日本語/中国語）のPoC評価と開発および運用保守業務の設計と構築（2018年10月〜2019年6月）
-- 【キーワード】B2C、モバイル、Web、PoC
-- 【役割】チームマネジメント、リードSWエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
-- 【規模】チーム【規模】5名、PJメンバー：30名(クライアント25名、アクセンチュア5名)
-- 【開発プロセス】Waterfall(上流下流)、Scrum、MVP、オンサイト
-- 【プログラミング言語】Bash、CSS、HTML、JavaScript(NodeJS/TypeScript)、Java、Object-C
+- 【キーワード】 B2C、モバイル、Web、PoC
+- 【役割】 チームマネジメント、リードSWエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
+- 【規模】 チーム【規模】 5名、PJメンバー：30名(クライアント25名、アクセンチュア5名)
+- 【開発プロセス】 Waterfall(上流下流)、Scrum、MVP、オンサイト
+- 【プログラミング言語】 Bash、CSS、HTML、JavaScript(NodeJS/TypeScript)、Java、Object-C
 - 【インフラ】AWS、GCP
-- 【ミドルウェア】GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI)、Baidu(UNIT)
-- 【その他ツール・サービス】Microsoft Office
+- 【ミドルウェア】 GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI)、Baidu(UNIT)
+- 【その他ツール・サービス】 Microsoft Office
 <br>
 <br>
 
 ### Reacktor japan株式会社
 某飲料メーカのポイントチャージアプリのUX改善（2018年4月〜7月）
-- 【キーワード】B2C、モバイル、Web、PoC
-- 【役割】リードSWエンジニア、クライアントフェンシング
-- 【規模】PJメンバー：8名(クライアント2名、他社ベンダー3名、Reaktor3名)
-- 【開発プロセス】Scrum、RAD、リモート
-- 【プログラミング言語】CSS、HTML、JavaScript(PureJS)
-- 【その他ツール・サービス】Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello
+- 【キーワード】 B2C、モバイル、Web、PoC
+- 【役割】 リードSWエンジニア、クライアントフェンシング
+- 【規模】 PJメンバー：8名(クライアント2名、他社ベンダー3名、Reaktor3名)
+- 【開発プロセス】 Scrum、RAD、リモート
+- 【プログラミング言語】 CSS、HTML、JavaScript(PureJS)
+- 【その他ツール・サービス】 Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello
 <br>
 
 某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の解決に向けたトラッキングシステムの開発とトラッキングデータ分析（2017年11月〜2018年4月）
-- 【キーワード】B2C、モバイル、Web、データ分析
-- 【役割】クライアントフェイシング、セールス、リードSWエンジニア、データアナリシスト
-- 【規模】PJメンバー：19名(クライアント10名、カウンターパート3名、Reaktor6名)
-- 【開発プロセス】RAD、Scrum、リモート
-- 【プログラミング言語】Bourne Shell、Java、Object-C、JavaScript(TypeScript、NodeJS、ReactJS)、Python
+- 【キーワード】 B2C、モバイル、Web、データ分析
+- 【役割】 クライアントフェイシング、セールス、リードSWエンジニア、データアナリシスト
+- 【規模】 PJメンバー：19名(クライアント10名、カウンターパート3名、Reaktor6名)
+- 【開発プロセス】 RAD、Scrum、リモート
+- 【プログラミング言語】 Bourne Shell、Java、Object-C、JavaScript(TypeScript、NodeJS、ReactJS)、Python
 - 【インフラ】AWS
-- 【ミドルウェア】Angular、Babel、Bootstrap、BSizeSDK、Cordova Plugin、MySQL、Omni Graffle、numpy、panda
-- 【OS】Android、Linux、iOS、macOS
-- 【その他ツール・サービス】AWS CLI、Android Debug Bridge、Android Studio、Chrome Dev Tool、Crome Inspect、Cordova、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Received Signal Strength Indication、Slack、Trello、Xcode、gnuplot、npm、yarn
+- 【ミドルウェア】 Angular、Babel、Bootstrap、BSizeSDK、Cordova Plugin、MySQL、Omni Graffle、numpy、panda
+- 【OS】 Android、Linux、iOS、macOS
+- 【その他ツール・サービス】 AWS CLI、Android Debug Bridge、Android Studio、Chrome Dev Tool、Crome Inspect、Cordova、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Received Signal Strength Indication、Slack、Trello、Xcode、gnuplot、npm、yarn
 <br>
 
 Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月〜11月）
-- 【キーワード】社内プロセス改善
-- 【役割】DevOps
-- 【規模】1名
-- 【開発プロセス】RAD、Scrum、オンサイト
-- 【プログラミング言語】Bourne Shell、JavaScript(TypeScript)
+- 【キーワード】 社内プロセス改善
+- 【役割】 DevOps
+- 【規模】 1名
+- 【開発プロセス】 RAD、Scrum、オンサイト
+- 【プログラミング言語】 Bourne Shell、JavaScript(TypeScript)
 - 【インフラ】AWS
-- 【ミドルウェア】Apache superset、Docker、Docker Compose、MySQL、Redis
-- 【OS】Ubuntu、macOS
-- 【その他ツール・サービス】Git、GitHub、Slack、Trello、npm、yarn
+- 【ミドルウェア】 Apache superset、Docker、Docker Compose、MySQL、Redis
+- 【OS】 Ubuntu、macOS
+- 【その他ツール・サービス】 Git、GitHub、Slack、Trello、npm、yarn
 <br>
 
 フィンランドの某VRプロジェクトでのネットワーク問題調査とソリューションMVP開発（2017年9月〜10月）
-- 【キーワード】Unity
-- 【役割】SWエンジニア
-- 【規模】7名(クライアント3名、Reaktor4名)
-- 【開発プロセス】RAD、Scrum、リモート
+- 【キーワード】 Unity
+- 【役割】 SWエンジニア
+- 【規模】 7名(クライアント3名、Reaktor4名)
+- 【開発プロセス】 RAD、Scrum、リモート
 - 【インフラ】AWS
-- 【ミドルウェア】GameLift、Lumberyard、Stream VR、Unity
-- 【その他ツール・サービス】macOS、Trello、UDP Protocol、Ubuntu、User Story Board
+- 【ミドルウェア】 GameLift、Lumberyard、Stream VR、Unity
+- 【その他ツール・サービス】 macOS、Trello、UDP Protocol、Ubuntu、User Story Board
 <br>
 
 某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の調査とソリューションMVP開発（2017年7月〜9月）
-- 【キーワード】B2C、モバイル
-- 【役割】セールス、リードエンジニア
-- 【規模】5名(クライアント 2名、Reaktor 3名)
-- 【開発プロセス】ビジネス開発、RAD、Scrum、リモート
-- 【プログラミング言語】HTML、Java、JavaScript(NodeJS/TypeScript)、Object-C、Bourne Shell
+- 【キーワード】 B2C、モバイル
+- 【役割】 セールス、リードエンジニア
+- 【規模】 5名(クライアント 2名、Reaktor 3名)
+- 【開発プロセス】 ビジネス開発、RAD、Scrum、リモート
+- 【プログラミング言語】 HTML、Java、JavaScript(NodeJS/TypeScript)、Object-C、Bourne Shell
 - 【インフラ】AWS
-- 【ミドルウェア】Angular、BSizeSDK、ChartJS、Cordova、Deploy Gate、GemTotSDK、MySQL
-- 【OS】Android、Linux、iOS、macOS
-- 【その他ツール・サービス】Android Studio、Chrome Dev Tool、Chrome Inspect、Git、Git Bucket、GitHub、Grunt、Slack、Trello、Xcode、noble、npm、yarn
+- 【ミドルウェア】 Angular、BSizeSDK、ChartJS、Cordova、Deploy Gate、GemTotSDK、MySQL
+- 【OS】 Android、Linux、iOS、macOS
+- 【その他ツール・サービス】 Android Studio、Chrome Dev Tool、Chrome Inspect、Git、Git Bucket、GitHub、Grunt、Slack、Trello、Xcode、noble、npm、yarn
 <br>
 
 某飲料メーカのポイントチャージアプリにおける周辺クーポンコンテンツ表示機能の開発（2017年5月〜7月）
-- 【キーワード】B2C、モバイル
-- 【役割】エンジニア
-- 【規模】24名(クライアント10名、クライアントのIT部門2名、カウンターパート5名、Reaktor7名)
-- 【開発プロセス】RAD、Scrum、オンサイト
-- 【プログラミング言語】CSS、HTML、JavaScript(PureJS/NodeJS/TypeScript)
+- 【キーワード】 B2C、モバイル
+- 【役割】 エンジニア
+- 【規模】 24名(クライアント10名、クライアントのIT部門2名、カウンターパート5名、Reaktor7名)
+- 【開発プロセス】 RAD、Scrum、オンサイト
+- 【プログラミング言語】 CSS、HTML、JavaScript(PureJS/NodeJS/TypeScript)
 - 【インフラ】AWS
-- 【ミドルウェア】Angular、Cordova、Istanble、OnsenUI、PhantomJS
-- 【OS】Android、Linux、iOS、macOS
-- 【その他ツール・サービス】Chrome Dev Tool、Chrome Inspect、Data Stusio、Deploy Gate、Git、GitHub、Google Analytics、Grunt、Kanvan、Mocha、OpenVPN、Slack、Xcode、loadtest、npm、supertest、yarn、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ
+- 【ミドルウェア】 Angular、Cordova、Istanble、OnsenUI、PhantomJS
+- 【OS】 Android、Linux、iOS、macOS
+- 【その他ツール・サービス】 Chrome Dev Tool、Chrome Inspect、Data Stusio、Deploy Gate、Git、GitHub、Google Analytics、Grunt、Kanvan、Mocha、OpenVPN、Slack、Xcode、loadtest、npm、supertest、yarn、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ
 <br>
 <br>
 
 ### 日立製作所
 Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善（2017年1月〜4月）
-- 【キーワード】Web
-- 【役割】Webエンジニア
-- 【規模】10名
-- 【開発プロセス】Scrum
-- 【その他ツール・サービス】CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery
+- 【キーワード】 Web
+- 【役割】 Webエンジニア
+- 【規模】 10名
+- 【開発プロセス】 Scrum
+- 【その他ツール・サービス】 CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery
 <br>
 
 某自治体の業務システムの運用保守とセキュリティパッチ対応（2016年3月〜12月）
-- 【キーワード】B2B、業務システム
-- 【役割】チームリード、システムエンジニア
-- 【規模】8名
-- 【開発プロセス】Waterfall(下流)
-- 【その他ツール・サービス】JP1、PowerShell、VMWare、Windows、Windows Server 2015
+- 【キーワード】 B2B、業務システム
+- 【役割】 チームリード、システムエンジニア
+- 【規模】 8名
+- 【開発プロセス】 Waterfall(下流)
+- 【その他ツール・サービス】 JP1、PowerShell、VMWare、Windows、Windows Server 2015
 <br>
 
 SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
-- 【キーワード】B2B、業務アプリケーション
-- 【役割】エンジニア
-- 【規模】10名
-- 【開発プロセス】Scrum
-- 【その他ツール・サービス】JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013
+- 【キーワード】 B2B、業務アプリケーション
+- 【役割】 エンジニア
+- 【規模】 10名
+- 【開発プロセス】 Scrum
+- 【その他ツール・サービス】 JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013
 <br>
 
 国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応での先行検証とマネジメント（2015年10月〜2016年1月）
-- 【キーワード】B2B、業務アプリケーション
-- 【役割】チームリード、テクニカルアドバイザー
-- 【規模】5名
-- 【開発プロセス】Waterfall(上流)
-- 【その他ツール・サービス】AWS、JP1、Linux、Power Shell、Windows Server 201x
+- 【キーワード】 B2B、業務アプリケーション
+- 【役割】 チームリード、テクニカルアドバイザー
+- 【規模】 5名
+- 【開発プロセス】 Waterfall(上流)
+- 【その他ツール・サービス】 AWS、JP1、Linux、Power Shell、Windows Server 201x
 <br>
 
 Hitachi Command Suite v8.1のノイジーネイバー特定機能開発でのPJマネジメント（2015年3月〜7月）
-- 【キーワード】B2B、業務アプリケーション
-- 【役割】PJサブマネージャー
-- 【規模】20名
-- 【開発プロセス】Waterfall(上流)
+- 【キーワード】 B2B、業務アプリケーション
+- 【役割】 PJサブマネージャー
+- 【規模】 20名
+- 【開発プロセス】 Waterfall(上流)
 <br>
 
 Hitachi Command Suite v8.0.1のノイジーネイバー特定機能開発での要件定義と仕様定義および実装、また、それらを題材とした社内論文の執筆（2014年6月〜12月）
-- 【キーワード】B2B、業務アプリケーション
-- 【役割】セールス、PJサブマネージャー、エンジニア
-- 【規模】30名
-- 【開発プロセス】Waterfall(上流)
-- 【その他ツール・サービス】ClearCase、Eclipce、SubVersion、Java、Windows
+- 【キーワード】 B2B、業務アプリケーション
+- 【役割】 セールス、PJサブマネージャー、エンジニア
+- 【規模】 30名
+- 【開発プロセス】 Waterfall(上流)
+- 【その他ツール・サービス】 ClearCase、Eclipce、SubVersion、Java、Windows
 <br>
 
 Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能開発での分析UIの実装（2014年1月〜6月）
-- 【キーワード】B2B、業務アプリケーション
-- 【役割】エンジニア
-- 【規模】40名
-- 【開発プロセス】Waterfall(下流)
-- 【その他ツール・サービス】ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows
+- 【キーワード】 B2B、業務アプリケーション
+- 【役割】 エンジニア
+- 【規模】 40名
+- 【開発プロセス】 Waterfall(下流)
+- 【その他ツール・サービス】 ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows
 <br>
 
 Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と実装（2013年9月〜2014年1月）
-- 【キーワード】B2B、業務アプリケーション
-- 【役割】エンジニア
-- 【規模】50名
-- 【開発プロセス】Waterfall(下流)
-- 【その他ツール・サービス】ClearCase、Eclipce、Java、MySQL、SubVersion、Windows
+- 【キーワード】 B2B、業務アプリケーション
+- 【役割】 エンジニア
+- 【規模】 50名
+- 【開発プロセス】 Waterfall(下流)
+- 【その他ツール・サービス】 ClearCase、Eclipce、Java、MySQL、SubVersion、Windows
 <br>
 <br>
 
 ## プライベートプロジェクト履歴
 音声共有SNSサービス（2018年3月〜2019年3月）
-- 【キーワード】Web
-- 【役割】Webエンジニア
-- 【規模】LOC：40k
-- 【開発プロセス】RAD、Scrum
-- 【プログラミング言語】PHP、CSS、HTML、Java、Bourne Shell、JavaScript (TypeScript/ReactJS/NodeJS)
-- 【ミドルウェア】Erasticsearch、Flux、MuSQL、Jest、Mocha、Express、Redux
+- 【キーワード】 Web
+- 【役割】 Webエンジニア
+- 【規模】 LOC：40k
+- 【開発プロセス】 RAD、Scrum
+- 【プログラミング言語】 PHP、CSS、HTML、Java、Bourne Shell、JavaScript (TypeScript/ReactJS/NodeJS)
+- 【ミドルウェア】 Erasticsearch、Flux、MuSQL、Jest、Mocha、Express、Redux
 - 【インフラ】AWS
-- 【その他ツール・サービス】Chrome Dev Tool、Docker、Docker-Compose、Git、GitHub、Slack、Trello、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn
+- 【その他ツール・サービス】 Chrome Dev Tool、Docker、Docker-Compose、Git、GitHub、Slack、Trello、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn
 <br>
 
 日本の某スタートアップ(シードステージ)のWebチャットサービスの試作（2017年1月〜3月）
 ※NDAにより概要のみ
-- 【キーワード】Web
-- 【役割】Webエンジニア
-- 【規模】PJメンバー：5名
-- 【開発プロセス】Scrum、リモート
-- 【プログラミング言語】Elixir、JavaScript
-- 【ミドルウェア】MuSQL、Phoenix、Nginx
+- 【キーワード】 Web
+- 【役割】 Webエンジニア
+- 【規模】 PJメンバー：5名
+- 【開発プロセス】 Scrum、リモート
+- 【プログラミング言語】 Elixir、JavaScript
+- 【ミドルウェア】 MuSQL、Phoenix、Nginx
 - 【インフラ】AWS
-- 【その他ツール・サービス】Atom、Eslint、Git、GitHub、Ubuntu、babel、gulp、flow、webpack
+- 【その他ツール・サービス】 Atom、Eslint、Git、GitHub、Ubuntu、babel、gulp、flow、webpack
 <br>
 
 日本の某スタートアップ(アーリーステージ)のWebスクレーピングアプリケーションの試作（2016年10月〜12月）
 ※NDAにより概要のみ
-- 【キーワード】Web
-- 【役割】Webエンジニア
-- 【規模】PJメンバー：7名
-- 【開発プロセス】Scrum、リモート
-- 【プログラミング言語】HTML、JavaScript、PHP
-- 【ミドルウェア】cURL
-- 【その他ツール・サービス】Atom、Git、GitHub
+- 【キーワード】 Web
+- 【役割】 Webエンジニア
+- 【規模】 PJメンバー：7名
+- 【開発プロセス】 Scrum、リモート
+- 【プログラミング言語】 HTML、JavaScript、PHP
+- 【ミドルウェア】 cURL
+- 【その他ツール・サービス】 Atom、Git、GitHub
 <br>
 
 日本の某スタートアップ(シードステージ)のECサイトのクライアント側決済機能の試作（2016年2月〜4月）
 ※NDAにより概要のみ
-- 【キーワード】Web
-- 【役割】リードSWエンジニア
-- 【規模】PJメンバー：3名
-- 【開発プロセス】Waterfall、リモート
-- 【プログラミング言語】HTML、JavaScript、PHP
-- 【ミドルウェア】Paypal
+- 【キーワード】 Web
+- 【役割】 リードSWエンジニア
+- 【規模】 PJメンバー：3名
+- 【開発プロセス】 Waterfall、リモート
+- 【プログラミング言語】 HTML、JavaScript、PHP
+- 【ミドルウェア】 Paypal
 - 【インフラ】AWS
-- 【その他ツール・サービス】Atom、Git、GitHub
+- 【その他ツール・サービス】 Atom、Git、GitHub
 <br>
 
 個人用ストリーミングサービス（2015年10月〜2016年2月）
-- 【キーワード】Web
-- 【役割】Webエンジニア
-- 【規模】PJメンバー：2名、LOC：6k
-- 【開発プロセス】Scrum
-- 【プログラミング言語】CSS、HTML、JavaScript、PHP
-- 【ミドルウェア】Apatch、MySQL
+- 【キーワード】 Web
+- 【役割】 Webエンジニア
+- 【規模】 PJメンバー：2名、LOC：6k
+- 【開発プロセス】 Scrum
+- 【プログラミング言語】 CSS、HTML、JavaScript、PHP
+- 【ミドルウェア】 Apatch、MySQL
 - 【インフラ】AWS
-- 【その他ツール・サービス】Atom、Amazon Linux、Git、GitHub
+- 【その他ツール・サービス】 Atom、Amazon Linux、Git、GitHub
 
 社内向け個人Wikiメモ横断検索サービスの試作（2015年6月〜9月）
-- 【キーワード】Web
-- 【役割】Webエンジニア
-- 【規模】PJメンバー：3名
-- 【開発プロセス】Waterfall|
-- 【プログラミング言語】HTML、Java
-- 【ミドルウェア】Tomcat、TiddlyWiki
-- 【その他ツール・サービス】Atom、git、GitHub
+- 【キーワード】 Web
+- 【役割】 Webエンジニア
+- 【規模】 PJメンバー：3名
+- 【開発プロセス】 Waterfall|
+- 【プログラミング言語】 HTML、Java
+- 【ミドルウェア】 Tomcat、TiddlyWiki
+- 【その他ツール・サービス】 Atom、git、GitHub
 
 
 ## 技術スタックまとめ(業務またはプライベートで、1年以上または1年未満使っているもの)
