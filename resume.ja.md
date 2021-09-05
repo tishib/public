@@ -19,7 +19,7 @@ CRMシステムやデータマートPJTでは、アジャイル開発、セキ�
 | 期間 | 企業・組織 |
 |:----|:----|
 | 2018〜現在|[Accenture PLC](https://www.accenture.com/jp-ja)|
-| 2017〜2018年（14ヶ月）|[Reacktor japan株式会社](https://reaktor.co.jp/)|
+| 2017〜2018年（14ヶ月）|[Reacktor Japan 株式会社](https://reaktor.co.jp/)|
 | 2016〜2017年（3ヶ月）|日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部|
 | 2016年（9ヶ月）|[日立製作所](https://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B%E8%A3%BD%E4%BD%9C%E6%89%80)　公共システム本部|
 | 2013〜2015年（36ヶ月）|日立製作所　ITプラットフォーム事業本部　ソフトウェア開発部|
@@ -99,7 +99,7 @@ TBD
 <br>
 <br>
 
-### Reacktor japan株式会社
+### Reacktor Japan 株式会社
 某飲料メーカのポイントチャージアプリのUX改善（2018年4月〜7月）
 - 【キーワード】 B2C、モバイル、Web、PoC
 - 【役割】 リードSWエンジニア、クライアントフェンシング
