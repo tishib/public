@@ -5,7 +5,7 @@
 
 
 ## 概要
-社会人8年目のソフトウェアエンジニアで、現在の会社は3社目になります。<br>
+社会人8年目のソフトウェアエンジニアです。現在の会社は3社目になります。<br>
 ・1社目の日系の内資企業では、行政や企業のSAN向けのストレージ管理ソフトウェアの製品開発を行い、途中1年間だけ自治体システムの開発運用保守を行っていました。<br>
 ・2社目の欧州系の外資企業では、企業のモバイルアプリやWebアプリ向けにDXコンサルティングやアジャイル開発（スクラム、[RAD(Rapid Application Development)](https://ja.wikipedia.org/wiki/%E9%AB%98%E9%80%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%a7%E3%83%B3%E9%96%8B%E7%99%BA#:~:text=%E9%AB%98%E9%80%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA%EF%BC%88%E8%8B%B1%3A%20Rapid,%E3%81%AE1%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)）、またデータ分析を行っていました。<br>
 ・3社目の欧米系の外資企業では、WebアプリやWebシステムをメインに幅広くエンジニアリングまたはコンサルティングをさせてもらっており。<br>
@@ -50,7 +50,7 @@ CRMシステムとデータマートのPJでは、アジャイル開発、セキ
 - 【概要】 システムのインフラ、およびそこに接続するためのセキュリティルームなどの物理的なインフラの拡張保守運用を行った。リードエンジニアとして、インフラの技術的な領域全般の対応、インシデントやセキュリティホールの調査と改善、セキュリティルームやクライアントのネットワーク環境の構築を担当。また、若手メンバーの育成やクライアントフェイシングも兼任。
 - 【キーワード】 CRM、B2B、業務システム、Web、データマート
 - 【役割】 チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
-- 【規模】 PJメンバー数：100人、チームメンバー：5名、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
+- 【規模】 PJメンバー数：100人、チームメンバー：5人、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
 - 【開発プロセス】 Waterfall（上流下流）、オンサイトまたはリモート
 - 【プログラミング言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python、Teraterm
 - 【インフラ】 AWS、セキュリティルーム、オフィススペース
@@ -62,33 +62,34 @@ CRMシステムとデータマートのPJでは、アジャイル開発、セキ
 - 【その他】 AWSCLI、Amazon Linux Security Center、Git、Microsoft Update Catalog、WSL、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)
 <br>
 
-大手流通企業のカスタマーセンター業務システムとユーザ行動データを連携するためのプロトタイプ検証（2020年1月〜3月）
-- 【概要】 SFDCのユーザ行動データと、データウェアハウスのユーザ購買データを、サポートセンター業務システムへ連携するための、サーバレスREST APIバックエンドのプロトタイプの設計実装検証を担当。リードエンジニアとして、アーキテクチャや、パフォーマンスのベンチマークおよびプロファイル、セキュリティ要件の達成方法など、技術的課題の全般を担当。
+大手流通企業のカスタマーサポートセンター業務システムとユーザ行動データを連携するためのプロトタイプ検証（2020年1月〜3月）
+- 【概要】 リアルタイムでのカスタマーサポートを実現するために、SFDCにあるユーザ行動データとデータウェアハウスのデータを統合・連携する仕組みについて事前検証を行った。リードエンジニアとして、主にバックエンド側を担当。サーバレスREST APIのアーキテクチャ設計や、パフォーマンスのベンチマークおよびプロファイル、またセキュリティ要件の達成方法など、技術的課題の全般を担当。
 - 【キーワード】 B2B、業務システム、PoC、サーバレス
 - 【役割】 ソリューションアーキテクト、バックエンドエンジニア
-- 【規模】 カスタマーサポートセンター：200名、DB：5インスタンス、DBテーブル：300、DBテーブルレコード：100万〜10億、PJメンバー：30人
+- 【規模】 業務システムのエンドユーザー：200人、DB：5インスタンス、DBテーブル：300、DBテーブルレコード：100万〜10億、PJメンバー：30人
 - 【開発プロセス】 Scrum、オンサイト
 - 【プログラミング言語】 Bash、Python
 - 【インフラ】 AWS
-- 【AWS】 Aurora、API Gateway、EC2、Lambda、Redshift
+- 【AWS】 Aurora、API Gateway、EC2、Lambda、Redshift、Step Functions
 - 【ミドルウェア】 HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
 - 【マネジメントツール】 Redmine、Teams
 - 【その他】 AWSCLI、Amazon Linux2、Git、JMeter、Tmux、WSL、Windows Server 2016
 <br>
 
-某小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメント（2019年8月〜11月）
+大手小売企業のECおよびEC関連の業務システムのフルリニューアルにおけるPJマネジメント（2019年8月〜11月）
+- 【概要】 ECのフロントエンド・バックエンド、およびEC関連の物流や決済、在庫管理などの業務システムのフルリニューアルにおけるPJマネジメントを行った。サブマネージャーとして、各領域を横断的にフォローし、技術的あるいは業務的な課題解決のサポートや、PJマネジメント業務を担当。
 - 【キーワード】 B2C、業務システム、Web
 - 【役割】 PJマネジメント、Webエンジニア
-- 【規模】 PJメンバー：300名(クライアント50名、カウンターパート180名、アクセンチュア70名)、カウンターパート：10社、対応イシュー数：3000件
+- 【規模】 PJメンバー：300人、カウンターパート：10社、処理イシュー数：3000件
 - 【開発プロセス】 Waterfall（上流下流）、オンサイト
 - 【プログラミング言語】 Bash、JavaScript(NodeJS、ReactJS、NextJS)
 - 【その他ツール・サービス】 Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)
 <br>
 
-某小売企業Web ECのフルリニューアルと多言語化対応（2018年12月〜2019年7月）
+大手小売企業のECフルリニューアルと多言語化（2018年12月〜2019年7月）
 - 【キーワード】 B2C、Web
 - 【役割】 チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
-- 【規模】 チームメンバー：10名、最終Webページ数：600、LOC：JS=7k/CSS=10k、多言語対応：英語/フィンランド語/中国語、PJメンバー：200名(クライアント40名、他社ベンダー100名、アクセンチュア60名)
+- 【規模】 チームメンバー：10人、ECページ数：600、LOC：JS 7k/ CSS 10k、多言語対応：英語/フィンランド語/中国語、PJメンバー：200人
 - 【開発プロセス】 Waterfall（上流下流）、Scrum、MVP、オンサイト
 - 【プログラミング言語】 Bash、CSS(Sass)、HTML、JavaScript(PureJS/JSX/NodeJS)、PHP7
 - 【インフラ】 AWS
@@ -98,10 +99,10 @@ CRMシステムとデータマートのPJでは、アジャイル開発、セキ
 - 【その他ツール・サービス】 macOS、npm、Slack、Trello(タスク)、Backlog(課題)、多言語対応の自動化、Azure DevOps、SEO、Microsoft Office
 <br>
 
-某小売企業モバイルアプリの画像検索機能・音声検索機能（日本語/中国語）のPoC評価と開発および運用保守業務の設計と構築（2018年10月〜2019年6月）
+大手小売企業のECモバイルアプリの画像検索と多言語音声検索のプロトタイプ検証およびオペレーション業務の設計構築（2018年10月〜2019年6月）
 - 【キーワード】 B2C、モバイル、Web、PoC
 - 【役割】 チームマネジメント、リードSWエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
-- 【規模】 チーム【規模】 5名、PJメンバー：30名(クライアント25名、アクセンチュア5名)
+- 【規模】 チーム【規模】 5人、PJメンバー：30人
 - 【開発プロセス】 Waterfall（上流下流）、Scrum、MVP、オンサイト
 - 【プログラミング言語】 Bash、CSS、HTML、JavaScript(NodeJS/TypeScript)、Java、Object-C
 - 【インフラ】 AWS、GCP
@@ -114,7 +115,7 @@ CRMシステムとデータマートのPJでは、アジャイル開発、セキ
 某飲料メーカのポイントチャージアプリのUX改善（2018年4月〜7月）
 - 【キーワード】 B2C、モバイル、Web、PoC
 - 【役割】 リードSWエンジニア、クライアントフェンシング
-- 【規模】 PJメンバー：8名(クライアント2名、他社ベンダー3名、Reaktor3名)
+- 【規模】 PJメンバー：8人
 - 【開発プロセス】 Scrum、RAD、リモート
 - 【プログラミング言語】 CSS、HTML、JavaScript(PureJS)
 - 【その他ツール・サービス】 Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello
@@ -123,7 +124,7 @@ CRMシステムとデータマートのPJでは、アジャイル開発、セキ
 某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の解決に向けたトラッキングシステムの開発とトラッキングデータ分析（2017年11月〜2018年4月）
 - 【キーワード】 B2C、モバイル、Web、データ分析
 - 【役割】 クライアントフェイシング、セールス、リードSWエンジニア、データアナリシスト
-- 【規模】 PJメンバー：19名(クライアント10名、カウンターパート3名、Reaktor6名)
+- 【規模】 PJメンバー：19人
 - 【開発プロセス】 RAD、Scrum、リモート
 - 【プログラミング言語】 Bourne Shell、Java、Object-C、JavaScript(TypeScript、NodeJS、ReactJS)、Python
 - 【インフラ】 AWS
@@ -135,7 +136,6 @@ CRMシステムとデータマートのPJでは、アジャイル開発、セキ
 Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月〜11月）
 - 【キーワード】 社内プロセス改善
 - 【役割】 DevOps
-- 【規模】 1名
 - 【開発プロセス】 RAD、Scrum、オンサイト
 - 【プログラミング言語】 Bourne Shell、JavaScript(TypeScript)
 - 【インフラ】 AWS
@@ -147,7 +147,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 フィンランドの某VRプロジェクトでのネットワーク問題調査とソリューションMVP開発（2017年9月〜10月）
 - 【キーワード】 Unity
 - 【役割】 SWエンジニア
-- 【規模】 7名(クライアント3名、Reaktor4名)
+- 【規模】 7人
 - 【開発プロセス】 RAD、Scrum、リモート
 - 【インフラ】 AWS
 - 【ミドルウェア】 GameLift、Lumberyard、Stream VR、Unity
@@ -157,7 +157,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の調査とソリューションMVP開発（2017年7月〜9月）
 - 【キーワード】 B2C、モバイル
 - 【役割】 セールス、リードエンジニア
-- 【規模】 5名(クライアント 2名、Reaktor 3名)
+- 【規模】 5人
 - 【開発プロセス】 ビジネス開発、RAD、Scrum、リモート
 - 【プログラミング言語】 HTML、Java、JavaScript(NodeJS/TypeScript)、Object-C、Bourne Shell
 - 【インフラ】 AWS
@@ -169,7 +169,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 某飲料メーカのポイントチャージアプリにおける周辺クーポンコンテンツ表示機能の開発（2017年5月〜7月）
 - 【キーワード】 B2C、モバイル
 - 【役割】 エンジニア
-- 【規模】 24名(クライアント10名、クライアントのIT部門2名、カウンターパート5名、Reaktor7名)
+- 【規模】 24人
 - 【開発プロセス】 RAD、Scrum、オンサイト
 - 【プログラミング言語】 CSS、HTML、JavaScript(PureJS/NodeJS/TypeScript)
 - 【インフラ】 AWS
@@ -183,7 +183,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善（2017年1月〜4月）
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
-- 【規模】 10名
+- 【規模】 10人
 - 【開発プロセス】 Scrum
 - 【その他ツール・サービス】 CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery
 <br>
@@ -191,7 +191,7 @@ Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善�
 某自治体の業務システムの運用保守とセキュリティパッチ対応（2016年3月〜12月）
 - 【キーワード】 B2B、業務システム
 - 【役割】 チームリード、システムエンジニア
-- 【規模】 8名
+- 【規模】 8人
 - 【開発プロセス】 Waterfall（下流）
 - 【その他ツール・サービス】 JP1、PowerShell、VMWare、Windows、Windows Server 2015
 <br>
@@ -199,7 +199,7 @@ Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善�
 SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 エンジニア
-- 【規模】 10名
+- 【規模】 10人
 - 【開発プロセス】 Scrum
 - 【その他ツール・サービス】 JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013
 <br>
@@ -207,7 +207,7 @@ SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
 国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応での先行検証とマネジメント（2015年10月〜2016年1月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 チームリード、テクニカルアドバイザー
-- 【規模】 5名
+- 【規模】 5人
 - 【開発プロセス】 Waterfall（上流）
 - 【その他ツール・サービス】 AWS、JP1、Linux、Power Shell、Windows Server 201x
 <br>
@@ -215,14 +215,14 @@ SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
 Hitachi Command Suite v8.1のノイジーネイバー特定機能開発でのPJマネジメント（2015年3月〜7月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 PJサブマネージャー
-- 【規模】 20名
+- 【規模】 20人
 - 【開発プロセス】 Waterfall（上流）
 <br>
 
 Hitachi Command Suite v8.0.1のノイジーネイバー特定機能開発での要件定義と仕様定義および実装、また、それらを題材とした社内論文の執筆（2014年6月〜12月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 セールス、PJサブマネージャー、エンジニア
-- 【規模】 30名
+- 【規模】 30人
 - 【開発プロセス】 Waterfall（上流）
 - 【その他ツール・サービス】 ClearCase、Eclipce、SubVersion、Java、Windows
 <br>
@@ -230,7 +230,7 @@ Hitachi Command Suite v8.0.1のノイジーネイバー特定機能開発での�
 Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能開発での分析UIの実装（2014年1月〜6月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 エンジニア
-- 【規模】 40名
+- 【規模】 40人
 - 【開発プロセス】 Waterfall（下流）
 - 【その他ツール・サービス】 ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows
 <br>
@@ -238,7 +238,7 @@ Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブ
 Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と実装（2013年9月〜2014年1月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 エンジニア
-- 【規模】 50名
+- 【規模】 50人
 - 【開発プロセス】 Waterfall（下流）
 - 【その他ツール・サービス】 ClearCase、Eclipce、Java、MySQL、SubVersion、Windows
 <br>
@@ -260,7 +260,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
-- 【規模】 PJメンバー：5名
+- 【規模】 PJメンバー：5人
 - 【開発プロセス】 Scrum、リモート
 - 【プログラミング言語】 Elixir、JavaScript
 - 【ミドルウェア】 MuSQL、Phoenix、Nginx
@@ -272,7 +272,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
-- 【規模】 PJメンバー：7名
+- 【規模】 PJメンバー：7人
 - 【開発プロセス】 Scrum、リモート
 - 【プログラミング言語】 HTML、JavaScript、PHP
 - 【ミドルウェア】 cURL
@@ -283,7 +283,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 リードSWエンジニア
-- 【規模】 PJメンバー：3名
+- 【規模】 PJメンバー：3人
 - 【開発プロセス】 Waterfall、リモート
 - 【プログラミング言語】 HTML、JavaScript、PHP
 - 【ミドルウェア】 Paypal
@@ -294,7 +294,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 個人用ストリーミングサービス（2015年10月〜2016年2月）
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
-- 【規模】 PJメンバー：2名、LOC：6k
+- 【規模】 PJメンバー：2人、LOC：6k
 - 【開発プロセス】 Scrum
 - 【プログラミング言語】 CSS、HTML、JavaScript、PHP
 - 【ミドルウェア】 Apatch、MySQL
@@ -304,7 +304,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 社内向け個人Wikiメモ横断検索サービスの試作（2015年6月〜9月）
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
-- 【規模】 PJメンバー：3名
+- 【規模】 PJメンバー：3人
 - 【開発プロセス】 Waterfall|
 - 【プログラミング言語】 HTML、Java
 - 【ミドルウェア】 Tomcat、TiddlyWiki
@@ -314,7 +314,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 ## 技術スタックまとめ(業務またはプライベートで、1年以上または1年未満使っているもの)
 (*)：現在メインで使ってるもの
 
-| 分類 | 1年以上 | 1年未満 |
+| カテゴリ | 1年以上 | 1年未満 |
 |:-----------|:-----|:-------|
 |OS|Amazon Linux(*)、macOS(*)、Ubuntu、Windows 10(*)、WSL(*)|Android、iOS|
 |クライアントサイド|CSS、Flux、HTML、JavaScript、ReactJS、Redux、TypeScript(*)|Action Script、Angular、Cordova、Bootstrap、MXML、ObjectC、OnsenUI、Saas、Service Worker、WebRTC、flow|
@@ -360,5 +360,5 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 
 ## その他 
 - GitHubアカウント：[xtaka](https://github.com/xtaka)
-- 趣味(1年未満含む)：古琴、競技プログラミング(LeetCode)、自動二輪ツーリング、読書(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール3x3、ヒップホップダンス(オールドスクール)
+- 趣味：古琴、競技プログラミング(LeetCode)、自動二輪ツーリング、読書(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール3x3、ヒップホップダンス(オールドスクール)
 - 興味があるもの：Service mesh、zig、Arduino(IoT)、B2C、DNAメモリ、OSS、QCL、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、経済産業省グローバル企業家等育成プログラム、人口増加問題、エネルギー問題、エジプト数学、量子技術イノベーション戦略
