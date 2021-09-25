@@ -1,17 +1,17 @@
-#### 最終更新日：2021/9/5
+#### 最終更新日：2021/9/25
 
 
 #### 石橋　貴生（メール：itakaki0@gmail.com、住所：日本　東京）
 
 
 ## 概要
-社会人8年目のソフトウェアエンジニアです。現在の会社は3社目になります。<br>
+社会人8年目のソフトウェアエンジニアで、現在の会社は3社目になります。<br>
 ・1社目の日系の内資企業では、行政や企業のSAN向けのストレージ管理ソフトウェアの製品開発を行い、途中1年間だけ自治体システムの開発運用保守を行っていました。<br>
 ・2社目の欧州系の外資企業では、企業のモバイルアプリやWebアプリ向けにDXコンサルティングやアジャイル開発（スクラム、[RAD(Rapid Application Development)](https://ja.wikipedia.org/wiki/%E9%AB%98%E9%80%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%a7%E3%83%B3%E9%96%8B%E7%99%BA#:~:text=%E9%AB%98%E9%80%9F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA%EF%BC%88%E8%8B%B1%3A%20Rapid,%E3%81%AE1%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)）、またデータ分析を行っていました。<br>
 ・3社目の欧米系の外資企業では、WebアプリやWebシステムをメインに幅広くエンジニアリングまたはコンサルティングをさせてもらっており。<br>
-ECや物流システムのフルリニューアルのPJTでは、PoC検証やアジャイル開発、また業務設計やPJTマネジメント。<br>
-CRMシステムとデータマートのPJTでは、アジャイル開発、セキュリティルームやAWSなどのインフラ構築、またインフラ開発運用保守やクライアントフェイシング、技術リードを行っています。<br>
-・プライベートでは、過去3年ほど知人のスタートアップや個人PJTで、小規模なWeb開発を断続的に手伝わせてもらっていました。<br>
+ECや物流システムのフルリニューアルのPJでは、PoC検証やアジャイル開発、また業務設計やPJマネジメント。<br>
+CRMシステムとデータマートのPJでは、アジャイル開発、セキュリティルームやAWSなどのインフラ構築、またインフラ開発運用保守やクライアントフェイシング、技術リードを行っています。<br>
+・プライベートでは、過去3年ほど知人のスタートアップや個人PJで、小規模なWeb開発を断続的に手伝わせてもらっていました。<br>
 ・学生時代は、スイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)やアメリカの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で加速器を使った素粒子分野の研究活動や、日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)で、加速器に使われる検出器の研究・開発活動をしていました。
 
 
@@ -30,39 +30,50 @@ CRMシステムとデータマートのPJTでは、アジャイル開発、セ�
 
 ## 職務履歴
 ### Accenture PLC
-大手流通企業のCRMシステムとデータマートのインフラ再構築（2021年3月～現在）
-- 【キーワード】 B2C、B2B、CRM、BI、業務システム、Web
-- 【役割】 チームマネジメント、クライアントフェイシング、リードエンジニア、ソリューションアーキテクト
-- 【規模】 PJTメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：100人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブル平均レコード数：10億、バッチ処理：900ジョブ、セキュリティルーム：5部屋、ストレージ利用量：1.6PB
-- 【開発スタイル】Waterfall（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】 bash、batch script、JavaScript、Python、Teraterm、VDS
+大手流通企業のデータマートおよびデータウェアハウスの再構築（2021年3月～現在）
+- 【概要】 DMおよびDWHのシステムと、そこに接続するためのセキュリティルームなどのセキュア環境を、クライアントのオンプレミスおよびプライベートクラウド上に移行した。リードエンジニアとして、特にインフラ領域において、オンプレミス上の制約やセキュリティ要件を満たすための技術的な部分のアーキテクチャやソリューションの設計・実装を担当。また、チームのマネジメントや若手メンバーの育成、クライアントフェイシングも兼任。
+- 【キーワード】 CRM、B2B、BI、業務システム、Web、データマート
+- 【役割】 リードエンジニア、ソリューションアーキテクト、チームマネジメント、クライアントフェイシング
+- 【規模】 PJメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：200人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜10億、バッチ処理：900ジョブ、セキュリティルーム：5拠点、ストレージ利用量：1.6PB、IAM：110ロール・90ポリシー
+- 【開発プロセス】Waterfall（上流下流）、オンサイトまたはリモート
+- 【プログラミング言語】 Bash、batch script、JavaScript、Python、Teraterm、VDS
 - 【インフラ】 AWS、クライアントのオンプレミス
-TBD
+- 【AWS】 IAM（AssumeRole/Service-linked）、Redshift、S3（オブジェクトロック/ライフサイクル設計）、EMR、Session Manager、その他（CloudWatch/EC2/Lambda/KMS/VPC）
+- 【ミドルウェア】 Active Directory、CyberArk、Deep Security、Tableau、VMware Horizon、WPS Analytics、クリプト便
+- 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
+- 【監視ツール】 DataDog
+- 【マネジメントツール】 Backlog、Box、Github、Jira、Redmine、ServiceNow、Teams、Zoom
+- 【その他】 AWSCLI、Git
 <br>
 
-某流通企業CRMシステムのインフラおよびCRMデータ分析Webサービスの開発と運用保守（2020年4月〜2月）
-- 【キーワード】 B2B、CRM、業務システム、Web
+大手流通企業のCRMシステムおよびデータマート・データウェアハウスのインフラ開発保守運用（2020年4月〜2021年2月）
+- 【概要】 システムのインフラ、およびそこに接続するためのセキュリティルームなどの物理的なインフラの拡張保守運用を行った。リードエンジニアとして、インフラの技術的な領域全般の対応、インシデントやセキュリティホールの調査と改善、セキュリティルームやクライアントのネットワーク環境の構築を担当。また、若手メンバーの育成やクライアントフェイシングも兼任。
+- 【キーワード】 CRM、B2B、業務システム、Web、データマート
 - 【役割】 チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
-- 【規模】 PJメンバー数：150名(クライアント40名、カウンターパート60名、アクセンチュア40名)、チームメンバー数：5名、CRM対象アプリ登録ユーザ数：2000万人、MAU：25万人、データ分析サービス利用ユーザ数：50人、サーバ：50、DB：15、DBテーブル：3000、平均DBテーブルレコード：15億、業務バッチ数：900、セキュアルーム数：5、ストレージ利用量：1.6PB
+- 【規模】 PJメンバー数：100人、チームメンバー：5名、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
 - 【開発プロセス】 Waterfall（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】 Bash、CSS(Sass)、HTML、JavaScript、Lua、Python
-- 【インフラ】 AWS
-- 【ミドルウェア】 AWS(CloudWatch/EC2/IAM/Lambda/Redshift/S3/SSM/VPC)、Django、MySQL、OpenVPN、PostgreSQL、Squid
+- 【プログラミング言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python、Teraterm
+- 【インフラ】 AWS、セキュリティルーム、オフィススペース
+- 【AWS】 Redshift、SSM、S3、その他（CloudWatch/EC2/IAM/Lambda/VGW）
+- 【ミドルウェア】 Django、MySQL、OpenVPN、PostgreSQL、Squid
 - 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
 - 【監視ツール】 Zabbix
-- 【マネジメントツール】 Azure DevOps、Backlog、Box、Gitlab、OneDrive、Outlook、Redmine、Teams
-- 【その他ツール・サービス】 AWS CLI、Amazon Linux2、Amazon Linux Security Center、Microsoft Update Catalog、TeraTermマクロ、WSL、WinSCP、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)
+- 【マネジメントツール】 Azure DevOps、Backlog、Box、Gitlab、Redmine、Teams
+- 【その他】 AWSCLI、Amazon Linux Security Center、Git、Microsoft Update Catalog、WSL、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)
 <br>
 
-某流通企業カスタマーサポートセンター業務システムの新規サーバレスAPIバックエンドのPoC評価（2020年1月〜3月）
-- 【キーワード】 B2B、業務システム、PoC
+大手流通企業のカスタマーセンター業務システムとユーザ行動データを連携するためのプロトタイプ検証（2020年1月〜3月）
+- 【概要】 SFDCのユーザ行動データと、データウェアハウスのユーザ購買データを、サポートセンター業務システムへ連携するための、サーバレスREST APIバックエンドのプロトタイプの設計実装検証を担当。リードエンジニアとして、アーキテクチャや、パフォーマンスのベンチマークおよびプロファイル、セキュリティ要件の達成方法など、技術的課題の全般を担当。
+- 【キーワード】 B2B、業務システム、PoC、サーバレス
 - 【役割】 ソリューションアーキテクト、バックエンドエンジニア
-- 【規模】 カスタマーサポートセンター体制：200名、DB：5、DBテーブル：300、平均DBレコード：10億、PJメンバー：30名 (クライアント20名、アクセンチュア10名)
+- 【規模】 カスタマーサポートセンター：200名、DB：5インスタンス、DBテーブル：300、DBテーブルレコード：100万〜10億、PJメンバー：30人
 - 【開発プロセス】 Scrum、オンサイト
 - 【プログラミング言語】 Bash、Python
 - 【インフラ】 AWS
-- 【ミドルウェア】 AWS(Aurora/API Gateway/EC2/Lambda/Redshift)、HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
-- 【その他ツール・サービス】 Git、JMeter、AWS CLI、Amazon Linux2、Tmux、WSL、Windows Server 2016、Redmine
+- 【AWS】 Aurora、API Gateway、EC2、Lambda、Redshift
+- 【ミドルウェア】 HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
+- 【マネジメントツール】 Redmine、Teams
+- 【その他】 AWSCLI、Amazon Linux2、Git、JMeter、Tmux、WSL、Windows Server 2016
 <br>
 
 某小売企業Web EC・EC関連業務システムのフルリニューアルにおけるPJマネジメント（2019年8月〜11月）
@@ -245,7 +256,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【その他ツール・サービス】 Chrome Dev Tool、Docker、Docker-Compose、Git、GitHub、Slack、Trello、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn
 <br>
 
-日本の某スタートアップ(シードステージ)のWebチャットサービスの試作（2017年1月〜3月）
+日本の某スタートアップ(seed stage)のWebチャットサービスの試作（2017年1月〜3月）
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
@@ -257,7 +268,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【その他ツール・サービス】 Atom、Eslint、Git、GitHub、Ubuntu、babel、gulp、flow、webpack
 <br>
 
-日本の某スタートアップ(アーリーステージ)のWebスクレーピングアプリケーションの試作（2016年10月〜12月）
+日本の某スタートアップ(early stage)のWebスクレーピングアプリケーションの試作（2016年10月〜12月）
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
@@ -268,7 +279,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【その他ツール・サービス】 Atom、Git、GitHub
 <br>
 
-日本の某スタートアップ(シードステージ)のECサイトのクライアント側決済機能の試作（2016年2月〜4月）
+日本の某スタートアップ(seed stage)のECサイトのクライアント側決済機能の試作（2016年2月〜4月）
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 リードSWエンジニア
@@ -301,7 +312,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 
 
 ## 技術スタックまとめ(業務またはプライベートで、1年以上または1年未満使っているもの)
-Note：(*) = 現在メインで使ってるもの
+(*)：現在メインで使ってるもの
 
 | 分類 | 1年以上 | 1年未満 |
 |:-----------|:-----|:-------|
@@ -349,5 +360,5 @@ Note：(*) = 現在メインで使ってるもの
 
 ## その他 
 - GitHubアカウント：[xtaka](https://github.com/xtaka)
-- 趣味(1年未満含む)：古琴、競技プログラミング(LeetCode)、地元国際交流ボランティア、自動二輪ツーリング、読書(The Master Algorithm/道をひらく/はじめて読む486/HARD THINGS/エッセンシャル思考)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール3x3、ヒップホップダンス(オールドスクール)
-- 興味があるもの：Service mesh、zig、Arduino(IoT)、B2C、DNAメモリ、OSS、Q#、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、経済産業省グローバル企業家等育成プログラム、人口増加問題、エネルギー問題、エジプト数学
+- 趣味(1年未満含む)：古琴、競技プログラミング(LeetCode)、自動二輪ツーリング、読書(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール3x3、ヒップホップダンス(オールドスクール)
+- 興味があるもの：Service mesh、zig、Arduino(IoT)、B2C、DNAメモリ、OSS、QCL、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、経済産業省グローバル企業家等育成プログラム、人口増加問題、エネルギー問題、エジプト数学、量子技術イノベーション戦略
