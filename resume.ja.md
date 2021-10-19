@@ -1,4 +1,4 @@
-#### 最終更新日：2021/9/30
+#### 最終更新日：2021年10月
 
 
 #### 石橋　貴生（メール：itakaki0@gmail.com、住所：日本 東京）
@@ -36,14 +36,14 @@ CRMシステムとデータマートのオペレーションPJTでは、アジ�
 - 【役割】 リードエンジニア、ソリューションアーキテクト、チームマネジメント、クライアントフェイシング
 - 【規模】 PJTメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：200人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜10億、バッチ処理：900ジョブ、セキュリティルーム：5拠点、ストレージ利用量：1.6PB、IAM：110ロール・90ポリシー
 - 【開発プロセス】Waterfall（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】 Bash、batch script、JavaScript、Python、Teraterm、VDS
+- 【プログラミング言語】 Bash、batch script、JavaScript、Python
 - 【インフラ】 AWS、クライアントのオンプレミス
 - 【AWS】 IAM（AssumeRole/Service-linked）、Redshift、S3（オブジェクトロック/ライフサイクル設計）、EMR、Session Manager、その他（CloudWatch/EC2/Lambda/KMS/VPC）
-- 【ミドルウェア】 Active Directory、CyberArk、Deep Security、Tableau、VMware Horizon、WPS Analytics、クリプト便
+- 【ミドルウェア】 Active Directory、CyberArk、Deep Security、Tableau、WPS Analytics
 - 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
 - 【監視ツール】 DataDog
-- 【マネジメントツール】 Backlog、Box、Github、Jira、Redmine、ServiceNow、Teams、Zoom
-- 【その他】 AWSCLI、Git
+- 【バージョン管理】 Git
+- 【その他】 AWSCLI
 <br>
 
 大手流通企業のCRMシステムおよびデータマート・データウェアハウスのインフラ開発保守運用（2020年4月〜2021年2月）
@@ -52,14 +52,15 @@ CRMシステムとデータマートのオペレーションPJTでは、アジ�
 - 【役割】 チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
 - 【規模】 PJTメンバー数：100人、チームメンバー：5人、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
 - 【開発プロセス】 Waterfall（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python、Teraterm
+- 【プログラミング言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python
 - 【インフラ】 AWS、セキュリティルーム、オフィススペース
 - 【AWS】 Redshift、SSM、S3、その他（CloudWatch/EC2/IAM/Lambda/VGW）
 - 【ミドルウェア】 Django、MySQL、OpenVPN、PostgreSQL、Squid
 - 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
 - 【監視ツール】 Zabbix
-- 【マネジメントツール】 Azure DevOps、Backlog、Box、Gitlab、Redmine、Teams
-- 【その他】 AWSCLI、Amazon Linux Security Center、Git、Microsoft Update Catalog、WSL、Windows Server 2016、Windows cmd.exe、YAMAHAルータ(RTX810/830)
+- 【バージョン管理】 Git
+- 【サーバOS】 Amazon Linux、Windows Server 2016
+- 【その他】 AWSCLI、Windows cmd.exe、YAMAHAルータ(RTX810/830)
 <br>
 
 大手流通企業のカスタマーサポートセンターの業務システムとカスタマー行動データを活用したプロトタイプ検証（2020年1月〜3月）
