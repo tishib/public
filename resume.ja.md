@@ -248,6 +248,11 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 <br>
 
 ## プライベートプロジェクト履歴
+公共バス到着時刻サービス(2021年10月)
+- 【概要】第4回東京公共交通オープンデータチャレンジの応募作品、[コンテンツ説明動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
+- 【URL】https://xtaka.github.io/app/IGWkYCxmpbbb/
+- 【キーワード】Web
+
 音声共有SNSサービス（2018年3月〜2019年3月）
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
