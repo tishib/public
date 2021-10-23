@@ -248,13 +248,11 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 <br>
 
 ## プライベートプロジェクト履歴
-公共バス到着時刻サービス(2021年10月)
-- 【概要】第4回東京公共交通オープンデータチャレンジの応募作品、[紹介動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
-- 【URL】https://xtaka.github.io/app/IGWkYCxmpbbb/
-- 【キーワード】Web
+公共バス到着時刻Webアプリ(2021年10月)
+- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品、[紹介動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
+- 【URL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
 
-音声共有SNSサービス（2018年3月〜2019年3月）
-- 【キーワード】 Web
+音声共有SNS Webアプリ（2018年3月〜2019年3月）
 - 【役割】 Webエンジニア
 - 【規模】 LOC：40k
 - 【開発プロセス】 RAD、Scrum
@@ -264,7 +262,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【その他ツール・サービス】 Chrome Dev Tool、Docker、Docker-Compose、Git、GitHub、Slack、Trello、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn
 <br>
 
-日本の某スタートアップ(seed stage)のWebチャットサービスの試作（2017年1月〜3月）
+日本の某スタートアップ(seed stage)のWebチャットアプリの試作（2017年1月〜3月）
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
@@ -276,7 +274,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【その他ツール・サービス】 Atom、Eslint、Git、GitHub、Ubuntu、babel、gulp、flow、webpack
 <br>
 
-日本の某スタートアップ(early stage)のWebスクレーピングアプリケーションの試作（2016年10月〜12月）
+日本の某スタートアップ(early stage)のWebスクレーピングアプリの試作（2016年10月〜12月）
 ※NDAにより概要のみ
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
@@ -309,7 +307,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【インフラ】 AWS
 - 【その他ツール・サービス】 Atom、Amazon Linux、Git、GitHub
 
-社内向け個人Wikiメモ横断検索サービスの試作（2015年6月〜9月）
+社内向け個人Wikiメモ横断検索Webアプリの試作（2015年6月〜9月）
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
 - 【規模】 PJTメンバー：3人
@@ -368,5 +366,5 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 
 ## その他 
 - GitHubアカウント：[xtaka](https://github.com/xtaka)
-- 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、競技プログラミング(LeetCode)、自動二輪ツーリング、読書(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール3x3、ヒップホップダンス(オールドスクール)
-- 興味があるもの：Service mesh、zig、Arduino(IoT)、B2C、DNAメモリ、OSS、QCL、[User-centered design](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%B8%AD%E5%BF%83%E8%A8%AD%E8%A8%88)、経済産業省グローバル企業家等育成プログラム、人口増加問題、エネルギー問題、エジプト数学、量子技術イノベーション戦略
+- 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、競技プログラミング(LeetCode)、自動二輪ツーリング、読書(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、バスケットボール3x3、個人開発
+- 興味があるもの：Service mesh、zig、Arduino(IoT)、OSS、QCL、経済産業省グローバル企業家等育成プログラム、人口問題、エネルギー問題、エジプト数学、量子技術イノベーション戦略
