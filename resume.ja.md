@@ -32,12 +32,13 @@ CRMシステムとデータマートのオペレーションPJTでは、アジ�
 ### Accenture PLC
 大手電気通信企業の社内向けSNS分析Webアプリの新規構築（2021年9月～現在）※構築フェーズ
 - 【キーワード】 SNS、Web、サーバレス
-- 【役割】 フロントエンド・バックエンドアプリエンジニア、チームマネジメント
+- 【役割】 フロントエンド・バックエンドアプリエンジニア、チームリード
 - 【開発プロセス】 アジャイル(スクラム)＋SSD (Schema-Driven Development)、フルリモート
 - 【プログラミング言語】 HTML5、CSS3 (RSCSS)、JavaScript (ES5以上)、Python (3.x)
 - 【インフラ】 AWS
 - 【AWS】 EC2(VPNサーバ)、Amplify、Cognito、API Gateway、Lambda、Step Functions、DynamoDB、S3、SageMaker
 - 【バージョン管理】 Git
+- 【SSD】 Responder、OpenAPI、Swagger UI
 - 【その他】 AWS CodeCommit、ESLint、Jest、Prettier、Stylelint
 <br>
 
