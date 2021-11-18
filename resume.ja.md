@@ -379,4 +379,4 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 ## その他 
 - GitHubアカウント：[xtaka](https://github.com/xtaka)
 - 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、競技プログラミング(LeetCode)、自動二輪ツーリング、読書(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケットボール3x3、個人開発
-- 興味があるもの：IC (Individual Contributor)、Service Meshアーキテクチャ、zig、Arduino (IoT)、OSS、エネルギー問題、エジプト数学、Q-LEAP、Society5.0、QII (量子イノベーションイニシアティブ)
+- 興味があるもの：キャリア(Individual Contributor)、テクノロジー(Service Meshアーキテクチャ/zig/Arduino IoT/OSS)、エネルギー問題、エジプト数学、Society5.0、量子情報(Q-LEAP/QII)
