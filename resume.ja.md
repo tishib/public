@@ -30,11 +30,11 @@
 
 ## 職務履歴
 ### Accenture PLC
-大手電気通信企業の社内向けSNS分析Webアプリの新規構築（2021年9月～現在）※構築フェーズ
-- 【キーワード】 SNS、Web、サーバレス
-- 【役割】 フロントエンド・バックエンドアプリエンジニア、チームリード
-- 「」【」 アジャイル(スクラム)＋SSD (Schema-Driven Development)、フルリモート
-- 【プログラミング言語】 CSS3 (RSCSS)、HTML5、JavaScript (ES5以上)、Python (3.x)
+某大手電気通信企業の社内向けSNS分析Webアプリの新規構築（2021年9月～現在）
+- 【キーワード】 SNS分析、Webアプリ、サーバレス
+- 【役割】 フルスタックエンジニア、インフラエンジニア、チームリード
+- 【開発フレームワーク】 Scrum、SSD、リモート
+- 【言語】 CSS3 (RSCSS)、HTML5、JavaScript (ES5以上)、Python (3.x)
 - 【インフラ】 AWS
 - 【AWS】 Amplify、API Gateway、Cognito、DynamoDB、EC2(VPNサーバ)、Lambda、Step Functions、S3、SageMaker
 - 【バージョン管理】 Git
@@ -42,232 +42,229 @@
 - 【その他】 AWS CodeCommit、ESLint、Jest、OpenVPN、Prettier、Stylelint
 <br>
 
-大手流通企業のデータマートおよびデータウェアハウスの再構築（2021年3月～8月）
+某大手流通企業のデータマートおよびデータウェアハウスの再構築（2021年3月～8月）
 - 【概要】 DMおよびDWHと、それらに接続するセキュリティルームなどのセキュア環境を、オンプレミスおよびプライベートクラウドに移行した。リードエンジニアとして、特にインフラ領域において、オンプレミス上の制約やセキュリティ要件を満たすための技術的なハードルのアーキテクチャやソリューションの設計・実装を担当。また、チームのマネジメントやジュニアの育成、クライアントフェイシングを兼任。
-- 【キーワード】 CRM、B2B、BI、業務システム、Web、データマート
-- 【役割】 リードエンジニア、ソリューションアーキテクト、チームマネジメント、クライアントフェイシング
-- 【規模】 PJTメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：200人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜10億、バッチ処理：900ジョブ、セキュリティルーム：5拠点、ストレージ利用量：1.6PB、IAM：110ロール・90ポリシー
-- 【」Waterfall（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】 Bash、batch script、JavaScript、Python
+- 【キーワード】 CRM、BI、業務システム、Webアプリ、データマート
+- 【役割】 リードエンジニア、ソリューションアーキテクト、チームマネジメント、クライアントフェイシング、インフラエンジニア
+- 【規模】 PJメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：200人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜10億、バッチ処理：900ジョブ、セキュリティルーム：5拠点、ストレージ利用量：1.6PB、IAM：110ロール・90ポリシー
+- 【開発フレームワーク】Waterfall、オンサイトまたはリモート
+- 【言語】 Bash、batch script、JavaScript、Python
 - 【インフラ】 AWS、クライアントのオンプレミス
 - 【AWS】 IAM（AssumeRole/Service-linked）、Redshift、S3（オブジェクトロック/ライフサイクル設計）、EMR、Session Manager、その他（CloudWatch/EC2/Lambda/KMS/VPC）
 - 【ミドルウェア】 Active Directory、CyberArk、Deep Security、Tableau、WPS Analytics
 - 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
 - 【監視ツール】 DataDog
-- 【バージョン管理】 Git
-- 【その他】 AWSCLI
 <br>
 
-大手流通企業のCRMシステムおよびデータマート・データウェアハウスのインフラ開発保守運用（2020年4月〜2021年2月）
+某大手流通企業のCRMシステムおよびデータマート・データウェアハウスのインフラ開発保守運用（2020年4月〜2021年2月）
 - 【概要】 各システムのインフラと、それらに接続するセキュリティルームやオフィスのネットワーク整備などの物理的なインフラの拡張保守運用を行った。リードエンジニアとして、インフラ全般の技術的な対応、インシデントやセキュリティホールの調査・改善、セキュリティルーム新規構築やネットワーク環境の整備を担当。また、ジュニアの育成やクライアントフェイシングを兼任。
 - 【キーワード】 CRM、B2B、業務システム、Web、データマート
 - 【役割】 チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
-- 【規模】 PJTメンバー数：100人、チームメンバー：5人、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
-- 【】 Waterfall（上流下流）、オンサイトまたはリモート
-- 【プログラミング言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python
+- 【規模】 PJメンバー：100人、チームメンバー：5人、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
+- 【開発フレームワーク】 Waterfall、オンサイトまたはリモート
+- 【言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python
 - 【インフラ】 AWS、セキュリティルーム、オフィススペース
 - 【AWS】 Redshift、SSM、S3、その他（CloudWatch/EC2/IAM/Lambda/VGW）
 - 【ミドルウェア】 Django、MySQL、OpenVPN、PostgreSQL、Squid
 - 【ジョブツール】 Jenkins、JP1 AJS、JP1 Base
 - 【監視ツール】 Zabbix
-- 【バージョン管理】 Git
 - 【サーバOS】 Amazon Linux、Windows Server 2016
-- 【その他】 AWSCLI、Windows cmd.exe、YAMAHAルータ(RTX810/830)
+- 【その他】 YAMAHAルータ(RTX810/830)
 <br>
 
-大手流通企業のカスタマーサポートセンターの業務システムとカスタマー行動データを活用したプロトタイプ検証（2020年1月〜3月）
+某大手流通企業のカスタマーサポートセンターの業務システムとカスタマー行動データを活用したプロトタイプ検証（2020年1月〜3月）
 - 【概要】 よりリアルタイムなカスタマーサポートUXを実現するために、SFDCのユーザ行動データとクライアントのデータウェアハウスのデータを統合・連携する仕組みについて事前検証を行った。リードエンジニアとして、バックエンドの実装全般を担当。サーバレスなREST APIのアーキテクチャ設計や、パフォーマンスのベンチマークおよびプロファイルの対応、またセキュリティ要件をクリアする方法など、技術的ハードル・業務要件的な課題の全般を担当。
-- 【キーワード】 B2B、業務システム、PoC、サーバレス
+- 【キーワード】 業務アプリ、PoC、サーバレス
 - 【役割】 ソリューションアーキテクト、バックエンドエンジニア
-- 【規模】 業務システムのエンドユーザー：200人、DB：5インスタンス、DBテーブル：300、DBテーブルレコード：100万〜10億、PJTメンバー：30人
-- 【】 Scrum、オンサイト
-- 【プログラミング言語】 Bash、Python
+- 【規模】 業務システムのエンドユーザー：200人、DB：5インスタンス、DBテーブル：300、DBテーブルレコード：100万〜10億、PJメンバー：30人
+- 【開発フレームワーク】 Scrum、オンサイト
+- 【言語】 Bash、Python
 - 【インフラ】 AWS
 - 【AWS】 Aurora、API Gateway、EC2、Lambda、Redshift、Step Functions
 - 【ミドルウェア】 HPACK、PostgreSQL、OpenVPN、psycopg2、Salesforce Marketing Cloud
-- 【マネジメントツール】 Redmine、Teams
-- 【その他】 AWSCLI、Amazon Linux2、Git、JMeter、Tmux、WSL、Windows Server 2016
+- 【その他】 Amazon Linux2、JMeter、Windows Server 2016
 <br>
 
-大手小売企業のECおよびEC関連の業務システムのフルリニューアルにおけるPJTマネジメント（2019年8月〜11月）
+某大手小売企業のECおよびEC関連の業務システムのフルリニューアルにおけるPJTマネジメント（2019年8月〜11月）
 - 【概要】 Web ECのフロントエンド・バックエンド、およびEC関連の物流や決済、在庫管理などの業務システムのフルリニューアルにおけるPJTマネジメントを行った。サブマネージャーとして、各領域を横断的にフォローし、技術的あるいは業務的なハードル・課題解決のサポート、マネジメント全般の業務を担当。
-- 【キーワード】 B2C、業務システム、Web、PJTマネジメント
-- 【役割】 PJTマネジメント、Webエンジニア
-- 【規模】 PJTメンバー：300人、カウンターパート：10社、処理イシュー数：3000件
-- 【開発】 Waterfall（上流下流）、オンサイト
-- 【プログラミング言語】 Bash、JavaScript(NodeJS、ReactJS、NextJS)
-- 【その他ツール・サービス】 Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)
+- 【キーワード】 業務システム、Webアプリ、PJTマネジメント
+- 【役割】 PJマネジメント、Webエンジニア
+- 【規模】 PJメンバー：300人、パートナー企業：10社、処理チケット数：3000件
+- 【開発】 Waterfall、オンサイト
+- 【言語】 Bash、JavaScript
+- 【その他】 NodeJS、ReactJS、NextJS
 <br>
 
-大手小売企業のECフルリニューアルと多言語化（2018年12月〜2019年7月）
+某大手小売企業のECフルリニューアルと多言語化（2018年12月〜2019年7月）
 - 【概要】 Web ECのデザインと機能のフルリニューアル、および英語・中国語・フィンランド語への多言語化対応を行った。リードエンジニアとして、アジャイルマニフェストの作成・コーチングや、技術選定・開発プロセスの設計、各種実装、多言語化のソリューション設計・自動化を担当。また、チームマネジメントや、PJTマネジメントメンバーとの調整全般を兼務。
-- 【キーワード】 B2C、Web
-- 【役割】 チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
-- 【規模】 チームメンバー：10人、ECページ数：600、LOC：JS 7k/ CSS 10k、多言語対応：英語/フィンランド語/中国語、PJTメンバー：200人
-- 【開発フレームワーク】 Waterfall（上流下流）、Scrum、MVP、オンサイト
-- 【プログラミング言語】 Bash、CSS(Sass)、HTML、JavaScript(PureJS/JSX/NodeJS)、PHP7
+- 【キーワード】 Webアプリ、多言語対応
+- 【役割】 チームマネジメント、リードエンジニア、ソリューションアーキテクト
+- 【規模】 チームメンバー：10人、EC画面数：600、JS LOC：7k、CSS LOC：10k、多言語対応：英語/フィンランド語/中国語、PJメンバー：200人
+- 【開発フレームワーク】 Waterfall、Scrum、MVP、オンサイト
+- 【言語】 Bash、CSS(Sass)、HTML、JavaScript、PHP7
 - 【インフラ】 AWS
 - 【ミドルウェア】 Gulp、jQuery、ReactJS、Redux、Puppeteer
 - 【コーディングスタイル】 FLOCSS(CSS)、Material Web Design、Responsive Web Design、SSR
-- 【バージョン管理】 Abstract(Sketchファイル)、Git、GitHub
-- 【その他ツール・サービス】 macOS、npm、Slack、Trello(タスク)、Backlog(課題)、多言語対応の自動化、Azure DevOps、SEO、Microsoft Office
+- 【その他】 Abstract(Sketchファイル管理)、JSX、NodeJS、SEO
 <br>
 
-大手小売企業のECモバイルアプリの画像検索機能と音声検索機能のPoCとプロトタイプの検証・実装、および新機能をメンテナンスするための運用業務設計とサービスイン（2018年10月〜2019年6月）
+某大手小売企業のECモバイルアプリの画像検索機能と音声検索機能のPoCとプロトタイプの検証・実装、および新機能をメンテナンスするための運用業務設計とサービスイン（2018年10月〜2019年6月）
 - 【概要】 GCPのVision APIを使った画像検索と、GCPのDialogflowとBaiduのUNITを使った日本語・中国語の音声認識と既存のEC検索システムと連携した音声検索の設計・実装、また新機能をメンテナンスするための運用業務の設計およびクライアントへのコーチングなどのサービスイン関連全般を担当。
-- 【キーワード】 B2C、モバイル、Web、PoC
-- 【役割】 チームマネジメント、リードSWエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
-- 【規模】 チーム【規模】 5人、PJTメンバー：30人
-- 【開発フレームワーク】 Waterfall（上流下流）、Scrum、MVP、オンサイト
-- 【プログラミング言語】 Bash、CSS、HTML、JavaScript(NodeJS/TypeScript)、Java、Object-C
+- 【キーワード】 モバイルアプリ、Webアプリ、PoC
+- 【役割】 チームマネジメント、リードエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
+- 【規模】 チームメンバー：5人、PJメンバー：30人
+- 【開発フレームワーク】 Waterfall、Scrum、MVP、オンサイト
+- 【言語】 Bash、CSS、HTML、TypeScript、Java、Object-C
 - 【インフラ】 AWS、GCP
 - 【ミドルウェア】 GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI)、Baidu(UNIT)
-- 【その他ツール・サービス】 Microsoft Office
+- 【その他】 NodeJS
 <br>
 <br>
 
 ### Reacktor Japan 株式会社
 某飲料メーカのポイントチャージアプリのUX改善（2018年4月〜7月）
-- 【キーワード】 B2C、モバイル、Web、PoC
-- 【役割】 リードSWエンジニア、クライアントフェンシング
-- 【規模】 PJTメンバー：8人
-- 【開発フレームワーク】 Scrum、RAD、リモート
-- 【プログラミング言語】 CSS、HTML、JavaScript(PureJS)
-- 【その他ツール・サービス】 Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello
+- 【キーワード】 モバイルアプリ、Webwプリ、PoC
+- 【役割】 リードエンジニア、クライアントフェイシング
+- 【規模】 PJメンバー：8人
+- 【開発フレームワーク】 Scrum、RAD
+- 【言語】 CSS、HTML、JavaScript
+- 【その他】 Angular、Cordova、Google Analytics、OnsenUI
 <br>
 
 某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の解決に向けたトラッキングシステムの開発とトラッキングデータ分析（2017年11月〜2018年4月）
-- 【キーワード】 B2C、モバイル、Web、データ分析
-- 【役割】 クライアントフェイシング、セールス、リードSWエンジニア、データアナリシスト
-- 【規模】 PJTメンバー：19人
-- 【開発フレームワーク】 RAD、Scrum、リモート
-- 【プログラミング言語】 Bourne Shell、Java、Object-C、JavaScript(TypeScript、NodeJS、ReactJS)、Python
+- 【キーワード】 モバイルアプリ、Webアプリ、データ分析
+- 【役割】 クライアントフェイシング、リードエンジニア、データアナリシスト
+- 【規模】 PJメンバー：19人
+- 【開発フレームワーク】 RAD、Scrum
+- 【言語】 Bourne Shell、Java、Object-C、TypeScript、Python
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、Babel、Bootstrap、BSizeSDK、Cordova Plugin、MySQL、Omni Graffle、numpy、panda
-- 【OS】 Android、Linux、iOS、macOS
-- 【その他ツール・サービス】 AWS CLI、Android Debug Bridge、Android Studio、Chrome Dev Tool、Crome Inspect、Cordova、Docker、Docker Compose、ElasticBeansTalk CLI、Git、GitHub、Google Analytics、Grunt、Received Signal Strength Indication、Slack、Trello、Xcode、gnuplot、npm、yarn
+- 【OS】 Android、Linux、iOS
+- 【その他】 Android Debug Bridge、Cordova、Docker、Docker Compose、ElasticBeansTalk CLI、Google Analytics、Grunt、NodeJS、ReactJS、Received Signal Strength Indication、Xcode、gnuplot
 <br>
 
-Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月〜11月）
+Apache Supersetによる社内プロセスの改善とPoC評価(2017年10月〜11月)
 - 【キーワード】 社内プロセス改善
 - 【役割】 DevOps
-- 【開発フレームワーク】 RAD、Scrum、オンサイト
-- 【プログラミング言語】 Bourne Shell、JavaScript(TypeScript)
+- 【開発フレームワーク】 RAD、Scrum
+- 【言語】 Bourne Shell、TypeScript
 - 【インフラ】 AWS
 - 【ミドルウェア】 Apache superset、Docker、Docker Compose、MySQL、Redis
-- 【OS】 Ubuntu、macOS
-- 【その他ツール・サービス】 Git、GitHub、Slack、Trello、npm、yarn
+- 【OS】 Ubuntu
 <br>
 
-フィンランドの某VRプロジェクトでのネットワーク問題調査とソリューションMVP開発（2017年9月〜10月）
-- 【キーワード】 Unity
-- 【役割】 SWエンジニア
-- 【規模】 7人
-- 【開発フレームワーク】 RAD、Scrum、リモート
+フィンランドの某VRプロジェクトでのネットワーク問題調査とソリューションMVP開発(2017年9月〜10月)
+- 【キーワード】 Unity、VR
+- 【役割】 フルスタックエンジニア
+- 【規模】 PJメンバー：7人
+- 【開発フレームワーク】 RAD、Scrum、グローバルリモート
 - 【インフラ】 AWS
 - 【ミドルウェア】 GameLift、Lumberyard、Stream VR、Unity
-- 【その他ツール・サービス】 macOS、Trello、UDP Protocol、Ubuntu、User Story Board
+- 【その他】 UDP Protocol、Ubuntu、User Story Board
 <br>
 
-某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の調査とソリューションMVP開発（2017年7月〜9月）
-- 【キーワード】 B2C、モバイル
-- 【役割】 セールス、リードエンジニア
-- 【規模】 5人
-- 【開発フレームワーク】 ビジネス開発、RAD、Scrum、リモート
-- 【プログラミング言語】 HTML、Java、JavaScript(NodeJS/TypeScript)、Object-C、Bourne Shell
+某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の調査とソリューションMVP開発(2017年7月〜9月)
+- 【キーワード】 モバイルアプリ、BLE
+- 【役割】 セールス、リードエンジニア、フルスタックエンジニア
+- 【規模】 PJメンバー：5人
+- 【開発フレームワーク】 RAD、Scrum
+- 【言語】 HTML、Java、TypeScript、Object-C、Bourne Shell
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、BSizeSDK、ChartJS、Cordova、Deploy Gate、GemTotSDK、MySQL
-- 【OS】 Android、Linux、iOS、macOS
-- 【その他ツール・サービス】 Android Studio、Chrome Dev Tool、Chrome Inspect、Git、Git Bucket、GitHub、Grunt、Slack、Trello、Xcode、noble、npm、yarn
+- 【OS】 Android、Linux、iOS
+- 【その他】 Android Studio、Grunt、Xcode、NodeJS
 <br>
 
-某飲料メーカのポイントチャージアプリにおける周辺クーポンコンテンツ表示機能の開発（2017年5月〜7月）
-- 【キーワード】 B2C、モバイル
-- 【役割】 エンジニア
-- 【規模】 24人
+某飲料メーカのポイントチャージアプリにおける周辺クーポンコンテンツ表示機能の開発(2017年5月〜7月)
+- 【キーワード】 モバイルアプリ、DX
+- 【役割】 フルスタックエンジニア
+- 【規模】 PJメンバー：24人
 - 【開発フレームワーク】 RAD、Scrum、オンサイト
-- 【プログラミング言語】 CSS、HTML、JavaScript(PureJS/NodeJS/TypeScript)
+- 【言語】 CSS、HTML、TypeScript
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、Cordova、Istanble、OnsenUI、PhantomJS
-- 【OS】 Android、Linux、iOS、macOS
-- 【その他ツール・サービス】 Chrome Dev Tool、Chrome Inspect、Data Stusio、Deploy Gate、Git、GitHub、Google Analytics、Grunt、Kanvan、Mocha、OpenVPN、Slack、Xcode、loadtest、npm、supertest、yarn、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ
+- 【OS】 Android、Linux、iOS
+- 【その他】 Data Stusio、Deploy Gate、Google Analytics、Grunt、Kanban、Mocha、NodeJS、OpenVPN、Xcode、loadtest、supertest、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ
 <br>
 <br>
 
 ### 日立製作所
-Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善（2017年1月〜4月）
-- 【キーワード】 Web
-- 【役割】 Webエンジニア
-- 【規模】 10人
+Hitachi Automation DirectorのUX改善(2017年1月〜4月)
+- 【概要】 PoCを実施し、その結果をもとに設計した改善案をフロントエンドに実装
+- 【キーワード】 Webアプリ、業務アプリ
+- 【役割】 フロントエンドエンジニア
+- 【規模】 PJメンバー：10人
 - 【開発フレームワーク】 Scrum
-- 【その他ツール・サービス】 CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery
+- 【言語】 CSS、HTML、JavaScript
+- 【その他】 Git、JIRA、Jenkins、SourceTree、jQuery
 <br>
 
-某自治体の業務システムの運用保守とセキュリティパッチ対応（2016年3月〜12月）
-- 【キーワード】 B2B、業務システム
-- 【役割】 チームリード、システムエンジニア
-- 【規模】 8人
-- 【開発フレームワーク】 Waterfall（下流）
-- 【その他ツール・サービス】 JP1、PowerShell、VMWare、Windows、Windows Server 2015
+某自治体の業務システムの運用保守開発(2016年3月〜12月)
+- 【キーワード】 業務システム
+- 【役割】 チームリード、システムエンジニア、インフラエンジニア
+- 【規模】 PJメンバー：8人
+- 【開発フレームワーク】 Waterfall、オンサイト
+- 【言語】 Power Shell
+- 【その他】 JP1、VMWare、Windows Server 2015
 <br>
 
-SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
-- 【キーワード】 B2B、業務アプリケーション
-- 【役割】 エンジニア
-- 【規模】 10人
+Hitachi Command Suiteの商用ストレージNAT機能のサポート開発(2016年1月〜2月)
+- 【キーワード】 業務アプリ
+- 【役割】 プロダクト開発エンジニア
+- 【規模】 PJメンバー：10人
 - 【開発フレームワーク】 Scrum
-- 【その他ツール・サービス】 JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013
+- 【言語】 Java
+- 【その他】 JIRA、Git、Linux、VMWare、Windows server 2013
 <br>
 
-国内向けプラットフォーム統合管理ソフト（JP1）v11のAWSオートスケール対応での先行検証とマネジメント（2015年10月〜2016年1月）
-- 【キーワード】 B2B、業務アプリケーション
-- 【役割】 チームリード、テクニカルアドバイザー
-- 【規模】 5人
-- 【開発フレームワーク】 Waterfall（上流）
-- 【その他ツール・サービス】 AWS、JP1、Linux、Power Shell、Windows Server 201x
+JP1 v11のAWSオートスケールのサポート開発(2015年10月〜2016年1月)
+- 【キーワード】 業務アプリ
+- 【役割】 プロダクト開発エンジニア、チームリード
+- 【規模】 PJメンバー：5人
+- 【開発フレームワーク】 Waterfall
+- 【言語】 Power Shell
+- 【その他】 AWS、JP1、Linux、Windows Server 201x
 <br>
 
-Hitachi Command Suite v8.1のノイジーネイバー特定機能開発でのPJTマネジメント（2015年3月〜7月）
-- 【キーワード】 B2B、業務アプリケーション
-- 【役割】 PJTサブマネージャー
-- 【規模】 20人
-- 【開発フレームワーク】 Waterfall（上流）
+Hitachi Command Suite v8.0.１〜8.1のノイジーネイバー特定機能の開発(2014年6月〜2015年7月)
+- 【概要】 SAN上のノイジーネイバーを特定するための機能の要件定義〜実装、またそれらを題材とした社内論文の執筆
+- 【キーワード】 業務アプリ、ミドルウェア
+- 【役割】 PJマネジメント、プロダクト開発エンジニア
+- 【規模】 PJメンバー：30人
+- 【開発フレームワーク】 Waterfall
+- 【言語】 Java
+- 【その他】 ClearCase、Eclipce、SubVersion
 <br>
 
-Hitachi Command Suite v8.0.1のノイジーネイバー特定機能開発での要件定義と仕様定義および実装、また、それらを題材とした社内論文の執筆（2014年6月〜12月）
-- 【キーワード】 B2B、業務アプリケーション
-- 【役割】 セールス、PJTサブマネージャー、エンジニア
-- 【規模】 30人
-- 【開発フレームワーク】 Waterfall（上流）
-- 【その他ツール・サービス】 ClearCase、Eclipce、SubVersion、Java、Windows
+Hitachi Command Suite v8.0のGUIの実装(2014年1月〜6月）
+- 【概要】 サポート商用ストレージのマルチプロセッサブレードの性能分析用GUIの実装
+- 【キーワード】 業務アプリ、フロントエンド
+- 【役割】 プロダクト開発エンジニア
+- 【規模】 PJメンバー：40人
+- 【開発フレームワーク】 Waterfall
+- 【言語】 ActionScript、MXML
+- 【その他】 Adobe Flex、Eclipce、ClearCase、SubVersion
 <br>
 
-Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブレードの性能分析機能開発での分析UIの実装（2014年1月〜6月）
-- 【キーワード】 B2B、業務アプリケーション
-- 【役割】 エンジニア
-- 【規模】 40人
-- 【開発フレームワーク】 Waterfall（下流）
-- 【その他ツール・サービス】 ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows
-<br>
-
-Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と実装（2013年9月〜2014年1月）
-- 【キーワード】 B2B、業務アプリケーション
-- 【役割】 エンジニア
-- 【規模】 50人
-- 【開発フレームワーク】 Waterfall（下流）
-- 【その他ツール・サービス】 ClearCase、Eclipce、Java、MySQL、SubVersion、Windows
+Hitachi Command Suite v7.9のAPIの設計と実装(2013年9月〜2014年1月)
+- 【キーワード】 業務アプリ、RESTful、API、ミドルウェア
+- 【役割】 プロダクト開発エンジニア
+- 【規模】 PJメンバー：50人
+- 【開発フレームワーク】 Waterfall
+- 【言語】 Java
+- 【その他】 ClearCase、Eclipce、MySQL、SubVersion
 <br>
 <br>
 
 ## サイドプロジェクト
-公共バス到着時刻 Webアプリの個人開発 (2021年10月)
+公共バス到着時刻 Webアプリの個人開発(2021年10月)
 - 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品、[アプリ紹介動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
 - 【アプリURL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
 - 【役割】 フルスタックエンジニア
 - 【規模】 LOC：2k
 <br>
 
-音声コンテンツ共有SNS Webアプリの個人開発 (2018年3月〜2019年3月)
+音声コンテンツ共有SNS Webアプリの個人開発(2018年3月〜2019年3月)
 - 【役割】 フルスタックエンジニア
 - 【規模】 LOC：40k
 - 【開発フレームワーク】 RAD、Scrum
@@ -277,7 +274,7 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【その他】 Docker、Docker-Compose、Webpack、loadtest、supertest
 <br>
 
-Seedステージの某スタートアップのWebチャットアプリ試作の実装 (2017年1月〜3月)
+Seedステージの某スタートアップのWebチャットアプリ試作の実装(2017年1月〜3月)
 - 【役割】 フルスタックエンジニア
 - 【規模】 PJメンバー：5人
 - 【開発フレームワーク】 Scrum
@@ -287,7 +284,7 @@ Seedステージの某スタートアップのWebチャットアプリ試作の�
 - 【その他】 Eslint、Ubuntu、babel、gulp、flow、webpack
 <br>
 
-Earlyステージの某スタートアップのWebスクレーピングアプリ試作の実装 (2016年10月〜12月)
+Earlyステージの某スタートアップのWebスクレーピングアプリ試作の実装(2016年10月〜12月)
 - 【役割】 フルスタックエンジニア
 - 【規模】 PJメンバー：7人
 - 【開発フレームワーク】 Scrum
@@ -295,25 +292,25 @@ Earlyステージの某スタートアップのWebスクレーピングアプリ
 - 【ミドルウェア】 cURL
 <br>
 
-Seedステージの某スタートアップECサイトの決済機能の実装 (2016年2月〜4月)
+Seedステージの某スタートアップECサイトの決済機能の実装(2016年2月〜4月)
 - 【役割】 リードエンジニア
 - 【規模】 PJメンバー：3人
 - 【開発フレームワーク】 Waterfall
 - 【プログラミング言語】 HTML、JavaScript、PHP
 - 【ミドルウェア】 Paypal
-- 【PaaS】 AWS
+- 【インフラ】 AWS
 <br>
 
-ストリーミングWebアプリ (2015年10月〜2016年2月)
+ストリーミングWebアプリ(2015年10月〜2016年2月)
 - 【役割】 フルスタックエンジニア
 - 【規模】 LOC：6k、PJメンバー：2人
 - 【開発フレームワーク】 Scrum
 - 【プログラミング言語】 CSS、HTML、JavaScript、PHP
 - 【ミドルウェア】 Apatch、MySQL
-- 【PaaS】 AWS
+- 【インフラ】 AWS
 <br>
 
-社内の個人Wiki横断検索Webアプリ (2015年6月〜9月)
+社内の個人Wiki横断検索Webアプリ(2015年6月〜9月)
 - 【役割】 フルスタックエンジニア
 - 【規模】 LOC：2k、PJメンバー：3人
 - 【開発フレームワーク】 Waterfall
@@ -332,12 +329,12 @@ Seedステージの某スタートアップECサイトの決済機能の実装 (
 |プログラミング言語|Bash(＊)、Bourne Shell、C(＊)、CSS、HTML、Java(＊)、JavaScript(＊)、PHP、TypeScript|Action Script、C++、Elixir、Go、Lua、MXML、ObjectC|
 |フロントエンド|Flux、ReactJS、Redux|Angular、Cordova、Bootstrap、OnsenUI、Saas、Service Worker、WebRTC、flow|
 |バックエンド|Apatch、Express、MySQL、NodeJS|Phoenix、Python、Tomcat、Unity、Nginx、Windows cmd.exe|
-|PaaS|AWS(＊)|GCP、Vulture|
+|インフラ|AWS(＊)|GCP、Vulture|
 |DB|MySQL、PostgreSQL|-|
 |エディタ|Atom、Eclipce、SublineText、Visual Studio Code(＊)、vi、vim(＊)|Android Studio|
 |OSS|Elasticsearch|Apatch Superset|
 |タスク管理|Kanban、Trello|Azure DevOps、JIRA(＊)、Taiga|
-|開発フレームワーク|Agile、RAD、Scrum(＊)、TDD(＊)、Waterfall|SDD(＊)、XP|
+|開発フレームワーク|Agile、RAD、Scrum(＊)、TDD(＊)、Waterfall|SDD (Schema-Driven Development)(＊)、XP|
 |リポジトリサービス|GitHub(＊)|Gitlab、GitBucket、SubVersion|
 |バージョン管理|ClearCase、Git(＊)|-|
 |パッケージ管理|npm、yarn|apt(＊)|
@@ -351,24 +348,28 @@ Seedステージの某スタートアップECサイトの決済機能の実装 (
 |コンテナー|-|Docker、Docker Compose|
 |デザインパターン|Responsive Web Design|Progressive Web Design、Scheme|
 |その他|AWS CLI(＊)|ElasticBeansTalk CLI、Terraform、XCode、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
-
+<br>
+<br>
 
 
 ## 言語
 - 日本語：母国語
 - 英語：日常会話〜ビジネス初級
 - 中国語：日常会話
-
+<br>
+<br>
 
 
 ## 資格
 中国語検定 HSK 2級
-
+<br>
+<br>
 
 
 ## 最終学歴
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月卒
-
+<br>
+<br>
 
 
 ## その他 
