@@ -1,4 +1,4 @@
-#### 最終更新：2021年10月
+#### 最終更新：2021年11月
 
 
 #### 石橋　貴生（メール：itakaki0@gmail.com、住所：日本 東京）
@@ -324,33 +324,33 @@ Seedステージの某スタートアップECサイトの決済機能の実装 (
 
 
 ## 技術スタックの経験年数まとめ
-(*)：最近よく使ってるもの
+(＊)：最近よく使ってるもの
 
 | カテゴリ | 1年以上 | 1年未満 |
 |:--------|:-------|:-------|
-|OS|Amazon Linux(*)、WSL(*)|Android、iOS|
-|プログラミング言語|Bash(*)、Bourne Shell、C(*)、CSS、HTML、Java(*)、JavaScript(*)、PHP、TypeScript|Action Script、C++、Elixir、Go、Lua、MXML、ObjectC|
+|OS|Amazon Linux(＊)、WSL(＊)|Android、iOS|
+|プログラミング言語|Bash(＊)、Bourne Shell、C(＊)、CSS、HTML、Java(＊)、JavaScript(＊)、PHP、TypeScript|Action Script、C++、Elixir、Go、Lua、MXML、ObjectC|
 |フロントエンド|Flux、ReactJS、Redux|Angular、Cordova、Bootstrap、OnsenUI、Saas、Service Worker、WebRTC、flow|
 |バックエンド|Apatch、Express、MySQL、NodeJS|Phoenix、Python、Tomcat、Unity、Nginx、Windows cmd.exe|
-|PaaS|AWS(*)|GCP、Vulture|
+|PaaS|AWS(＊)|GCP、Vulture|
 |DB|MySQL、PostgreSQL|-|
-|エディタ|Atom、Eclipce、SublineText、Visual Studio Code(*)、vi、vim(*)|Android Studio|
+|エディタ|Atom、Eclipce、SublineText、Visual Studio Code(＊)、vi、vim(＊)|Android Studio|
 |OSS|Elasticsearch|Apatch Superset|
-|タスク管理|Kanban、Trello|Azure DevOps、JIRA(*)、Taiga|
-|開発フレームワーク|Agile、RAD、Scrum(*)、Waterfall|XP|
-|リポジトリサービス|GitHub(*)|Gitlab、GitBucket、SubVersion|
-|バージョン管理|ClearCase、Git(*)|-|
-|パッケージ管理|npm、yarn|apt(*)|
+|タスク管理|Kanban、Trello|Azure DevOps、JIRA(＊)、Taiga|
+|開発フレームワーク|Agile、RAD、Scrum(＊)、TDD(＊)、Waterfall|SDD(＊)、XP|
+|リポジトリサービス|GitHub(＊)|Gitlab、GitBucket、SubVersion|
+|バージョン管理|ClearCase、Git(＊)|-|
+|パッケージ管理|npm、yarn|apt(＊)|
 |タスクランナー|gulp|Grunt、Jenkins、JP1/AJS|
 |トランスコンパイラー|babel|-|
 |課題管理|-|Redmine|
 |監視|-|Zabbix、DataDog|
 |バンドラー|Webpack|-|
-|テスト|Chai、Mocha、supertest|Enzyme、istanble、Jest(*)、PhantomJS、Sinon|
+|テスト|Chai、Mocha、supertest|Enzyme、istanble、Jest(＊)、PhantomJS、Sinon|
 |ローカルCI|eslint|-|
 |コンテナー|-|Docker、Docker Compose|
 |デザインパターン|Responsive Web Design|Progressive Web Design、Scheme|
-|その他|AWS CLI(*)|ElasticBeansTalk CLI、Terraform、XCode、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
+|その他|AWS CLI(＊)|ElasticBeansTalk CLI、Terraform、XCode、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
 
 
 
