@@ -33,7 +33,7 @@
 大手電気通信企業の社内向けSNS分析Webアプリの新規構築（2021年9月～現在）※構築フェーズ
 - 【キーワード】 SNS、Web、サーバレス
 - 【役割】 フロントエンド・バックエンドアプリエンジニア、チームリード
-- 【開発プロセス】 アジャイル(スクラム)＋SSD (Schema-Driven Development)、フルリモート
+- 「」【」 アジャイル(スクラム)＋SSD (Schema-Driven Development)、フルリモート
 - 【プログラミング言語】 CSS3 (RSCSS)、HTML5、JavaScript (ES5以上)、Python (3.x)
 - 【インフラ】 AWS
 - 【AWS】 Amplify、API Gateway、Cognito、DynamoDB、EC2(VPNサーバ)、Lambda、Step Functions、S3、SageMaker
@@ -47,7 +47,7 @@
 - 【キーワード】 CRM、B2B、BI、業務システム、Web、データマート
 - 【役割】 リードエンジニア、ソリューションアーキテクト、チームマネジメント、クライアントフェイシング
 - 【規模】 PJTメンバー：60人、チームメンバー：5人、CRMエンドユーザ：2200万人、MAU：25万人、データマートのエンドユーザ：200人、VPS：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜10億、バッチ処理：900ジョブ、セキュリティルーム：5拠点、ストレージ利用量：1.6PB、IAM：110ロール・90ポリシー
-- 【開発プロセス】Waterfall（上流下流）、オンサイトまたはリモート
+- 【」Waterfall（上流下流）、オンサイトまたはリモート
 - 【プログラミング言語】 Bash、batch script、JavaScript、Python
 - 【インフラ】 AWS、クライアントのオンプレミス
 - 【AWS】 IAM（AssumeRole/Service-linked）、Redshift、S3（オブジェクトロック/ライフサイクル設計）、EMR、Session Manager、その他（CloudWatch/EC2/Lambda/KMS/VPC）
@@ -63,7 +63,7 @@
 - 【キーワード】 CRM、B2B、業務システム、Web、データマート
 - 【役割】 チームマネジメント、リードNWエンジニア、インフラエンジニア、SWエンジニア、クライアントフェイシング、ソリューションアーキテクト
 - 【規模】 PJTメンバー数：100人、チームメンバー：5人、CRM対象アプリエンドユーザ：2000万人、MAU：20万人、データマートのエンドユーザ：150人、VPC：50サーバ、DB：15インスタンス、DBテーブル：3000、DBテーブルレコード：1000万〜15億、バッチ処理：900、セキュアルーム：5拠点、ストレージ利用量：1.6PB
-- 【開発プロセス】 Waterfall（上流下流）、オンサイトまたはリモート
+- 【】 Waterfall（上流下流）、オンサイトまたはリモート
 - 【プログラミング言語】 Bash、batch script、Sass、HTML、JavaScript、Lua、Python
 - 【インフラ】 AWS、セキュリティルーム、オフィススペース
 - 【AWS】 Redshift、SSM、S3、その他（CloudWatch/EC2/IAM/Lambda/VGW）
@@ -80,7 +80,7 @@
 - 【キーワード】 B2B、業務システム、PoC、サーバレス
 - 【役割】 ソリューションアーキテクト、バックエンドエンジニア
 - 【規模】 業務システムのエンドユーザー：200人、DB：5インスタンス、DBテーブル：300、DBテーブルレコード：100万〜10億、PJTメンバー：30人
-- 【開発プロセス】 Scrum、オンサイト
+- 【】 Scrum、オンサイト
 - 【プログラミング言語】 Bash、Python
 - 【インフラ】 AWS
 - 【AWS】 Aurora、API Gateway、EC2、Lambda、Redshift、Step Functions
@@ -94,7 +94,7 @@
 - 【キーワード】 B2C、業務システム、Web、PJTマネジメント
 - 【役割】 PJTマネジメント、Webエンジニア
 - 【規模】 PJTメンバー：300人、カウンターパート：10社、処理イシュー数：3000件
-- 【開発プロセス】 Waterfall（上流下流）、オンサイト
+- 【開発】 Waterfall（上流下流）、オンサイト
 - 【プログラミング言語】 Bash、JavaScript(NodeJS、ReactJS、NextJS)
 - 【その他ツール・サービス】 Backlog(課題)、Redmin(タスク)、WSL、Slack(コミュニケーション)、Chatwork(コミュニケーション)、Teams(コミュニケーション)
 <br>
@@ -104,7 +104,7 @@
 - 【キーワード】 B2C、Web
 - 【役割】 チームマネジメント、リードWebエンジニア、ソリューションアーキテクト
 - 【規模】 チームメンバー：10人、ECページ数：600、LOC：JS 7k/ CSS 10k、多言語対応：英語/フィンランド語/中国語、PJTメンバー：200人
-- 【開発プロセス】 Waterfall（上流下流）、Scrum、MVP、オンサイト
+- 【開発フレームワーク】 Waterfall（上流下流）、Scrum、MVP、オンサイト
 - 【プログラミング言語】 Bash、CSS(Sass)、HTML、JavaScript(PureJS/JSX/NodeJS)、PHP7
 - 【インフラ】 AWS
 - 【ミドルウェア】 Gulp、jQuery、ReactJS、Redux、Puppeteer
@@ -118,7 +118,7 @@
 - 【キーワード】 B2C、モバイル、Web、PoC
 - 【役割】 チームマネジメント、リードSWエンジニア、インフラエンジニア、ソリューションアーキテクト、クライアントフェイシング
 - 【規模】 チーム【規模】 5人、PJTメンバー：30人
-- 【開発プロセス】 Waterfall（上流下流）、Scrum、MVP、オンサイト
+- 【開発フレームワーク】 Waterfall（上流下流）、Scrum、MVP、オンサイト
 - 【プログラミング言語】 Bash、CSS、HTML、JavaScript(NodeJS/TypeScript)、Java、Object-C
 - 【インフラ】 AWS、GCP
 - 【ミドルウェア】 GCP(Dialogflow/AssistantAPP/ProductSearch/VisionAPI)、Baidu(UNIT)
@@ -131,7 +131,7 @@
 - 【キーワード】 B2C、モバイル、Web、PoC
 - 【役割】 リードSWエンジニア、クライアントフェンシング
 - 【規模】 PJTメンバー：8人
-- 【開発プロセス】 Scrum、RAD、リモート
+- 【開発フレームワーク】 Scrum、RAD、リモート
 - 【プログラミング言語】 CSS、HTML、JavaScript(PureJS)
 - 【その他ツール・サービス】 Angular、Cordova、Git、GitHub、Google Analytics、OnsenUI、Slack、Trello
 <br>
@@ -140,7 +140,7 @@
 - 【キーワード】 B2C、モバイル、Web、データ分析
 - 【役割】 クライアントフェイシング、セールス、リードSWエンジニア、データアナリシスト
 - 【規模】 PJTメンバー：19人
-- 【開発プロセス】 RAD、Scrum、リモート
+- 【開発フレームワーク】 RAD、Scrum、リモート
 - 【プログラミング言語】 Bourne Shell、Java、Object-C、JavaScript(TypeScript、NodeJS、ReactJS)、Python
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、Babel、Bootstrap、BSizeSDK、Cordova Plugin、MySQL、Omni Graffle、numpy、panda
@@ -151,7 +151,7 @@
 Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月〜11月）
 - 【キーワード】 社内プロセス改善
 - 【役割】 DevOps
-- 【開発プロセス】 RAD、Scrum、オンサイト
+- 【開発フレームワーク】 RAD、Scrum、オンサイト
 - 【プログラミング言語】 Bourne Shell、JavaScript(TypeScript)
 - 【インフラ】 AWS
 - 【ミドルウェア】 Apache superset、Docker、Docker Compose、MySQL、Redis
@@ -163,7 +163,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 - 【キーワード】 Unity
 - 【役割】 SWエンジニア
 - 【規模】 7人
-- 【開発プロセス】 RAD、Scrum、リモート
+- 【開発フレームワーク】 RAD、Scrum、リモート
 - 【インフラ】 AWS
 - 【ミドルウェア】 GameLift、Lumberyard、Stream VR、Unity
 - 【その他ツール・サービス】 macOS、Trello、UDP Protocol、Ubuntu、User Story Board
@@ -173,7 +173,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 - 【キーワード】 B2C、モバイル
 - 【役割】 セールス、リードエンジニア
 - 【規模】 5人
-- 【開発プロセス】 ビジネス開発、RAD、Scrum、リモート
+- 【開発フレームワーク】 ビジネス開発、RAD、Scrum、リモート
 - 【プログラミング言語】 HTML、Java、JavaScript(NodeJS/TypeScript)、Object-C、Bourne Shell
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、BSizeSDK、ChartJS、Cordova、Deploy Gate、GemTotSDK、MySQL
@@ -185,7 +185,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価（2017年10月�
 - 【キーワード】 B2C、モバイル
 - 【役割】 エンジニア
 - 【規模】 24人
-- 【開発プロセス】 RAD、Scrum、オンサイト
+- 【開発フレームワーク】 RAD、Scrum、オンサイト
 - 【プログラミング言語】 CSS、HTML、JavaScript(PureJS/NodeJS/TypeScript)
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、Cordova、Istanble、OnsenUI、PhantomJS
@@ -199,7 +199,7 @@ Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善�
 - 【キーワード】 Web
 - 【役割】 Webエンジニア
 - 【規模】 10人
-- 【開発プロセス】 Scrum
+- 【開発フレームワーク】 Scrum
 - 【その他ツール・サービス】 CSS、Git、HTML、JIRA、JavaScript、Jenkins、SourceTree、Windows、jQuery
 <br>
 
@@ -207,7 +207,7 @@ Hitachi Automation DirectorのPoC評価とフロントエンドのUX・UI改善�
 - 【キーワード】 B2B、業務システム
 - 【役割】 チームリード、システムエンジニア
 - 【規模】 8人
-- 【開発プロセス】 Waterfall（下流）
+- 【開発フレームワーク】 Waterfall（下流）
 - 【その他ツール・サービス】 JP1、PowerShell、VMWare、Windows、Windows Server 2015
 <br>
 
@@ -215,7 +215,7 @@ SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 エンジニア
 - 【規模】 10人
-- 【開発プロセス】 Scrum
+- 【開発フレームワーク】 Scrum
 - 【その他ツール・サービス】 JIRA、Java、Git、Linux、VMWare、Windows、Windows server 2013
 <br>
 
@@ -223,7 +223,7 @@ SaaS型Hitachi Command SuiteのNAT対応（2016年1月〜2月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 チームリード、テクニカルアドバイザー
 - 【規模】 5人
-- 【開発プロセス】 Waterfall（上流）
+- 【開発フレームワーク】 Waterfall（上流）
 - 【その他ツール・サービス】 AWS、JP1、Linux、Power Shell、Windows Server 201x
 <br>
 
@@ -231,14 +231,14 @@ Hitachi Command Suite v8.1のノイジーネイバー特定機能開発でのPJT
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 PJTサブマネージャー
 - 【規模】 20人
-- 【開発プロセス】 Waterfall（上流）
+- 【開発フレームワーク】 Waterfall（上流）
 <br>
 
 Hitachi Command Suite v8.0.1のノイジーネイバー特定機能開発での要件定義と仕様定義および実装、また、それらを題材とした社内論文の執筆（2014年6月〜12月）
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 セールス、PJTサブマネージャー、エンジニア
 - 【規模】 30人
-- 【開発プロセス】 Waterfall（上流）
+- 【開発フレームワーク】 Waterfall（上流）
 - 【その他ツール・サービス】 ClearCase、Eclipce、SubVersion、Java、Windows
 <br>
 
@@ -246,7 +246,7 @@ Hitachi Command Suite v8.0の商用ストレージのマルチプロセッサブ
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 エンジニア
 - 【規模】 40人
-- 【開発プロセス】 Waterfall（下流）
+- 【開発フレームワーク】 Waterfall（下流）
 - 【その他ツール・サービス】 ActionScript、Eclipce、ClearCase、MXML、SubVersion、Windows
 <br>
 
@@ -254,108 +254,103 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 - 【キーワード】 B2B、業務アプリケーション
 - 【役割】 エンジニア
 - 【規模】 50人
-- 【開発プロセス】 Waterfall（下流）
+- 【開発フレームワーク】 Waterfall（下流）
 - 【その他ツール・サービス】 ClearCase、Eclipce、Java、MySQL、SubVersion、Windows
 <br>
 <br>
 
-## プライベートプロジェクト履歴
-公共バス到着時刻Webアプリ(2021年10月)
-- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品、[紹介動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
-- 【URL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
+## サイドプロジェクト
+公共バス到着時刻 Webアプリの個人開発 (2021年10月)
+- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品、[アプリ紹介動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
+- 【アプリURL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
+- 【役割】 フルスタックエンジニア
+- 【規模】 LOC：2k
+<br>
 
-音声共有SNS Webアプリ（2018年3月〜2019年3月）
-- 【役割】 Webエンジニア
+音声コンテンツ共有SNS Webアプリの個人開発 (2018年3月〜2019年3月)
+- 【役割】 フルスタックエンジニア
 - 【規模】 LOC：40k
-- 【開発プロセス】 RAD、Scrum
+- 【開発フレームワーク】 RAD、Scrum
 - 【プログラミング言語】 PHP、CSS、HTML、Java、Bourne Shell、JavaScript (TypeScript/ReactJS/NodeJS)
 - 【ミドルウェア】 Erasticsearch、Flux、MuSQL、Jest、Mocha、Express、Redux
 - 【インフラ】 AWS
-- 【その他ツール・サービス】 Chrome Dev Tool、Docker、Docker-Compose、Git、GitHub、Slack、Trello、Visual Studio Code、Webpack、loadtest、macOS、npm、supertest、yarn
+- 【その他】 Docker、Docker-Compose、Webpack、loadtest、supertest
 <br>
 
-日本の某スタートアップ(seed stage)のWebチャットアプリの試作（2017年1月〜3月）
-※NDAにより概要のみ
-- 【キーワード】 Web
-- 【役割】 Webエンジニア
-- 【規模】 PJTメンバー：5人
-- 【開発プロセス】 Scrum、リモート
+Seedステージの某スタートアップのWebチャットアプリ試作の実装 (2017年1月〜3月)
+- 【役割】 フルスタックエンジニア
+- 【規模】 PJメンバー：5人
+- 【開発フレームワーク】 Scrum
 - 【プログラミング言語】 Elixir、JavaScript
 - 【ミドルウェア】 MuSQL、Phoenix、Nginx
 - 【インフラ】 AWS
-- 【その他ツール・サービス】 Atom、Eslint、Git、GitHub、Ubuntu、babel、gulp、flow、webpack
+- 【その他】 Eslint、Ubuntu、babel、gulp、flow、webpack
 <br>
 
-日本の某スタートアップ(early stage)のWebスクレーピングアプリの試作（2016年10月〜12月）
-※NDAにより概要のみ
-- 【キーワード】 Web
-- 【役割】 Webエンジニア
-- 【規模】 PJTメンバー：7人
-- 【開発プロセス】 Scrum、リモート
+Earlyステージの某スタートアップのWebスクレーピングアプリ試作の実装 (2016年10月〜12月)
+- 【役割】 フルスタックエンジニア
+- 【規模】 PJメンバー：7人
+- 【開発フレームワーク】 Scrum
 - 【プログラミング言語】 HTML、JavaScript、PHP
 - 【ミドルウェア】 cURL
-- 【その他ツール・サービス】 Atom、Git、GitHub
 <br>
 
-日本の某スタートアップ(seed stage)のECサイトのクライアント側決済機能の試作（2016年2月〜4月）
-※NDAにより概要のみ
-- 【キーワード】 Web
-- 【役割】 リードSWエンジニア
-- 【規模】 PJTメンバー：3人
-- 【開発プロセス】 Waterfall、リモート
+Seedステージの某スタートアップECサイトの決済機能の実装 (2016年2月〜4月)
+- 【役割】 リードエンジニア
+- 【規模】 PJメンバー：3人
+- 【開発フレームワーク】 Waterfall
 - 【プログラミング言語】 HTML、JavaScript、PHP
 - 【ミドルウェア】 Paypal
-- 【インフラ】 AWS
-- 【その他ツール・サービス】 Atom、Git、GitHub
+- 【PaaS】 AWS
 <br>
 
-個人用ストリーミングサービス（2015年10月〜2016年2月）
-- 【キーワード】 Web
-- 【役割】 Webエンジニア
-- 【規模】 PJTメンバー：2人、LOC：6k
-- 【開発プロセス】 Scrum
+ストリーミングWebアプリ (2015年10月〜2016年2月)
+- 【役割】 フルスタックエンジニア
+- 【規模】 LOC：6k、PJメンバー：2人
+- 【開発フレームワーク】 Scrum
 - 【プログラミング言語】 CSS、HTML、JavaScript、PHP
 - 【ミドルウェア】 Apatch、MySQL
-- 【インフラ】 AWS
-- 【その他ツール・サービス】 Atom、Amazon Linux、Git、GitHub
+- 【PaaS】 AWS
+<br>
 
-社内向け個人Wikiメモ横断検索Webアプリの試作（2015年6月〜9月）
-- 【キーワード】 Web
-- 【役割】 Webエンジニア
-- 【規模】 PJTメンバー：3人
-- 【開発プロセス】 Waterfall|
-- 【プログラミング言語】 HTML、Java
+社内の個人Wiki横断検索Webアプリ (2015年6月〜9月)
+- 【役割】 フルスタックエンジニア
+- 【規模】 LOC：2k、PJメンバー：3人
+- 【開発フレームワーク】 Waterfall
+- 【言語】 HTML、Java
 - 【ミドルウェア】 Tomcat、TiddlyWiki
-- 【その他ツール・サービス】 Atom、git、GitHub
+<br>
+<br>
 
 
-## 技術スタックまとめ(業務またはプライベートで、1年以上または1年未満使っているもの)
-(*)：現在メインで使ってるもの
+## 技術スタックの経験年数まとめ
+(*)：最近よく使ってるもの
 
 | カテゴリ | 1年以上 | 1年未満 |
-|:-----------|:-----|:-------|
-|OS|Amazon Linux(*)、macOS(*)、Ubuntu、Windows 10(*)、WSL(*)|Android、iOS|
-|クライアントサイド|CSS、Flux、HTML、JavaScript、ReactJS、Redux、TypeScript(*)|Action Script、Angular、Cordova、Bootstrap、MXML、ObjectC、OnsenUI、Saas、Service Worker、WebRTC、flow|
-|サーバサイド|Apatch、Bash(*)、Bourne Shell、Express、Java、MySQL、NodeJS(*)、PHP、TypeScript|C(*)、C++、Elixir、Go(*)、Lua、Phoenix、Python、Tomcat、Unity、Nginx、Windows cmd.exe|
+|:--------|:-------|:-------|
+|OS|Amazon Linux(*)、WSL(*)|Android、iOS|
+|プログラミング言語|Bash(*)、Bourne Shell、C(*)、CSS、HTML、Java(*)、JavaScript(*)、PHP、TypeScript|Action Script、C++、Elixir、Go、Lua、MXML、ObjectC|
+|フロントエンド|Flux、ReactJS、Redux|Angular、Cordova、Bootstrap、OnsenUI、Saas、Service Worker、WebRTC、flow|
+|バックエンド|Apatch、Express、MySQL、NodeJS|Phoenix、Python、Tomcat、Unity、Nginx、Windows cmd.exe|
 |PaaS|AWS(*)|GCP、Vulture|
-|DB|MySQL、PostgreSQL(*)|-|
+|DB|MySQL、PostgreSQL|-|
 |エディタ|Atom、Eclipce、SublineText、Visual Studio Code(*)、vi、vim(*)|Android Studio|
 |OSS|Elasticsearch|Apatch Superset|
-|タスク管理|Trello、|Azure DevOps(*)、Taiga|
-|プロジェクト管理|Kanban、Trello|Azure DevOps(*)、Taiga(*)、JIRA|
-|開発プロセス|RAD、Scrum(*)、Waterfall(*)|XP|
-|バージョン管理|ClearCase、Git(*)、GitHub(*)|Gitlab、GitBucket、SubVersion|
-|パッケージ管理|npm、yarn|-|
-|タスクランナー|gulp|Grunt、Jenkins、JP1/AJS(*)|
+|タスク管理|Kanban、Trello|Azure DevOps、JIRA(*)、Taiga|
+|開発フレームワーク|Agile、RAD、Scrum(*)、Waterfall|XP|
+|リポジトリサービス|GitHub(*)|Gitlab、GitBucket、SubVersion|
+|バージョン管理|ClearCase、Git(*)|-|
+|パッケージ管理|npm、yarn|apt(*)|
+|タスクランナー|gulp|Grunt、Jenkins、JP1/AJS|
 |トランスコンパイラー|babel|-|
 |課題管理|-|Redmine|
-|監視|-|Zabbix(*)|
+|監視|-|Zabbix、DataDog|
 |バンドラー|Webpack|-|
-|テスト|Chai、Mocha、supertest|Enzyme(*)、istanble、Jest(*)、PhantomJS、Sinon|
-|チャット|gitter、slack(*)、Teams(*)|-|
+|テスト|Chai、Mocha、supertest|Enzyme、istanble、Jest(*)、PhantomJS、Sinon|
 |ローカルCI|eslint|-|
-|仮想化|-|Docker、Docker Compose|
-|その他ツール・サービス|AWS CLI(*)|ElasticBeansTalk CLI、Responsive Web Design、Terraform、XCode、Progressive Web Design、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
+|コンテナー|-|Docker、Docker Compose|
+|デザインパターン|Responsive Web Design|Progressive Web Design、Scheme|
+|その他|AWS CLI(*)|ElasticBeansTalk CLI、Terraform、XCode、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
 
 
 
@@ -377,6 +372,6 @@ Hitachi Command Suite v7.9のREST API機能開発でのAPIおよびDB設計と�
 
 
 ## その他 
-- GitHubアカウント：[xtaka](https://github.com/xtaka)
+- GitHub：[xtaka](https://github.com/xtaka)
 - 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、本(The Master Algorithm/はじめて読む486/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケットボール3x3、サイドPJ
 - 関心があるもの：キャリア(Individual Contributor)、テクノロジー(Service Meshアーキテクチャ/zig/Arduino IoT/OSS)、貧困児童問題、エジプト数学、Society5.0、量子情報(Q-LEAP/QII)
