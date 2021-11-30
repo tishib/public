@@ -153,8 +153,8 @@ Apache Supersetによる社内プロセスの改善とPoC評価(2017年10月〜1
 - 【OS】 Ubuntu
 <br>
 
-フィンランドの某VRプロジェクトでのネットワーク問題調査とソリューションMVP開発(2017年9月〜10月)
-- 【キーワード】 Unity、VR
+フィンランドの某VRプロジェクトでの通信品質向上(2017年9月〜10月)
+- 【キーワード】 Unity、VR、MVP開発
 - 【役割】 フルスタックエンジニア
 - 【規模】 PJメンバー：7人
 - 【開発フレームワーク】 RAD、Scrum、グローバルリモート
@@ -163,8 +163,8 @@ Apache Supersetによる社内プロセスの改善とPoC評価(2017年10月〜1
 - 【その他】 UDP Protocol、Ubuntu、User Story Board
 <br>
 
-某飲料メーカのポイントチャージアプリと自販機のBluetooth Low Energy通信問題の調査とソリューションMVP開発(2017年7月〜9月)
-- 【キーワード】 モバイルアプリ、BLE
+某飲料メーカー様のモバイルアプリの自販機とのBLE通信不具合のデバッグ(2017年7月〜9月)
+- 【キーワード】 BLE通信、MVP開発
 - 【役割】 セールス、リードエンジニア、フルスタックエンジニア
 - 【規模】 PJメンバー：5人
 - 【開発フレームワーク】 RAD、Scrum
@@ -172,11 +172,11 @@ Apache Supersetによる社内プロセスの改善とPoC評価(2017年10月〜1
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、BSizeSDK、ChartJS、Cordova、Deploy Gate、GemTotSDK、MySQL
 - 【OS】 Android、Linux、iOS
-- 【その他】 Android Studio、Grunt、Xcode、NodeJS
+- 【その他】 Grunt、NodeJS
 <br>
 
-某飲料メーカのポイントチャージアプリにおける周辺クーポンコンテンツ表示機能の開発(2017年5月〜7月)
-- 【キーワード】 モバイルアプリ、DX
+某飲料メーカー様のモバイルアプリへの自販機位置情報取得機能と周辺飲食店コンテンツ表示機能の実装(2017年5月〜7月)
+- 【キーワード】 DX改善、BLE通信、ポイントチャージアプリ、ホットペッパーグルメ
 - 【役割】 フルスタックエンジニア
 - 【規模】 PJメンバー：24人
 - 【開発フレームワーク】 RAD、Scrum、オンサイト
@@ -184,7 +184,7 @@ Apache Supersetによる社内プロセスの改善とPoC評価(2017年10月〜1
 - 【インフラ】 AWS
 - 【ミドルウェア】 Angular、Cordova、Istanble、OnsenUI、PhantomJS
 - 【OS】 Android、Linux、iOS
-- 【その他】 Data Stusio、Deploy Gate、Google Analytics、Grunt、Kanban、Mocha、NodeJS、OpenVPN、Xcode、loadtest、supertest、ワイヤーフレーム(or カスタマージャーニーマップ)、ペーパープロトタイプ
+- 【その他】 Data Stusio、Deploy Gate、Google Analytics、Grunt、Mocha、NodeJS、OpenVPN、loadtest、supertest、カスタマージャーニーマップ、ペーパープロトタイプ
 <br>
 <br>
 
