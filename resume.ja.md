@@ -30,16 +30,16 @@
 
 ## 職務履歴
 ### Accenture PLC
-某大手電気通信企業の社内向けSNS分析Webアプリの新規構築（2021年9月～現在）
+某大手電気通信企業の社内向けSNS分析Webアプリの新規構築（2021年9月～現在）※現在実装フェーズ
 - 【キーワード】 SNS分析、Webアプリ、サーバレス
 - 【役割】 フルスタックエンジニア、インフラエンジニア、チームリード
-- 【開発フレームワーク】 Scrum、SSD、リモート
+- 【開発フレームワーク】 Scrum、SSD
 - 【言語】 CSS3 (RSCSS)、HTML5、JavaScript (ES5以上)、Python (3.x)
 - 【インフラ】 AWS
-- 【AWS】 Amplify、API Gateway、Cognito、DynamoDB、EC2(VPNサーバ)、Lambda、Step Functions、S3、SageMaker
-- 【バージョン管理】 Git
+- 【AWS】 ACM、Amplify、API Gateway、Cognitoユーザープール、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
+- 【バージョン管理】 AWS CodeCommit、Git
 - 【SSD】 OpenAPI、Responder、Swagger UI
-- 【その他】 AWS CodeCommit、ESLint、Jest、OpenVPN、Prettier、Stylelint
+- 【その他】 AWS CodeCommit、Boto3、Bootstrap、DataTables、ESLint、Flask、Jest、jQuery、OpenVPN、Prettier、Stylelint
 <br>
 
 某大手流通企業のデータマートおよびデータウェアハウスの再構築（2021年3月～8月）
