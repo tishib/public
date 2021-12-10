@@ -248,7 +248,7 @@ Hitachi Command Suite v7.9のAPIの設計と実装(2013年9月〜2014年1月)
 <br>
 
 ## サイドプロジェクト
-公共バス到着時刻 Webアプリの個人開発(2021年10月)
+公共バス到着時刻Webアプリの個人開発(2021年10月)※優秀賞
 - 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品、[アプリ紹介動画](https://m.youtube.com/watch?v=j65LiCI5G_0)
 - 【アプリURL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
 - 【役割】 フルスタックエンジニア
@@ -365,5 +365,5 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 
 ## その他 
 - GitHub：[xtaka](https://github.com/xtaka)
-- 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、本(Computer Science Distilled/はじめて読む486/電脳会議/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケットボール3x3、サイドPJ
+- 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、本(Computer Science Distilled/はじめて読む486/電脳会議/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケット3x3
 - 関心があるもの：キャリア(Individual Contributor)、テクノロジー(Service Meshアーキテクチャ/zig/Arduino IoT/OSS)、貧困児童問題、エジプト数学、Society5.0、量子情報(Q-LEAP/QII)
