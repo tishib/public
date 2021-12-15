@@ -366,5 +366,5 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 
 ## その他 
 - GitHub：[xtaka](https://github.com/xtaka)
-- 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、本(Computer Science Distilled/はじめて読む486/電脳会議/HARD THINGS)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケット3x3
+- 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケット3x3
 - 関心があるもの：キャリア(Individual Contributor)、テクノロジー(Service Meshアーキテクチャ/zig/Arduino IoT/OSS)、貧困児童問題、エジプト数学、Society5.0、量子情報(Q-LEAP/QII)
