@@ -36,7 +36,7 @@
 - 【役割】 フルスタックエンジニア、インフラエンジニア、チームリード
 - 【開発フレームワーク】 Scrum、SSD、VanillaJS、RESTful API、NoSQL
 - 【言語】 Bash、CSS3 (RSCSS)、HTML5、JavaScript (ES5以上)、Python (3.x)
-- 【規模】 フロントエンド：2k SLOC、APIサーバ：1k SLOC
+- 【規模】 フロントエンド（JS）：2k SLOC、APIサーバ（Python）：1k SLOC
 - 【インフラ】 AWS
 - 【AWS】 ACM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
 - 【バージョン管理】 AWS CodeCommit、Git
