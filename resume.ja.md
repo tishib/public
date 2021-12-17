@@ -34,9 +34,9 @@
 - 【キーワード】 ペイン分析、Webアプリ、サーバレス
 - 【概要】 チームとスケジュールの管理、開発プロセスの設計構築、アーキの設計、フロントエンドとAPIサーバの設計実装、DBの設計構築、ユーザ認証とセッション管理の設計実装、VPNサーバなどのネットワークとアプリケーションのインフラの設計実装・運用保守などを行っている。
 - 【役割】 フルスタックエンジニア、インフラエンジニア、チームリード
-- 【開発フレームワーク】 Scrum、SSD、VanillaJS、RESTful API、NoSQL
-- 【言語】 Bash、CSS3 (RSCSS)、HTML5、JavaScript (ES5以上)、Python (3.x)
-- 【規模】 フロントエンド（JS）：2k SLOC、APIサーバ（Python）：1k SLOC
+- 【開発フレームワーク】 Scrum、SSD、VanillaJS、RESTful API、NoSQL,RSCSS
+- 【言語】 Bash、CSS3、HTML5、JavaScript (ES5以上)、Python (3.x)
+- 【規模】 フロントエンド(JS)：2k SLOC、APIサーバ(Python)：1k SLOC
 - 【インフラ】 AWS
 - 【AWS】 ACM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
 - 【バージョン管理】 AWS CodeCommit、Git
