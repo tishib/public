@@ -1,8 +1,6 @@
 #### 最終更新：2021年12月
-<br><br>
 
 #### 住所：日本 東京
-<br><br>
 
 ## 概要
 社会人8年目のソフトウェアエンジニアです。現在の会社は3社目になります。
@@ -15,10 +13,11 @@
 <br>
 　直近では、ECと倉庫物流システムのリニューアルPJにおいて、ECに音声認識と画像認識を導入するためのPoC検証と設計実装、またそれらの機能を保守運用していくための業務設計、PMを担当させてもらい。
 <br>
-　また、CRMとデータマートの開発保守運用PJにおいて、セキュリティルームのような物理的な環境とシステムのインフラエンジニア、またこれらをクライアントのオンプレミス環境に実装するためのソリューション設計実装とシステム設計実装、フロントでのクライアントフェイシングを担当させてもらっています。
+　CRMとデータマートの開発保守運用PJにおいて、セキュリティルームのような物理的な環境とシステムのインフラエンジニア、またこれらをクライアントのオンプレミス環境に移行するためのソリューション設計とシステム実装、フロントでのクライアントフェイシングを担当させてもらっています。
+<br><br>
+・プライベートでは、友人のスタートアップやサイドPJにおいて、小規模なWebアプリ開発を定期的にしています。
 <br>
-・プライベートでは、友人のスタートアップやサイドPJにおいて、小規模なWebアプリ開発をしています。
-・学生時代は、スイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)とアメリカの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)において、加速器を使った素粒子分野の研究活動と、日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)と研究室の共同で、加速器に使う検出器の対放射線について研究開発をしていました。
+・学生時代は、スイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)とアメリカの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)において、加速器を使った素粒子分野の研究活動と、日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)と研究室の共同で、加速器に使う検出器の放射線耐性について研究開発をしていました。
 <br><br>
 
 ## 略歴
@@ -32,7 +31,8 @@
 | 2012年（3ヶ月）|米国エネルギー省 フェルミ国立加速器研究所（Fermilab）|
 | 2011年（3ヶ月）|欧州原子核研究機構（CERN）|
 | 2011〜2013年（24ヶ月）|筑波大学大学院　数理物質科学研究科　物理学専攻|
-<br><br>
+
+<br>
 
 ## 職務履歴
 ### Accenture PLC
@@ -264,12 +264,12 @@ Hitachi Command Suite v7.9のAPIの設計と実装(2013年9月〜2014年1月)
 - 【アプリ動画】 https://m.youtube.com/watch?v=j65LiCI5G_0
 - 【アプリURL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
 - 【役割】 Webエンジニア
-- 【規模】 LOC：2k
+- 【規模】 アプリソース：2k SLOC
 <br>
 
 音声コンテンツ共有SNS Webアプリの個人開発(2018年3月〜2019年3月)
 - 【役割】 Webエンジニア
-- 【規模】 LOC：40k
+- 【規模】 アプリソース：4k SLOC
 - 【開発フレームワーク】 RAD、Scrum
 - 【プログラミング言語】 PHP、CSS、HTML、Java、Bourne Shell、JavaScript (TypeScript/ReactJS/NodeJS)
 - 【ミドルウェア】 Erasticsearch、Flux、MuSQL、Jest、Mocha、Express、Redux
@@ -306,7 +306,7 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 
 ストリーミングWebアプリ(2015年10月〜2016年2月)
 - 【役割】 Webエンジニア
-- 【規模】 LOC：6k、PJメンバー：2人
+- 【規模】 アプリソース：6k SLOC、PJメンバー：2人
 - 【開発フレームワーク】 Scrum
 - 【プログラミング言語】 CSS、HTML、JavaScript、PHP
 - 【ミドルウェア】 Apatch、MySQL
@@ -315,7 +315,7 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 
 社内の個人Wiki横断検索Webアプリ(2015年6月〜9月)
 - 【役割】 Webエンジニア
-- 【規模】 LOC：2k、PJメンバー：3人
+- 【規模】 アプリソース：2k SLOC、PJメンバー：3人
 - 【開発フレームワーク】 Waterfall
 - 【言語】 HTML、Java
 - 【ミドルウェア】 Tomcat、TiddlyWiki
@@ -350,10 +350,10 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 |コンテナー|-|Docker、Docker Compose|
 |デザインパターン|Responsive Web Design|Progressive Web Design、Scheme|
 |その他|AWS CLI(＊)|ElasticBeansTalk CLI、Terraform、XCode、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
-<br><br>
 
+<br>
 
-## 言語
+## 語学
 - 日本語：母国語
 - 英語：日常会話〜ビジネス初級
 - 中国語：日常会話
