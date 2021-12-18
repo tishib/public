@@ -6,19 +6,9 @@
 <br><br><br>
 
 ## SUMMARY
-Highly Motivated Fullstack- Lead Software Engineer with 8 years of professional experience with Japanese, Chinese and English Communication skills.
+Highly Motivated Fullstack- Lead Software Engineer with 8 years of professional experience with Japanese, Chinese and English Communication skills. Able to Develop Integrated Management Software of Storage Area Networks for public and private sectors.
 <br>
-Able to Develop Integrated Management Software of Storage Area Networks for public and private sectors.
-<br>
-Consulting, Agile development, Data Mart construction, and Data Analysis experience used to improve DX of system operations, and mobile / web applications for corporate clients.
-<br>
-Client Facing Engineering experience in a wide range of areas (Infrastructure, UX and DX improvement, design, development, maintenance, and operations).
-<br>
-E-commerce and Warehouse Logistics System Kaizen Project Management experience.
-<br>
-Proof of Concept, Developing Voice and Image Recognition functions into E-Commerce applications.
-<br>
-Able to Lead Overall Design, maintenance, and operation of Private Cloud Infrastructure and Security Architecture.
+Consulting, Agile development, Data Mart construction, and Data Analysis experience used to improve DX of system operations, and mobile / web applications for corporate clients. Client Facing Engineering experience in a wide range of areas (Infrastructure, UX and DX improvement, design, development, maintenance, and operations). E-commerce and Warehouse Logistics System Kaizen Project Management experience. Proof of Concept, Developing Voice and Image Recognition functions into E-Commerce applications. Able to Lead Overall Design, maintenance, and operation of Private Cloud Infrastructure and Security Architecture.
 <br>
 Overseas experience with CERN (Switzerland) and Fermilab (USA) in the field of particle physics using accelerators.
 <br><br><br>
