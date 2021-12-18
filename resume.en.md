@@ -3,7 +3,7 @@
   Tokyo, JAPAN<br>
   +81-80-6791-9713 / itakaki0@gmail.com
 </p>
-<br><br>
+<br><br><br>
 
 ## SUMMARY
 Highly Motivated Fullstack- Lead Software Engineer with 8 years of professional experience with Japanese, Chinese and English Communication skills.
@@ -21,7 +21,7 @@ Proof of Concept, Developing Voice and Image Recognition functions into E-Commer
 Able to Lead Overall Design, maintenance, and operation of Private Cloud Infrastructure and Security Architecture.
 <br>
 Overseas experience with CERN (Switzerland) and Fermilab (USA) in the field of particle physics using accelerators.
-<br><br>
+<br><br><br>
 
 ## PROFESSIONAL EXPERIENCE
 ### Accenture PLC [Sep. 2018 - Present]
@@ -52,13 +52,13 @@ _Product Development Engineer / Infrastructure Engineer, Team Lead_
 - Development of JP1 v11’s AWS autoscale support function
 - Design and implementation for HCS’s v7.9’s private API
 - Implementation of HCS’s performance analysis GUI for multiprocessor blades in enterprise storage
-<br><br>
+<br><br><br>
 
 ## EDUCATION
 ### University of Tsukuba
 - Masters of Science
   - Physics
-<br><br>
+<br><br><br>
 
 ## TECHNICAL SKILLS
 - **Programming Languages:**
@@ -75,7 +75,7 @@ _Product Development Engineer / Infrastructure Engineer, Team Lead_
   - MySQL, PostgreSQL
 - **Development Frameworks:**
   - Agile, RAD, Scrum, TDD, Waterfall, SDD, XP
-<br><br>
+<br><br><br>
 
 ## GITHUB
 https://github.com/xtaka
