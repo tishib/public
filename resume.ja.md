@@ -255,12 +255,14 @@ Hitachi Command Suite v7.9のAPIの設計と実装(2013年9月〜2014年1月)
 <br>
 
 ## サイドプロジェクト
-公共バスのリアルタイム到着時刻表示アプリの個人開発(2021年10月)
-<p align="center">
-  <img src="img/20211210_odc_4th.JPG">
+公共バスのリアルタイム到着時刻表示アプリの個人開発 [優秀賞] (2021年10月)
+
+<p align="left">
+  <img src="img/20211210_odc_4th.JPG" width="500" hegith="400">
 </p>
-- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品[優秀賞]
-- 【アプリ紹介動画】 https://m.youtube.com/watch?v=j65LiCI5G_0
+
+- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品の実装
+- 【アプリ動画】 https://m.youtube.com/watch?v=j65LiCI5G_0
 - 【アプリURL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
 - 【役割】 Webエンジニア
 - 【規模】 LOC：2k
