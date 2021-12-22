@@ -36,10 +36,10 @@
 
 ## 職務履歴
 ### Accenture PLC
-某大手電気通信企業様のSNSペイン分析をするためのWebアプリのスクラッチ開発（2021年9月～現在）※現在実装フェーズ
+某大手電気通信企業様のペイン分析Webアプリのスクラッチ開発（2021年9月～現在）※現在実装フェーズ
 - 【キーワード】 SNSのペイン分析、Webアプリ、サーバレス
 - 【概要】 チームとスケジュールの管理、開発フレームワークの設計と環境構築、アプリアーキの設計、フロントエンドとAPIサーバの設計実装、DBの設計構築、ユーザ認証とセッション管理の設計実装、VPNサーバなどの開発環境とアプリのインフラの設計構築・運用保守などをしています。
-- 【役割】 Webエンジニア、インフラエンジニア、チームリード
+- 【役割】 Webエンジニア、インフラエンジニア、チームリード、PM
 - 【開発フレームワーク】 RESTful API、RSCSS、Scrum、SSD、NoSQL、VanillaJS
 - 【言語】 Bash、CSS3、HTML5、JavaScript (ES5以上)、Python (3.x)
 - 【規模】 JS：2k LOC、Python(APIサーバ)：1k LOC
@@ -47,7 +47,7 @@
 - 【AWS】 ACM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
 - 【バージョン管理】 AWS CodeCommit、Git
 - 【SSD】 OpenAPI、Responder、Swagger UI
-- 【その他】　Boto3、Bootstrap、DataTables、ElasticSearch、ESLint、Flask、Jest、jQuery、OpenVPN、Prettier、Stylelint
+- 【その他】　Boto3、Bootstrap、DataTables、ElasticSearch、ESLint、FileSaver.js、Flask、Jest、jQuery、OpenVPN、Prettier、Stylelint
 <br>
 
 某大手流通企業様のデータマートおよびデータウェアハウスの再構築（2021年3月～8月）
