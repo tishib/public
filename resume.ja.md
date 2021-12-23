@@ -42,7 +42,7 @@
 - 【役割】 Webエンジニア、インフラエンジニア、チームリード、PM
 - 【開発フレームワーク】 RESTful API、RSCSS、Scrum、SSD、NoSQL、VanillaJS
 - 【言語】 Bash、CSS3、HTML5、JavaScript (ES5以上)、Python (3.x)
-- 【規模】 JS：2k LOC、Python(APIサーバ)：1k LOC
+- 【規模】 HTML：5k LOC、JS：2k LOC、Python(APIサーバ)：1k LOC
 - 【インフラ】 AWS
 - 【AWS】 ACM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
 - 【バージョン管理】 AWS CodeCommit、Git
