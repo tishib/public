@@ -44,10 +44,10 @@
 - 【言語】 Bash、CSS3、HTML5、JavaScript (ES5以上)、Python (3.x)
 - 【規模】 HTML：5k LOC、JS：2k LOC、Python(APIサーバ)：1k LOC
 - 【インフラ】 AWS
-- 【AWS】 ACM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
+- 【AWS】 ACM、Amplify、Cognito、CloudWatch Canary、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
 - 【バージョン管理】 AWS CodeCommit、Git
 - 【SSD】 OpenAPI、Responder、Swagger UI
-- 【その他】　Boto3、Bootstrap、DataTables、ElasticSearch、ESLint、FileSaver.js、Flask、Jest、jQuery、OpenVPN、Prettier、Stylelint
+- 【その他】　Boto3、Bootstrap、DataTables、ElasticSearch、ESLint、FileSaver.js、Flask、Jest、jQuery、OpenVPN、Prettier、Stylelint、Systemd
 <br>
 
 某大手流通企業様のデータマートおよびデータウェアハウスの再構築（2021年3月～8月）
