@@ -1,4 +1,4 @@
-#### 最終更新：2021年12月
+#### 最終更新：2022年5月
 
 #### 住所：日本 東京
 
@@ -36,18 +36,17 @@
 
 ## 職務履歴
 ### Accenture PLC
-某大手電気通信企業様のペイン分析Webアプリのスクラッチ開発（2021年9月～現在）※現在実装フェーズ
-- 【キーワード】 SNSのペイン分析、Webアプリ、サーバレス
-- 【概要】 チームとスケジュールの管理、開発フレームワークの設計と環境構築、アプリアーキの設計、フロントエンドとAPIサーバの設計実装、DBの設計構築、ユーザ認証とセッション管理の設計実装、VPNサーバなどの開発環境とアプリのインフラの設計構築・運用保守などをしています。
-- 【役割】 Webエンジニア、インフラエンジニア、チームリード、PM
-- 【開発フレームワーク】 RESTful API、RSCSS、Scrum、SSD、NoSQL、VanillaJS
+某大手電気通信企業様のMLOps兼ペイン分析Webアプリの開発（2021年9月～現在）
+- 【概要】 開発メンバーとして、Twitterの投稿データを使ったペイン分析と、投稿データを自動で分類するための機械学習および学習モデルを運用するためのWebアプリケーションを設計・スクラッチ開発しました。また開発チームリードとして、メンバーのタスク管理や成果物レビュー、スケジュール管理を担当しました。
+- 【役割】 FEエンジニア、サーバサイドエンジニア、DBエンジニア、インフラエンジニア、チームリード、PM
+- 【開発フレームワーク】 VanillaJS、RSCSS、Closure、RESTful API、SSD、RDS、NoSQL、Scrum
 - 【言語】 Bash、CSS3、HTML5、JavaScript (ES5以上)、Python (3.x)
-- 【規模】 HTML：5k LOC、JS：2k LOC、Python(APIサーバ)：1k LOC
+- 【規模】 HTML：5k LOC、JS：6k LOC、Python(APIサーバ)：1.5k LOC
 - 【インフラ】 AWS
-- 【AWS】 ACM、Amplify、Cognito、CloudWatch Canary、DynamoDB、EC2(VPNサーバ/APIサーバ)、Lambda、LB、RDS、Step Functions、S3、SageMaker
-- 【バージョン管理】 AWS CodeCommit、Git
+- 【AWS】 ACM、ASM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Aurora、Step Functions、SageMaker
+- 【バージョン管理】 AWS CodeCommit、Git、Git flow
 - 【SSD】 OpenAPI、Responder、Swagger UI
-- 【その他】　Boto3、Bootstrap、DataTables、ElasticSearch、ESLint、FileSaver.js、Flask、Jest、jQuery、OpenVPN、Prettier、Stylelint、Systemd
+- 【その他】 AWS SDK for Python (Boto3)、Bootstrap、ComboTree.js、DataTables、ElasticSearch、ESLint、FileSaver.js、Flask、Moment.js、jQuery、OpenVPN、Prettier、RFC6872、Stylelint、Systemd
 <br>
 
 某大手流通企業様のデータマートおよびデータウェアハウスの再構築（2021年3月～8月）
