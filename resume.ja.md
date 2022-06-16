@@ -377,4 +377,4 @@ TOEICスコア 615
 ## その他 
 - GitHub：[xtaka](https://github.com/xtaka)
 - 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケット3x3
-- 関心があるもの：キャリア(Individual Contributor)、テクノロジー(zig/Arduino IoT/OSS/Web3.0(Sir Tim's vision))、貧困児童問題、Society5.0、量子情報(Q-LEAP/QII)
+- 関心があるもの：キャリア(Individual Contributor)、テクノロジー(zig/Arduino IoT/OSS/Web3.0(Prof. Tim's vision))、貧困児童問題、Society5.0、量子情報(Q-LEAP/QII)
