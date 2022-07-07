@@ -41,7 +41,7 @@
 - 【開発フレームワーク】 Factoryパターン、Scrum
 - 【言語】 Java、Kotlin、XML
 - 【バージョン管理】 Gerrit、Git
-- 【その他】 Android
+- 【その他】 Android、Android Studio
 <br>
 
 某大手電気通信企業様のMLOps兼ペイン分析Webアプリの開発（2021年9月～5月）
