@@ -1,8 +1,5 @@
 <h3 align="center">Takaki Ishibashi</h3>
-<p align="center">
-  Tokyo, JAPAN<br>
-  +81-80-6791-9713 / itakaki0@gmail.com
-</p>
+<p align="center">Tokyo, JAPAN</p>
 <br><br><br>
 
 ## SUMMARY
