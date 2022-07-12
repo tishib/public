@@ -5,7 +5,7 @@
 ## 概要
 社会人9年目のソフトウェアエンジニアです。現在の会社は3社目になります。
 <br>
-・1社目の日系企業では、行政と法人様向けの Storage Area Network 管理ソフトウェアのプロダクト開発をさせてもらいました。また、製品を使ってくれている自治体様の所に1年間常駐し、現地のSEチームと一緒に業務システムの開発保守運用をさせてもらいました。
+・1社目の日系企業では、行政や法人様向けの Storage Area Network 管理ソフトウェアのプロダクト開発をさせてもらいました。また、プロダクトを使ってくれている自治体様の所に1年間常駐し、現地のSEチームと一緒に業務システムの開発保守運用をさせてもらいました。
 <br>
 ・2社目の欧州系企業では、法人様のモバイルアプリとWebアプリのDX向上のためのコンサルティングとプロダクト開発、アジャイルコーチング、データマートなどの分析環境の構築をさせてもらいました。
 <br>
@@ -267,19 +267,19 @@ Hitachi Command Suite v7.9のAPIの設計と実装(2013年9月〜2014年1月)
   <img src="img/20211210_odc_4th.JPG" width="500" hegith="400">
 </p>
 
-- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品の実装
+- 【概要】 第4回東京公共交通オープンデータチャレンジの応募作品
 - 【アプリ動画】 https://m.youtube.com/watch?v=j65LiCI5G_0
 - 【アプリURL】 https://xtaka.github.io/app/IGWkYCxmpbbb/
 - 【役割】 Webエンジニア
-- 【規模】 アプリソース：2k SLOC
+- 【規模】 2k SLOC
 <br>
 
 音声コンテンツ共有SNS Webアプリの個人開発(2018年3月〜2019年3月)
 - 【役割】 Webエンジニア
-- 【規模】 アプリソース：4k SLOC
+- 【規模】 4k SLOC
 - 【開発フレームワーク】 RAD、Scrum
 - 【プログラミング言語】 PHP、CSS、HTML、Java、Bourne Shell、JavaScript (TypeScript/ReactJS/NodeJS)
-- 【ミドルウェア】 Erasticsearch、Flux、MuSQL、Jest、Mocha、Express、Redux
+- 【ミドルウェア】 Erasticsearch、Flux、MySQL、Jest、Mocha、Express、Redux
 - 【インフラ】 AWS
 - 【その他】 Docker、Docker-Compose、Webpack、loadtest、supertest
 <br>
@@ -331,7 +331,7 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 
 ## テクニカルスキルと経験年数
 (＊)：最近よく使ってるもの
-
+TODO
 | カテゴリ | 1年以上 | 1年未満 |
 |:--------|:-------|:-------|
 |OS|Amazon Linux(＊)、WSL(＊)|Android、iOS|
@@ -357,7 +357,6 @@ Seedステージの某スタートアップECサイトの決済機能の実装(2
 |コンテナー|-|Docker、Docker Compose|
 |デザインパターン|Responsive Web Design|Progressive Web Design、Scheme|
 |その他|AWS CLI(＊)|ElasticBeansTalk CLI、Terraform、XCode、YAMAHAルータ(RTX810/830)、tmux、gcc、gdb|
-
 <br>
 
 ## 語学
@@ -381,4 +380,4 @@ TOEICスコア 615
 ## その他 
 - GitHub：[xtaka](https://github.com/xtaka)
 - 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケット3x3
-- 関心があるもの：キャリア(Individual Contributor)、テクノロジー(zig/Arduino IoT/OSS/SOLID)、貧困児童問題、Society5.0、量子情報(Q-LEAP/QII)
+- 関心があるもの：キャリア系(Individual Contributor)、テクノロジー系(zig/OSS活動/SOLID)、貧困児童問題、量子情報(Q-LEAP/QII)
