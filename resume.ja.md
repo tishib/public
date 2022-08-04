@@ -382,5 +382,5 @@ TOEICスコア 615
 - 趣味：[古琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、自動二輪、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)、バスケット3x3
 - 関心があるもの：
   - Individual Contributor
-  - zig、OSS活動、SOLID、アクアポニックス、コンテナ型スモールデータセンター、量子情報(Q-LEAP/QII)
+  - Carbon、OSS活動、SOLID、アクアポニックス、コンテナ型スモールデータセンター、量子情報(Q-LEAP/QII)
   - 貧困児童問題
