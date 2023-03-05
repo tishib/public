@@ -14,7 +14,7 @@
 <br>
 ・プライベートでは、友人のスタートアップの手伝いや、小規模なWebアプリ開発を非定期的にしています。
 <br>
-・学生時代はスイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)とアメリカの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で、加速器を使った素粒子の研究活動と、日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)と共同で、次世代加速器に使う検出器の放射線耐性の研究活動に関わらせてもらいました。<br><br>
+・学生時代はスイスの[CERN](https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)とアメリカの[Fermilab](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E5%9B%BD%E7%AB%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80)で加速器を使った素粒子の研究活動と、日本の[KEK](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%A0%E9%80%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B)と共同で次世代加速器に使う検出器の放射線耐性の研究活動に関わらせてもらいました。<br><br>
 
 ## 略歴
 | 期間 | 企業・組織 |
