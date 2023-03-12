@@ -50,7 +50,7 @@
 - 【インフラ】 AWS
 - 【AWS】 ACM、ASM、Amplify、Cognito、DynamoDB、EC2(VPNサーバ/APIサーバ)、Aurora、Step Functions、SageMaker
 - 【バージョン管理】 AWS CodeCommit、Git、Git flow
-- 【SSD】 OpenAPI、Responder、Swagger UI
+- 【SDD】 OpenAPI、Responder、Swagger UI
 - 【その他】 AWS SDK for Python (Boto3)、Bootstrap、ComboTree.js、DataTables、ElasticSearch、ESLint、FileSaver.js、Flask、Moment.js、jQuery、OpenVPN、Prettier、RFC6872、Stylelint、Systemd
 <br>
 
