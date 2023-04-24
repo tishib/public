@@ -1,4 +1,4 @@
-#### 最終更新：2023年3月
+#### 最終更新：2023年4月
 
 #### 住所：日本 東京
 
@@ -35,7 +35,7 @@
 
 某衣料品企業さまのBIシステムのアーキ設計と開発保守（2023年3月～現在）
 - 【役割】チームリード、Webエンジニア(FE・BE)、システムアーキテクト
-- 【技術スタック】Java, Jenkins, Spring framework, GCP, Gradle, OOXML, TBD
+- 【技術スタック】Java, Jenkins, Spring framework, GCP, Gradle, OOXML, Groovy, flyway, MySQL, TBD
 <br>
 
 某電機メーカー様のTV組み込みアプリの開発（2022年6月～2023年3月）
