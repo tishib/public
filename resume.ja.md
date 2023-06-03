@@ -33,7 +33,7 @@
 ## 職務履歴
 ### Accenture PLC
 
-某衣料品企業さまの社内レポーティングシステムのアプリケーション開発とアプリケーションアーキの設計（2023年3月～現在）
+某衣料品企業さまの社内レポーティングシステムのアプリケーション用フレームワークの開発と設計（2023年3月～現在）
 - 【役割】チームリード、Webエンジニア(FE・BE)、サーバサイドエンジニア、アーキテクト
 - 【技術スタック】AWS, Flyway, GCP (GKE), Gradle, Groovy, Java, Jenkins, Maven, MySQL, OOXML, ReactJS, Spring Boot, Spring Framework, Stencil, TypeScript 
 <br>
