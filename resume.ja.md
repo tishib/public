@@ -33,12 +33,12 @@
 ## 職務履歴
 ### Accenture PLC
 
-某衣料品企業さまの社内レポーティングシステムのアプリケーション用フレームワークの開発と設計（2023年3月～現在）
-- 【役割】チームリード、Webエンジニア(FE・BE)、サーバサイドエンジニア、アーキテクト
-- 【技術スタック】AWS, Flyway, GCP (GKE), Gradle, Groovy, Java, Jenkins, Maven, MySQL, OOXML, ReactJS, Spring Boot, Spring Framework, Stencil, TypeScript 
+某衣料品企業さまの社内レポーティングシステムのWebアプリ開発用フレームワークの開発実装とレポート生成サービスの開発実装（2023年3月～現在）
+- 【役割】チームリード、フロントエンドエンジニア、バックエンドエンジニア、アーキテクト
+- 【技術スタック】フロントエンド：ReactJS, Stencil, TypeScript、バックエンド：Aspect of Programming, Artifactry, GCP (GKE/etc), Gradle,, JUnit, Java, Maven, MySQL, Nexus, OOXML, PostgreDB, Spring Boot, Spring Framework、その他：Flyway, Groovy, Jenkins, SonarQube
 <br>
 
-某電機メーカー様のTV組み込みアプリの開発（2022年6月～2023年3月）
+某電機メーカーさまのTVアプリの開発実装（2022年6月～2023年3月）
 - 【概要】海外の開発チームと一緒に、次期モデルのTV組み込みアプリの実装と、アプリ・バックエンド間のプロキシのアーキ設計と実装、いくつかのバグフィックスを行った。
 - 【規模】PJTメンバー：40人、年間TV販売台数：2000万台、ユーザ数：6000万人、販売リージョン：100ヵ国
 - 【役割】チームリード、アプリエンジニア、アプリアーキテクト
