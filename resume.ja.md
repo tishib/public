@@ -33,9 +33,9 @@
 ## 職務履歴
 ### Accenture PLC
 
-某衣料品企業さまの社内レポーティングシステムのWebアプリケーション開発用フレームワークの開発実装とレポート生成サービスの開発実装（2023年3月～現在）
+某衣料品企業さまの社内データ可視化システム向けのWebアプリケーション開発用フレームワークとファイル生成サービスの実装（2023年3月～現在）
 - 【役割】チームリード、フロントエンドエンジニア、バックエンドエンジニア、アーキテクト
-- 【技術スタック】フロントエンド：ReactJS, Stencil, TypeScript、バックエンド：Aspect of Programming, Artifactry, GCP (GKE/etc), Gradle,, JUnit, Java, Maven, MySQL, Nexus, OOXML, PostgreDB, Spring Boot, Spring Framework、その他：Flyway, Groovy, Jenkins, SonarQube
+- 【技術スタック】フロントエンド：ReactJS, Stencil, TypeScript、バックエンド：Aspect of Programming, Artifactry, Gradle, JUnit, Java, Maven, MySQL, Nexus, OOXML, PostgreDB, SonarQube, Spring Boot, Spring Framework、クラウド：GCP (GKE/etc)、その他：Flyway, Groovy, Jenkins
 <br>
 
 某電機メーカーさまのTV組み込みアプリケーションの開発実装（2022年6月～2023年3月）
