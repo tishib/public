@@ -58,10 +58,10 @@ _Product Development Engineer / Infrastructure Engineer, Team Lead_
   - AWS, GCP
 - **Database:**
   - DynamoDB, MySQL, PostgreSQL
-- **Development Frameworks:**
-  - Agile, AOP, RAD, Scrum, SDD, TDD, Waterfall, XP
 - **Operating Systems:**
   - Android, Linux, Ubuntu
+- **Development Frameworks:**
+  - Agile, AOP, RAD, Scrum, SDD, TDD, Waterfall, XP
 <br><br><br>
 
 ## GITHUB
