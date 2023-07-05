@@ -33,17 +33,16 @@
 ## 職務履歴
 ### Accenture PLC
 
-某衣料品企業さまの社内データ可視化システムのWebアプリ開発用フレームワークとファイル生成サービスの実装（2023年3月～現在）
+某衣料品企業さまの社内データ可視化アプリ開発用の共通フレームワークと可視化ファイル生成サービスの実装（2023年3月～現在）
 - 【役割】チームリード、フロントエンドエンジニア、バックエンドエンジニア、アーキテクト
-- 【技術スタック】フロントエンド：ReactJS, Stencil, TypeScript、バックエンド：Aspect of Programming, Artifactry, Gradle, JUnit, Java, Maven, MySQL, Nexus, OOXML, PostgreDB, Spring Boot, Spring Framework、クラウド：GCP (GKE/etc)、その他：Flyway, Groovy, Jenkins, SonarQube
+- 【技術スタック】フロントエンド：ReactJS, Stencil, TypeScript、バックエンド：AOP, Artifactry, Bash, Gradle, JUnit, Java, Maven, MySQL, Nexus, OOXML, PostgreDB, Spring Boot, Spring Framework、クラウド：GCP (GKE/etc)、その他：Flyway, Groovy, Jenkins, SonarQube
 <br>
 
-某電機メーカーさまのTV組み込みアプリケーションの開発実装（2022年6月～2023年3月）
-- 【概要】海外の開発チームと一緒に、次期モデルのTV組み込みアプリの実装と、アプリ・バックエンド間のプロキシのアーキ設計と実装、いくつかのバグフィックスを行った。
-- 【規模】PJTメンバー：40人、年間TV販売台数：2000万台、ユーザ数：6000万人、販売リージョン：100ヵ国
-- 【役割】チームリード、アプリエンジニア、アプリアーキテクト
-- 【技術スタック】Android、Android Studio、Coverity、Gerrit、Git、Gradle、Java、Jenkins、Kotlin
-- 【その他】Scrum
+某電機メーカーさまのTV組み込みアプリの実装（2022年6月～2023年3月）
+- 【概要】海外のエンジニアチームと一緒に、次期モデルのTV組み込みアプリのフロントエンドと、フロントエンド・バックエンド間のプロキシレイヤーの設計実装、バグフィックスを行った。
+- 【規模】プロジェクトメンバー：40人、TV年間販売台数：2000万台、ユーザ数：6000万人、販売リージョン：100ヵ国
+- 【役割】チームリード、Androidエンジニア、アーキテクト
+- 【技術スタック】フロントエンド：Android, Gradle, Java, Kotlin, その他：Android Studio, Coverity, Gerrit, Git, Jenkins, Scrum
 <br>
 
 某電気通信企業さまのMLOps兼ペイン分析Webアプリの開発（2021年9月～5月）
