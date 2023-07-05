@@ -52,8 +52,6 @@ _Product Development Engineer / Infrastructure Engineer, Team Lead_
 ## TECHNICAL SKILLS
 - **Frontend:**
   - Angular, Flux, flow, JavaScript, Kotlin, ReactJS, Redux,  Service Worker, TypeScript
-- **Operating Systems:**
-  - Android, Linux, Ubuntu
 - **Backend:**
   - Apatch, Bash, C, C++, Express, Go, Java, NodeJS, Nginx, PHP, Python, Tomcat, Unity
 - **Cloud Infrastructure:**
@@ -62,6 +60,8 @@ _Product Development Engineer / Infrastructure Engineer, Team Lead_
   - DynamoDB, MySQL, PostgreSQL
 - **Development Frameworks:**
   - Agile, AOP, RAD, Scrum, SDD, TDD, Waterfall, XP
+- **Operating Systems:**
+  - Android, Linux, Ubuntu
 <br><br><br>
 
 ## GITHUB
