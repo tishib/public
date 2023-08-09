@@ -387,9 +387,6 @@ TOEICスコア 615
 
 
 ## その他 
-- GitHub：[xtaka](https://github.com/xtaka)
+- GitHub：[tishib](https://github.com/tishib)
 - 趣味：[中国琴](https://www.youtube.com/watch?v=mlL4GGzxAK4)、[チャイルドスポンサーシップ(エチオピア)](https://www.worldvision.jp/childsponsor/)、[国内ひとり親家庭フードバンク](https://www.gnjp.org/work/domestic/gohan/)
-- 関心があるもの：
-  - Individual Contributor
-  - Carbon、OSS活動、Rust、SOLID、アクアポニックス、量子情報(Q-LEAP/QII)
-  - 貧困児童問題
+- 関心があるもの：Individual Contributor、Carbon、OSS活動、Rust、SOLID、アクアポニックス、量子情報(Q-LEAP/QII)、貧困児童問題
