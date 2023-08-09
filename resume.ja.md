@@ -260,7 +260,7 @@ GUI開発(2014年1月〜6月）
 <br>
 
 ミドルウェア開発(2013年9月〜2014年1月)
-‐ 【概要】 Hitachi Command Suite v7.9のAPIの設計と実装。
+- 【概要】 Hitachi Command Suite v7.9のAPIの設計と実装。
 - 【キーワード】 業務アプリ、RESTful、API、ミドルウェア
 - 【役割】 プロダクト開発エンジニア
 - 【規模】 PJメンバー：50人
