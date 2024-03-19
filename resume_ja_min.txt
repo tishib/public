@@ -19,27 +19,9 @@
 筑波大学大学院　数理物質科学研究科　物理学専攻　2013年3月卒
 
 # テクニカルスキル
-Unix-family
-Bash
-C/C＋＋
-Java
-Kotlin
-TypeScript
-JavaScript
-PostgreSQL
-InteliJ
-AWS
-GCP
-TencentCloud
-Zabbix
-Docker
-Gradle
-Spring
-Git
-JP1
-jest
-JUnit
+AWS, C, C++, GCP, Git, Gradle, InteliJ, JP1, Java, Jenkins, Kotlin, Spring Boot, Spring Framework, TencentCloud, TypeScript, Zabbix
 
 # 語学
-# 資格
-=== EOF by 38 lines ===
+- 日本語：母国語
+- 英語：CEFR A2~B1(TOEICスコア 615)
+- 中国語：CEFR A1相当(中国語検定HSK 2級)
