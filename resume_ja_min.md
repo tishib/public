@@ -1,5 +1,5 @@
-石橋　貴生<br>
-東京都　港区・www.linkedin.com/in/takaki-ishibashi-18aa2856/
+<h3 align="center">石橋　貴生</h3>
+<p align="center">東京都　港区 | www.linkedin.com/in/takaki-ishibashi-18aa2856/</p>
 
 # 業務履歴
 ## Accenture Japan (2019～現在)
