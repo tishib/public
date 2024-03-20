@@ -1,5 +1,5 @@
 <h3 align="center">Takaki Ishibashi</h3>
-<p align="center">Minato, Tokyo | www.linkedin.com/in/takaki-ishibashi-18aa2856/</p>
+<p align="center">Minato-ku, Tokyo | www.linkedin.com/in/takaki-ishibashi-18aa2856/</p>
 
 # EXPERIENCES
 ## Accenture Japan (2019-Present)
