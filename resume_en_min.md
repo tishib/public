@@ -3,6 +3,9 @@
 
 # EXPERIENCES
 ## Accenture Japan (2019 - Current)
+- As a sub-manager and backend engineer, I was responsible for client-facing interactions, new development, and maintenance/operations of a water server system used by approximately 40,000 domestic users and an unlisted stock trading service.  
+- As a system engineer, I was involved in client-facing interactions and new development for the cloud migration of a radio-related system utilized by approximately 30,000 domestic companies, previously hosted on-premises.  
+- As a backend engineer, I contributed to the new development of a hub system connecting a personal identification number system, a medical institution system, and a subsidy system, which serve approximately 900,000 domestic users.
 - As an architect and web engineer, I worked on maintaining and standardizing the development frameworks and development standards for subsystems on an MIS used by around 40,000 employees and international executives in a global and Japan 24/7. I also worked on developing these subsystems.
 - As a product development engineer and scrum master, I worked on the development of embedded apps for televisions with an annual sales volume of about 20 million units in over 100 countries. I managed an engineering team based in the Philippines.
 - As a web engineer, I developed and designed an MLOps system for model training and pain analysis used by IT department employees of clients, and managed the complete renewal of 600-page e-commerce websites, including multilingual support in English, Chinese, and Finnish, and project management. I also worked on PoC evaluation, product development, and business design for voice search features of the same e-commerce site.
