@@ -22,7 +22,7 @@
 
 # テクニカルスキル
 AWS, C++, GCP, Git, Gradle, InteliJ, JP1, Java, Jenkins, Kotlin, Shell script, PostgreSQL, Spring Boot,
-Spring Framework, TencentCloud, TypeScript, VSCode, Zabbix
+Spring Framework, TencentCloud, TypeScript, VSCode
 
 # 語学
 - 日本語：母国語
